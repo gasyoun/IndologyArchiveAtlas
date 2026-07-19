@@ -16,7 +16,7 @@ import pandas as pd
 
 DATASET_TITLE = "INDOLOGY-L Archive Atlas, 1990-2026"
 SOURCE_ARCHIVE_URL = "https://list.indology.info/pipermail/indology/"
-REPOSITORY_URL = "https://github.com/gasyoun/IndologyScholars"
+REPOSITORY_URL = "https://github.com/gasyoun/IndologyArchiveAtlas"
 LICENSE = "CC-BY-4.0"
 
 

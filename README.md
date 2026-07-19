@@ -4,7 +4,15 @@ Reproducible metadata-first analysis of the INDOLOGY mailing-list archive:
 
 https://list.indology.info/pipermail/indology/
 
-Current standalone appendix version: `0.1.0`. Version history is tracked in
+Split out of [`gasyoun/IndologyScholars`](https://github.com/gasyoun/IndologyScholars)
+on 2026-07-19 (`Indology/` there was a separate research project — the
+international INDOLOGY-L archive, not the Russian conference-programme
+dataset) so it can carry its own version history, release, and DOI. History
+before the split lives at the old path in the source repo. The main
+IndologyScholars site's Renou cross-site comparison consumes this repo's
+small `feed/` export rather than reading this tree directly.
+
+Current dataset version: `0.1.0`. Version history is tracked in
 `CHANGELOG.md`; the plain version string is stored in `VERSION` and exposed as
 `indology_archive_research.__version__`.
 
@@ -51,6 +59,10 @@ stall or fail for `list.indology.info`.
 - `data/processed/dataset_manifest.csv` - downloadable dataset index.
 - `data_dictionary.md` - plain-English documentation of table families, identifiers, review fields, and caveats.
 - `datapackage.json` - machine-readable metadata for public CSV/JSON/report/dashboard resources.
+- `feed/` - small (~5MB) copy of the Renou coverage/export/summary/message-match
+  tables, refreshed each pipeline run by `run_feed_export`. This is the only
+  part of this dataset the `IndologyScholars` site reads (via
+  `raw.githubusercontent.com`) — everything else here is one-way, consume-only.
 - `CITATION.cff` - citation metadata for `INDOLOGY-L Archive Atlas, 1990-2026`.
 - `data/processed/atlas_*.csv` - guided atlas tables for timeline, topics, list functions, people, and replies.
 - `data/processed/case_study_candidates.csv` - automatically selected thread candidates for close reading.
