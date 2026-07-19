@@ -4,7 +4,7 @@ All notable changes to the standalone INDOLOGY archive atlas appendix are tracke
 
 This project follows semantic versioning: `MAJOR.MINOR.PATCH`.
 
-## [Unreleased]
+## 0.2.0 - 2026-07-19
 
 ### Added
 
