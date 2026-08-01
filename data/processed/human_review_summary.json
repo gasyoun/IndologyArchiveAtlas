@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-01",
-  "row_count": 1921,
+  "generated_at": "2026-08-01",
+  "row_count": 1922,
   "by_domain": {
-    "author_normalization": 888,
+    "author_normalization": 889,
     "case_study_review": 250,
     "count_mismatch": 8,
     "first_review_shortlist": 25,
@@ -10,7 +10,7 @@
     "reply_network": 500
   },
   "by_priority": {
-    "high": 913,
+    "high": 914,
     "low": 250,
     "medium": 758
   },

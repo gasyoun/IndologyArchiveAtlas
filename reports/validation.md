@@ -2,12 +2,12 @@
 
 ## Coverage
 
-- Months harvested: 426
+- Months harvested: 427
 - First harvested month: 1990-11
-- Last harvested month: 2026-06
-- Messages parsed: 62,115
-- Cleaned message rows: 62,115
-- Threads reconstructed: 24,034
+- Last harvested month: 2026-07
+- Messages parsed: 62,214
+- Cleaned message rows: 62,214
+- Threads reconstructed: 24,075
 
 ## Count Checks
 
@@ -43,12 +43,12 @@
 
 | topic | messages |
 | --- | --- |
-| General scholarly discussion | 45546 |
-| Announcements and events | 2792 |
-| Bibliographic requests | 2592 |
-| History and culture | 2587 |
-| Digital resources and tools | 2447 |
-| Texts and philology | 1954 |
+| General scholarly discussion | 45617 |
+| Announcements and events | 2798 |
+| Bibliographic requests | 2599 |
+| History and culture | 2591 |
+| Digital resources and tools | 2448 |
+| Texts and philology | 1964 |
 | Veda and ritual | 1394 |
 | Grammar and linguistics | 1001 |
 | Manuscripts and epigraphy | 991 |
@@ -75,26 +75,26 @@
 
 ## Author Normalization
 
-- Raw author strings audited: 3,283
-- Author strings needing review: 888
+- Raw author strings audited: 3,285
+- Author strings needing review: 889
 
 | status | raw_author_strings |
 | --- | --- |
-| confirmed | 2262 |
-| needs_review | 888 |
+| confirmed | 2263 |
+| needs_review | 889 |
 | inferred | 131 |
 | excluded | 2 |
 
 ## Directed Reply Network
 
-- Directed reply rows: 42,743
-- Resolved directed replies: 37,097
+- Directed reply rows: 42,808
+- Resolved directed replies: 37,159
 
 | confidence | reply_rows |
 | --- | --- |
-| thread_inferred | 22907 |
-| exact_in_reply_to | 14078 |
-| unresolved | 5646 |
+| thread_inferred | 22910 |
+| exact_in_reply_to | 14137 |
+| unresolved | 5649 |
 | references_chain | 112 |
 
 ## Guided Atlas Layers
@@ -104,27 +104,41 @@
 | atlas_timeline.csv | 37 |
 | atlas_topic_profiles.csv | 12 |
 | atlas_list_functions.csv | 44 |
-| atlas_people_summary.csv | 3150 |
+| atlas_people_summary.csv | 3152 |
 | atlas_reply_summary.csv | 4 |
 | case_study_candidates.csv | 250 |
+
+## Insight Layers
+
+| table | rows |
+| --- | --- |
+| reply_confidence_year_counts.csv | 94 |
+| topic_decade_share.csv | 48 |
+| list_function_decade_share.csv | 44 |
+| thread_typology.csv | 24075 |
+| case_score_components.csv | 250 |
+| review_queue_summary.csv | 6 |
+| author_participation_cohorts.csv | 15 |
+
+- Insight figures generated: 7
 
 ## Renou State/Register Layer
 
 | table | rows | exists |
 | --- | --- | --- |
-| renou_messages.csv | 62115 | yes |
-| renou_message_matches.csv | 9110 | yes |
-| renou_thread_matches.csv | 3307 | yes |
-| renou_state_summary.csv | 581 | yes |
-| renou_register_summary.csv | 935 | yes |
+| renou_messages.csv | 62214 | yes |
+| renou_message_matches.csv | 9128 | yes |
+| renou_thread_matches.csv | 3314 | yes |
+| renou_state_summary.csv | 582 | yes |
+| renou_register_summary.csv | 939 | yes |
 | renou_coverage.csv | 2 | yes |
 | renou_export_index.csv | 75 | yes |
 | renou_subject_rules.csv | 25 | yes |
 
 | scope | total_rows | matched_rows | matched_percent | source_url |
 | --- | --- | --- | --- | --- |
-| messages | 62115 | 6217 | 10.01 | https://github.com/gasyoun/SanskritLexicography/blob/master/RussianTranslation/RENOU.md |
-| threads | 24034 | 3307 | 13.76 | https://github.com/gasyoun/SanskritLexicography/blob/master/RussianTranslation/RENOU.md |
+| messages | 62214 | 6226 | 10.01 | https://github.com/gasyoun/SanskritLexicography/blob/master/RussianTranslation/RENOU.md |
+| threads | 24075 | 3314 | 13.77 | https://github.com/gasyoun/SanskritLexicography/blob/master/RussianTranslation/RENOU.md |
 
 ## Thread Explorer
 
@@ -153,9 +167,9 @@
 
 | packet | rows | exists |
 | --- | --- | --- |
-| case_review_queue_philological.csv | 37 | yes |
+| case_review_queue_philological.csv | 36 | yes |
 | case_review_queue_infrastructure.csv | 16 | yes |
-| case_review_queue_unassigned.csv | 197 | yes |
+| case_review_queue_unassigned.csv | 198 | yes |
 - Review packet rows total: 250/250
 
 - First review shortlist rows: 25
@@ -168,13 +182,13 @@
 
 | suggested_track | rows |
 | --- | --- |
-| (unassigned) | 197 |
-| philological_substance | 37 |
+| (unassigned) | 198 |
+| philological_substance | 36 |
 | infrastructure_history | 16 |
 
 | curation_status | effective_track | case_type | thread_count |
 | --- | --- | --- | --- |
-| candidate |  | general discussion | 186 |
+| candidate |  | general discussion | 187 |
 | candidate |  | announcement | 3 |
 | candidate |  | bibliographic rescue | 3 |
 | candidate |  | debate/controversy | 3 |
@@ -184,7 +198,7 @@
 | candidate | infrastructure_history | general discussion | 6 |
 | candidate | infrastructure_history | bibliographic rescue | 2 |
 | candidate | infrastructure_history | philological debate | 2 |
-| candidate | philological_substance | identification/help request | 15 |
+| candidate | philological_substance | identification/help request | 14 |
 | candidate | philological_substance | general discussion | 13 |
 | candidate | philological_substance | philological debate | 7 |
 | candidate | philological_substance | philological discussion | 2 |
@@ -193,8 +207,8 @@
 
 | table | rows | expected_network_type | type_ok | has_self_reply_flag |
 | --- | --- | --- | --- | --- |
-| named_reply_network_summary.csv | 24546 | direct_reply | True | True |
-| named_coparticipation_network_summary.csv | 47103 | co_participation | True |  |
+| named_reply_network_summary.csv | 24591 | direct_reply | True | True |
+| named_coparticipation_network_summary.csv | 47166 | co_participation | True |  |
 
 ## Static Search And Browse
 
@@ -203,24 +217,24 @@
 | file | exists | valid_json_rows |
 | --- | --- | --- |
 | search_threads.json | yes | 250 |
-| search_authors.json | yes | 3150 |
+| search_authors.json | yes | 3152 |
 | search_topics.json | yes | 12 |
-| search_messages_sample.json | yes | 4066 |
+| search_messages_sample.json | yes | 4068 |
 
 - Thread search rows with local page or public archive fallback: 250/250
 - Thread search rows whose curation status matches `curated_case_studies.csv`: 250/250
 
-- Author search rows with topic-count facets: 3,150/3,150
-- Author search rows with list-function facets: 3,150/3,150
+- Author search rows with topic-count facets: 3,152/3,152
+- Author search rows with list-function facets: 3,152/3,152
 
 ## Publication Metadata Layer
 
 - Data dictionary generated: yes
 - Datapackage generated: yes
-- Datapackage resources listed: 138
+- Datapackage resources listed: 145
 - Datapackage resources with missing local paths: 0
 - Citation metadata generated: yes
-- Unified human review index rows: 1,921
+- Unified human review index rows: 1,922
 - Human review summary generated: yes
 - Interpretive guardrails rows: 7
 - Interpretive guardrails report generated: yes

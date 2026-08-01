@@ -1,30 +1,30 @@
 [
   {
     "normalized_author": "Dominik Wujastyk",
-    "message_count": "3413",
-    "thread_count": "2766",
+    "message_count": "3416",
+    "thread_count": "2769",
     "first_year": "1990",
     "last_year": "2026",
     "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (2335); Digital resources and tools (245); Announcements and events (187); History and culture (180); Bibliographic requests (124); Manuscripts and epigraphy (113); Texts and philology (98); Veda and ritual (46); Grammar and linguistics (38); Buddhism and Jainism (21); List administration (17); Teaching and pedagogy (9)",
+    "topic_counts": "General scholarly discussion (2338); Digital resources and tools (245); Announcements and events (187); History and culture (180); Bibliographic requests (124); Manuscripts and epigraphy (113); Texts and philology (98); Veda and ritual (46); Grammar and linguistics (38); Buddhism and Jainism (21); List administration (17); Teaching and pedagogy (9)",
     "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (2528); digital resource/tool (244); philological discussion (165); identification/help request (135); announcement/event (126); job/position (82); bibliographic request (68); debate/controversy (27); list administration (19); obituary/memorial (11); technical support (8)",
-    "resolved_replies_sent": "1939",
+    "list_function_counts": "general discussion (2530); digital resource/tool (244); philological discussion (165); identification/help request (136); announcement/event (126); job/position (82); bibliographic request (68); debate/controversy (27); list administration (19); obituary/memorial (11); technical support (8)",
+    "resolved_replies_sent": "1942",
     "resolved_replies_received": "1520",
     "author_status": "confirmed"
   },
   {
     "normalized_author": "Madhav Deshpande",
-    "message_count": "1888",
-    "thread_count": "1107",
+    "message_count": "1894",
+    "thread_count": "1111",
     "first_year": "1994",
     "last_year": "2026",
     "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (1550); Digital resources and tools (62); Bibliographic requests (49); Grammar and linguistics (47); Announcements and events (46); Veda and ritual (36); History and culture (32); Texts and philology (32); Buddhism and Jainism (17); Manuscripts and epigraphy (13); List administration (2); Teaching and pedagogy (2)",
+    "topic_counts": "General scholarly discussion (1556); Digital resources and tools (62); Bibliographic requests (49); Grammar and linguistics (47); Announcements and events (46); Veda and ritual (36); History and culture (32); Texts and philology (32); Buddhism and Jainism (17); Manuscripts and epigraphy (13); List administration (2); Teaching and pedagogy (2)",
     "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (1482); identification/help request (143); philological discussion (98); digital resource/tool (62); announcement/event (30); bibliographic request (27); job/position (21); debate/controversy (13); obituary/memorial (9); list administration (2); technical support (1)",
-    "resolved_replies_sent": "1390",
-    "resolved_replies_received": "1415",
+    "list_function_counts": "general discussion (1487); identification/help request (143); philological discussion (98); digital resource/tool (62); announcement/event (31); bibliographic request (27); job/position (21); debate/controversy (13); obituary/memorial (9); list administration (2); technical support (1)",
+    "resolved_replies_sent": "1394",
+    "resolved_replies_received": "1419",
     "author_status": "confirmed"
   },
   {
@@ -43,16 +43,16 @@
   },
   {
     "normalized_author": "Harry Spier",
-    "message_count": "1045",
-    "thread_count": "647",
+    "message_count": "1049",
+    "thread_count": "651",
     "first_year": "1999",
     "last_year": "2026",
     "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (594); Digital resources and tools (173); Bibliographic requests (90); Texts and philology (62); Grammar and linguistics (42); Manuscripts and epigraphy (37); Veda and ritual (33); History and culture (12); Announcements and events (1); Teaching and pedagogy (1)",
+    "topic_counts": "General scholarly discussion (596); Digital resources and tools (174); Bibliographic requests (90); Texts and philology (63); Grammar and linguistics (42); Manuscripts and epigraphy (37); Veda and ritual (33); History and culture (12); Announcements and events (1); Teaching and pedagogy (1)",
     "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (626); digital resource/tool (172); philological discussion (134); identification/help request (59); bibliographic request (44); debate/controversy (5); announcement/event (3); obituary/memorial (2)",
-    "resolved_replies_sent": "591",
-    "resolved_replies_received": "926",
+    "list_function_counts": "general discussion (629); digital resource/tool (173); philological discussion (134); identification/help request (59); bibliographic request (44); debate/controversy (5); announcement/event (3); obituary/memorial (2)",
+    "resolved_replies_sent": "593",
+    "resolved_replies_received": "928",
     "author_status": "confirmed"
   },
   {
@@ -71,16 +71,30 @@
   },
   {
     "normalized_author": "Matthew Kapstein",
-    "message_count": "805",
-    "thread_count": "578",
+    "message_count": "806",
+    "thread_count": "579",
     "first_year": "2001",
     "last_year": "2026",
     "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (602); Bibliographic requests (61); Texts and philology (29); History and culture (27); Manuscripts and epigraphy (23); Digital resources and tools (16); Announcements and events (15); Grammar and linguistics (13); Veda and ritual (9); Buddhism and Jainism (6); List administration (2); Teaching and pedagogy (2)",
+    "topic_counts": "General scholarly discussion (602); Bibliographic requests (61); Texts and philology (30); History and culture (27); Manuscripts and epigraphy (23); Digital resources and tools (16); Announcements and events (15); Grammar and linguistics (13); Veda and ritual (9); Buddhism and Jainism (6); List administration (2); Teaching and pedagogy (2)",
     "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (586); identification/help request (79); bibliographic request (48); philological discussion (46); announcement/event (18); digital resource/tool (16); job/position (6); debate/controversy (3); list administration (2); obituary/memorial (1)",
-    "resolved_replies_sent": "625",
-    "resolved_replies_received": "588",
+    "list_function_counts": "general discussion (586); identification/help request (79); bibliographic request (48); philological discussion (47); announcement/event (18); digital resource/tool (16); job/position (6); debate/controversy (3); list administration (2); obituary/memorial (1)",
+    "resolved_replies_sent": "626",
+    "resolved_replies_received": "589",
+    "author_status": "confirmed"
+  },
+  {
+    "normalized_author": "Sudalaimuthu Palaniappan",
+    "message_count": "786",
+    "thread_count": "516",
+    "first_year": "1997",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (628); History and culture (45); Texts and philology (22); Bibliographic requests (20); Veda and ritual (14); Announcements and events (13); Digital resources and tools (13); Grammar and linguistics (12); Manuscripts and epigraphy (8); Buddhism and Jainism (7); List administration (3); Teaching and pedagogy (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (659); identification/help request (47); philological discussion (34); announcement/event (13); bibliographic request (12); digital resource/tool (9); debate/controversy (5); job/position (3); list administration (3); obituary/memorial (1)",
+    "resolved_replies_sent": "471",
+    "resolved_replies_received": "635",
     "author_status": "confirmed"
   },
   {
@@ -95,20 +109,6 @@
     "list_function_counts": "general discussion (664); philological discussion (35); identification/help request (34); job/position (14); digital resource/tool (13); debate/controversy (11); announcement/event (6); obituary/memorial (4); bibliographic request (2); technical support (1)",
     "resolved_replies_sent": "612",
     "resolved_replies_received": "249",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "Sudalaimuthu Palaniappan",
-    "message_count": "782",
-    "thread_count": "513",
-    "first_year": "1997",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (625); History and culture (45); Texts and philology (22); Bibliographic requests (19); Veda and ritual (14); Announcements and events (13); Digital resources and tools (13); Grammar and linguistics (12); Manuscripts and epigraphy (8); Buddhism and Jainism (7); List administration (3); Teaching and pedagogy (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (656); identification/help request (46); philological discussion (34); announcement/event (13); bibliographic request (12); digital resource/tool (9); debate/controversy (5); job/position (3); list administration (3); obituary/memorial (1)",
-    "resolved_replies_sent": "468",
-    "resolved_replies_received": "631",
     "author_status": "confirmed"
   },
   {
@@ -127,16 +127,16 @@
   },
   {
     "normalized_author": "Jonathan Silk",
-    "message_count": "600",
-    "thread_count": "487",
+    "message_count": "602",
+    "thread_count": "489",
     "first_year": "1997",
     "last_year": "2026",
     "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (446); Bibliographic requests (41); Announcements and events (24); Digital resources and tools (22); Texts and philology (21); History and culture (18); Manuscripts and epigraphy (18); Veda and ritual (5); Buddhism and Jainism (2); Grammar and linguistics (2); List administration (1)",
+    "topic_counts": "General scholarly discussion (448); Bibliographic requests (41); Announcements and events (24); Digital resources and tools (22); Texts and philology (21); History and culture (18); Manuscripts and epigraphy (18); Veda and ritual (5); Buddhism and Jainism (2); Grammar and linguistics (2); List administration (1)",
     "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (448); identification/help request (31); philological discussion (30); bibliographic request (29); digital resource/tool (22); job/position (17); announcement/event (12); obituary/memorial (5); debate/controversy (4); list administration (1); technical support (1)",
-    "resolved_replies_sent": "343",
-    "resolved_replies_received": "515",
+    "list_function_counts": "general discussion (450); identification/help request (31); philological discussion (30); bibliographic request (29); digital resource/tool (22); job/position (17); announcement/event (12); obituary/memorial (5); debate/controversy (4); list administration (1); technical support (1)",
+    "resolved_replies_sent": "345",
+    "resolved_replies_received": "516",
     "author_status": "confirmed"
   },
   {
@@ -155,30 +155,30 @@
   },
   {
     "normalized_author": "Jan E.M. Houben",
-    "message_count": "559",
-    "thread_count": "437",
+    "message_count": "561",
+    "thread_count": "438",
     "first_year": "1997",
     "last_year": "2026",
     "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (404); Grammar and linguistics (28); Announcements and events (25); Bibliographic requests (24); History and culture (21); Veda and ritual (20); Texts and philology (16); Digital resources and tools (11); Manuscripts and epigraphy (6); Buddhism and Jainism (4)",
+    "topic_counts": "General scholarly discussion (406); Grammar and linguistics (28); Announcements and events (25); Bibliographic requests (24); History and culture (21); Veda and ritual (20); Texts and philology (16); Digital resources and tools (11); Manuscripts and epigraphy (6); Buddhism and Jainism (4)",
     "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (425); philological discussion (50); announcement/event (34); bibliographic request (15); identification/help request (12); digital resource/tool (10); job/position (7); obituary/memorial (5); debate/controversy (1)",
-    "resolved_replies_sent": "320",
-    "resolved_replies_received": "376",
+    "list_function_counts": "general discussion (427); philological discussion (50); announcement/event (34); bibliographic request (15); identification/help request (12); digital resource/tool (10); job/position (7); obituary/memorial (5); debate/controversy (1)",
+    "resolved_replies_sent": "321",
+    "resolved_replies_received": "380",
     "author_status": "confirmed"
   },
   {
     "normalized_author": "Christophe Vielle",
-    "message_count": "553",
-    "thread_count": "444",
+    "message_count": "554",
+    "thread_count": "445",
     "first_year": "2002",
     "last_year": "2026",
     "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (379); Bibliographic requests (39); Announcements and events (27); History and culture (24); Texts and philology (24); Digital resources and tools (22); Manuscripts and epigraphy (16); Veda and ritual (11); Grammar and linguistics (5); Buddhism and Jainism (3); Teaching and pedagogy (2); List administration (1)",
+    "topic_counts": "General scholarly discussion (380); Bibliographic requests (39); Announcements and events (27); History and culture (24); Texts and philology (24); Digital resources and tools (22); Manuscripts and epigraphy (16); Veda and ritual (11); Grammar and linguistics (5); Buddhism and Jainism (3); Teaching and pedagogy (2); List administration (1)",
     "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (398); identification/help request (36); philological discussion (33); bibliographic request (28); digital resource/tool (22); announcement/event (21); job/position (8); debate/controversy (3); obituary/memorial (3); list administration (1)",
-    "resolved_replies_sent": "368",
-    "resolved_replies_received": "303",
+    "list_function_counts": "general discussion (399); identification/help request (36); philological discussion (33); bibliographic request (28); digital resource/tool (22); announcement/event (21); job/position (8); debate/controversy (3); obituary/memorial (3); list administration (1)",
+    "resolved_replies_sent": "369",
+    "resolved_replies_received": "304",
     "author_status": "confirmed"
   },
   {
@@ -267,15 +267,15 @@
   },
   {
     "normalized_author": "Martin Gansten",
-    "message_count": "380",
-    "thread_count": "216",
+    "message_count": "381",
+    "thread_count": "217",
     "first_year": "1997",
     "last_year": "2026",
     "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (296); History and culture (27); Grammar and linguistics (20); Veda and ritual (9); Digital resources and tools (7); Manuscripts and epigraphy (7); Texts and philology (6); Bibliographic requests (5); Announcements and events (3)",
+    "topic_counts": "General scholarly discussion (297); History and culture (27); Grammar and linguistics (20); Veda and ritual (9); Digital resources and tools (7); Manuscripts and epigraphy (7); Texts and philology (6); Bibliographic requests (5); Announcements and events (3)",
     "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (309); philological discussion (31); identification/help request (29); digital resource/tool (5); announcement/event (2); technical support (2); job/position (1); obituary/memorial (1)",
-    "resolved_replies_sent": "257",
+    "list_function_counts": "general discussion (310); philological discussion (31); identification/help request (29); digital resource/tool (5); announcement/event (2); technical support (2); job/position (1); obituary/memorial (1)",
+    "resolved_replies_sent": "258",
     "resolved_replies_received": "326",
     "author_status": "confirmed"
   },
@@ -323,16 +323,16 @@
   },
   {
     "normalized_author": "Patrick Olivelle",
-    "message_count": "320",
-    "thread_count": "252",
+    "message_count": "323",
+    "thread_count": "254",
     "first_year": "2001",
     "last_year": "2026",
     "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (251); Digital resources and tools (17); History and culture (14); Manuscripts and epigraphy (9); Bibliographic requests (8); Veda and ritual (7); Announcements and events (5); Texts and philology (4); Grammar and linguistics (3); Buddhism and Jainism (1); Teaching and pedagogy (1)",
+    "topic_counts": "General scholarly discussion (253); Digital resources and tools (17); History and culture (14); Manuscripts and epigraphy (9); Bibliographic requests (8); Veda and ritual (7); Announcements and events (6); Texts and philology (4); Grammar and linguistics (3); Buddhism and Jainism (1); Teaching and pedagogy (1)",
     "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (213); identification/help request (62); digital resource/tool (17); philological discussion (16); job/position (4); announcement/event (3); obituary/memorial (3); bibliographic request (2)",
-    "resolved_replies_sent": "168",
-    "resolved_replies_received": "340",
+    "list_function_counts": "general discussion (215); identification/help request (62); digital resource/tool (17); philological discussion (16); job/position (5); announcement/event (3); obituary/memorial (3); bibliographic request (2)",
+    "resolved_replies_sent": "169",
+    "resolved_replies_received": "343",
     "author_status": "confirmed"
   },
   {
@@ -392,6 +392,20 @@
     "author_status": "confirmed"
   },
   {
+    "normalized_author": "Jean-Luc Chevillard",
+    "message_count": "282",
+    "thread_count": "214",
+    "first_year": "1996",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (218); Announcements and events (13); Bibliographic requests (12); Digital resources and tools (10); Manuscripts and epigraphy (8); History and culture (6); Texts and philology (6); Veda and ritual (4); Buddhism and Jainism (3); Grammar and linguistics (1); List administration (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (219); identification/help request (16); announcement/event (13); philological discussion (11); digital resource/tool (10); bibliographic request (5); job/position (4); obituary/memorial (3); list administration (1)",
+    "resolved_replies_sent": "192",
+    "resolved_replies_received": "130",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "DEVARAKONDA VENKATA NARAYANA SARMA",
     "message_count": "282",
     "thread_count": "174",
@@ -406,31 +420,17 @@
     "author_status": "confirmed"
   },
   {
-    "normalized_author": "Jean-Luc Chevillard",
-    "message_count": "280",
-    "thread_count": "213",
-    "first_year": "1996",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (216); Announcements and events (13); Bibliographic requests (12); Digital resources and tools (10); Manuscripts and epigraphy (8); History and culture (6); Texts and philology (6); Veda and ritual (4); Buddhism and Jainism (3); Grammar and linguistics (1); List administration (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (217); identification/help request (16); announcement/event (13); philological discussion (11); digital resource/tool (10); bibliographic request (5); job/position (4); obituary/memorial (3); list administration (1)",
-    "resolved_replies_sent": "190",
-    "resolved_replies_received": "129",
-    "author_status": "confirmed"
-  },
-  {
     "normalized_author": "David and Nancy Reigle",
-    "message_count": "273",
-    "thread_count": "173",
+    "message_count": "274",
+    "thread_count": "174",
     "first_year": "2015",
     "last_year": "2026",
     "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (178); Texts and philology (24); Bibliographic requests (21); Veda and ritual (17); Digital resources and tools (10); Manuscripts and epigraphy (9); Announcements and events (6); History and culture (6); Buddhism and Jainism (1); Grammar and linguistics (1)",
+    "topic_counts": "General scholarly discussion (178); Texts and philology (25); Bibliographic requests (21); Veda and ritual (17); Digital resources and tools (10); Manuscripts and epigraphy (9); Announcements and events (6); History and culture (6); Buddhism and Jainism (1); Grammar and linguistics (1)",
     "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (187); philological discussion (38); identification/help request (17); announcement/event (10); bibliographic request (10); digital resource/tool (10); job/position (1)",
-    "resolved_replies_sent": "228",
-    "resolved_replies_received": "202",
+    "list_function_counts": "general discussion (187); philological discussion (39); identification/help request (17); announcement/event (10); bibliographic request (10); digital resource/tool (10); job/position (1)",
+    "resolved_replies_sent": "229",
+    "resolved_replies_received": "203",
     "author_status": "confirmed"
   },
   {
@@ -532,6 +532,20 @@
     "author_status": "confirmed"
   },
   {
+    "normalized_author": "McComas Taylor",
+    "message_count": "233",
+    "thread_count": "223",
+    "first_year": "2003",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (146); Announcements and events (38); Digital resources and tools (9); Texts and philology (9); Veda and ritual (8); History and culture (7); Teaching and pedagogy (5); Grammar and linguistics (4); Manuscripts and epigraphy (4); Bibliographic requests (3)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (154); announcement/event (35); identification/help request (21); digital resource/tool (8); philological discussion (8); job/position (4); obituary/memorial (2); bibliographic request (1)",
+    "resolved_replies_sent": "63",
+    "resolved_replies_received": "88",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "Dan Lusthaus",
     "message_count": "233",
     "thread_count": "166",
@@ -543,20 +557,6 @@
     "list_function_counts": "general discussion (178); identification/help request (22); digital resource/tool (11); philological discussion (11); bibliographic request (6); announcement/event (5)",
     "resolved_replies_sent": "208",
     "resolved_replies_received": "141",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "McComas Taylor",
-    "message_count": "231",
-    "thread_count": "221",
-    "first_year": "2003",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (144); Announcements and events (38); Digital resources and tools (9); Texts and philology (9); Veda and ritual (8); History and culture (7); Teaching and pedagogy (5); Grammar and linguistics (4); Manuscripts and epigraphy (4); Bibliographic requests (3)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (154); announcement/event (35); identification/help request (19); digital resource/tool (8); philological discussion (8); job/position (4); obituary/memorial (2); bibliographic request (1)",
-    "resolved_replies_sent": "63",
-    "resolved_replies_received": "87",
     "author_status": "confirmed"
   },
   {
@@ -575,16 +575,16 @@
   },
   {
     "normalized_author": "Roland Steiner",
-    "message_count": "224",
-    "thread_count": "185",
+    "message_count": "226",
+    "thread_count": "187",
     "first_year": "1997",
     "last_year": "2026",
     "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (176); Texts and philology (14); Digital resources and tools (8); Announcements and events (5); Bibliographic requests (5); Manuscripts and epigraphy (5); Grammar and linguistics (4); History and culture (4); Veda and ritual (3)",
+    "topic_counts": "General scholarly discussion (177); Texts and philology (14); Digital resources and tools (8); Announcements and events (5); Bibliographic requests (5); History and culture (5); Manuscripts and epigraphy (5); Grammar and linguistics (4); Veda and ritual (3)",
     "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (182); philological discussion (19); digital resource/tool (8); announcement/event (7); identification/help request (6); job/position (1); obituary/memorial (1)",
-    "resolved_replies_sent": "177",
-    "resolved_replies_received": "83",
+    "list_function_counts": "general discussion (184); philological discussion (19); digital resource/tool (8); announcement/event (7); identification/help request (6); job/position (1); obituary/memorial (1)",
+    "resolved_replies_sent": "179",
+    "resolved_replies_received": "84",
     "author_status": "confirmed"
   },
   {
@@ -848,9 +848,23 @@
     "top_topic": "General scholarly discussion",
     "topic_counts": "General scholarly discussion (135); Bibliographic requests (10); History and culture (6); Veda and ritual (6); Announcements and events (3); Manuscripts and epigraphy (3); Texts and philology (3); Digital resources and tools (2); Grammar and linguistics (1)",
     "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (131); identification/help request (18); philological discussion (7); bibliographic request (5); announcement/event (2); digital resource/tool (2); job/position (2); obituary/memorial (2)",
-    "resolved_replies_sent": "135",
-    "resolved_replies_received": "101",
+    "list_function_counts": "general discussion (130); identification/help request (18); philological discussion (8); bibliographic request (5); announcement/event (2); digital resource/tool (2); job/position (2); obituary/memorial (2)",
+    "resolved_replies_sent": "134",
+    "resolved_replies_received": "100",
+    "author_status": "confirmed"
+  },
+  {
+    "normalized_author": "Lubomír Ondračka",
+    "message_count": "168",
+    "thread_count": "143",
+    "first_year": "2017",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (122); Bibliographic requests (21); Texts and philology (8); Veda and ritual (5); Digital resources and tools (4); Announcements and events (2); Buddhism and Jainism (2); History and culture (2); List administration (1); Manuscripts and epigraphy (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (120); identification/help request (19); bibliographic request (12); philological discussion (8); digital resource/tool (4); obituary/memorial (2); announcement/event (1); job/position (1); list administration (1)",
+    "resolved_replies_sent": "158",
+    "resolved_replies_received": "86",
     "author_status": "confirmed"
   },
   {
@@ -879,20 +893,6 @@
     "list_function_counts": "general discussion (143); identification/help request (16); philological discussion (4); digital resource/tool (2); announcement/event (1); list administration (1)",
     "resolved_replies_sent": "121",
     "resolved_replies_received": "52",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "Lubomír Ondračka",
-    "message_count": "167",
-    "thread_count": "142",
-    "first_year": "2017",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (122); Bibliographic requests (20); Texts and philology (8); Veda and ritual (5); Digital resources and tools (4); Announcements and events (2); Buddhism and Jainism (2); History and culture (2); List administration (1); Manuscripts and epigraphy (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (120); identification/help request (19); bibliographic request (11); philological discussion (8); digital resource/tool (4); obituary/memorial (2); announcement/event (1); job/position (1); list administration (1)",
-    "resolved_replies_sent": "157",
-    "resolved_replies_received": "85",
     "author_status": "confirmed"
   },
   {
@@ -1093,30 +1093,30 @@
   },
   {
     "normalized_author": "Rolf Heinrich Koch",
-    "message_count": "132",
-    "thread_count": "106",
+    "message_count": "133",
+    "thread_count": "107",
     "first_year": "1997",
     "last_year": "2026",
     "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (112); Digital resources and tools (4); Manuscripts and epigraphy (4); Bibliographic requests (3); Buddhism and Jainism (3); Grammar and linguistics (2); History and culture (2); Texts and philology (1); Veda and ritual (1)",
+    "topic_counts": "General scholarly discussion (113); Digital resources and tools (4); Manuscripts and epigraphy (4); Bibliographic requests (3); Buddhism and Jainism (3); Grammar and linguistics (2); History and culture (2); Texts and philology (1); Veda and ritual (1)",
     "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (113); identification/help request (10); digital resource/tool (4); philological discussion (4); announcement/event (1)",
-    "resolved_replies_sent": "81",
-    "resolved_replies_received": "93",
+    "list_function_counts": "general discussion (114); identification/help request (10); digital resource/tool (4); philological discussion (4); announcement/event (1)",
+    "resolved_replies_sent": "82",
+    "resolved_replies_received": "94",
     "author_status": "confirmed"
   },
   {
     "normalized_author": "Antonia Ruppel",
-    "message_count": "131",
-    "thread_count": "96",
+    "message_count": "132",
+    "thread_count": "97",
     "first_year": "2014",
     "last_year": "2026",
     "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (97); Digital resources and tools (9); Bibliographic requests (7); Texts and philology (6); Announcements and events (5); Grammar and linguistics (2); History and culture (2); Buddhism and Jainism (1); Manuscripts and epigraphy (1); Veda and ritual (1)",
+    "topic_counts": "General scholarly discussion (98); Digital resources and tools (9); Bibliographic requests (7); Texts and philology (6); Announcements and events (5); Grammar and linguistics (2); History and culture (2); Buddhism and Jainism (1); Manuscripts and epigraphy (1); Veda and ritual (1)",
     "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (103); digital resource/tool (9); philological discussion (9); announcement/event (4); bibliographic request (4); identification/help request (1); job/position (1)",
-    "resolved_replies_sent": "95",
-    "resolved_replies_received": "126",
+    "list_function_counts": "general discussion (104); digital resource/tool (9); philological discussion (9); announcement/event (4); bibliographic request (4); identification/help request (1); job/position (1)",
+    "resolved_replies_sent": "96",
+    "resolved_replies_received": "127",
     "author_status": "confirmed"
   },
   {
@@ -1162,6 +1162,20 @@
     "author_status": "confirmed"
   },
   {
+    "normalized_author": "Tieken, H.J.H. (Herman)",
+    "message_count": "123",
+    "thread_count": "97",
+    "first_year": "2021",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (103); Bibliographic requests (14); Digital resources and tools (3); Texts and philology (2); Buddhism and Jainism (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (94); bibliographic request (10); identification/help request (10); philological discussion (4); digital resource/tool (3); announcement/event (2)",
+    "resolved_replies_sent": "47",
+    "resolved_replies_received": "78",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "Anshuman Pandey",
     "message_count": "121",
     "thread_count": "109",
@@ -1173,20 +1187,6 @@
     "list_function_counts": "general discussion (103); digital resource/tool (7); identification/help request (7); philological discussion (3); announcement/event (1)",
     "resolved_replies_sent": "45",
     "resolved_replies_received": "110",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "Tieken, H.J.H. (Herman)",
-    "message_count": "120",
-    "thread_count": "94",
-    "first_year": "2021",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (100); Bibliographic requests (14); Digital resources and tools (3); Texts and philology (2); Buddhism and Jainism (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (92); bibliographic request (10); identification/help request (10); digital resource/tool (3); philological discussion (3); announcement/event (2)",
-    "resolved_replies_sent": "47",
-    "resolved_replies_received": "77",
     "author_status": "confirmed"
   },
   {
@@ -1414,6 +1414,20 @@
     "author_status": "confirmed"
   },
   {
+    "normalized_author": "Peter Flugel",
+    "message_count": "107",
+    "thread_count": "99",
+    "first_year": "1998",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (41); Announcements and events (26); Buddhism and Jainism (26); Digital resources and tools (6); Bibliographic requests (2); Texts and philology (2); Grammar and linguistics (1); History and culture (1); Teaching and pedagogy (1); Veda and ritual (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (68); announcement/event (24); digital resource/tool (6); job/position (3); philological discussion (3); identification/help request (2); obituary/memorial (1)",
+    "resolved_replies_sent": "21",
+    "resolved_replies_received": "25",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "nas_ng at lms420.jsc.nasa.gov",
     "message_count": "106",
     "thread_count": "103",
@@ -1426,20 +1440,6 @@
     "resolved_replies_sent": "15",
     "resolved_replies_received": "78",
     "author_status": "needs_review"
-  },
-  {
-    "normalized_author": "Peter Flugel",
-    "message_count": "106",
-    "thread_count": "98",
-    "first_year": "1998",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (41); Buddhism and Jainism (26); Announcements and events (25); Digital resources and tools (6); Bibliographic requests (2); Texts and philology (2); Grammar and linguistics (1); History and culture (1); Teaching and pedagogy (1); Veda and ritual (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (68); announcement/event (23); digital resource/tool (6); job/position (3); philological discussion (3); identification/help request (2); obituary/memorial (1)",
-    "resolved_replies_sent": "21",
-    "resolved_replies_received": "25",
-    "author_status": "confirmed"
   },
   {
     "normalized_author": "Lakshmi Srinivas",
@@ -1597,15 +1597,15 @@
   },
   {
     "normalized_author": "Eli Franco",
-    "message_count": "98",
-    "thread_count": "84",
+    "message_count": "99",
+    "thread_count": "85",
     "first_year": "2006",
     "last_year": "2026",
     "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (79); Announcements and events (8); Bibliographic requests (5); Digital resources and tools (2); History and culture (2); Texts and philology (2)",
+    "topic_counts": "General scholarly discussion (80); Announcements and events (8); Bibliographic requests (5); Digital resources and tools (2); History and culture (2); Texts and philology (2)",
     "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (73); announcement/event (7); bibliographic request (5); job/position (5); identification/help request (4); digital resource/tool (2); philological discussion (2)",
-    "resolved_replies_sent": "89",
+    "list_function_counts": "general discussion (74); announcement/event (7); bibliographic request (5); job/position (5); identification/help request (4); digital resource/tool (2); philological discussion (2)",
+    "resolved_replies_sent": "90",
     "resolved_replies_received": "40",
     "author_status": "confirmed"
   },
@@ -1932,6 +1932,20 @@
     "author_status": "confirmed"
   },
   {
+    "normalized_author": "Ananya Vajpeyi",
+    "message_count": "80",
+    "thread_count": "69",
+    "first_year": "2015",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (69); History and culture (3); Texts and philology (3); Announcements and events (2); Bibliographic requests (2); Grammar and linguistics (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (61); identification/help request (10); announcement/event (3); debate/controversy (3); philological discussion (3)",
+    "resolved_replies_sent": "51",
+    "resolved_replies_received": "52",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "bpj at netg.se",
     "message_count": "80",
     "thread_count": "55",
@@ -1944,20 +1958,6 @@
     "resolved_replies_sent": "65",
     "resolved_replies_received": "36",
     "author_status": "needs_review"
-  },
-  {
-    "normalized_author": "Ananya Vajpeyi",
-    "message_count": "79",
-    "thread_count": "68",
-    "first_year": "2015",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (69); History and culture (3); Announcements and events (2); Bibliographic requests (2); Texts and philology (2); Grammar and linguistics (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (61); identification/help request (10); announcement/event (3); debate/controversy (3); philological discussion (2)",
-    "resolved_replies_sent": "50",
-    "resolved_replies_received": "52",
-    "author_status": "confirmed"
   },
   {
     "normalized_author": "Kenneth Zysk",
@@ -2156,6 +2156,20 @@
     "author_status": "confirmed"
   },
   {
+    "normalized_author": "Raffaele Torella",
+    "message_count": "72",
+    "thread_count": "56",
+    "first_year": "1997",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (58); Bibliographic requests (5); Announcements and events (2); Digital resources and tools (2); History and culture (2); Veda and ritual (2); Manuscripts and epigraphy (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (56); announcement/event (4); identification/help request (4); obituary/memorial (3); digital resource/tool (2); bibliographic request (1); job/position (1); philological discussion (1)",
+    "resolved_replies_sent": "56",
+    "resolved_replies_received": "41",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "Robert J. Zydenbos",
     "message_count": "72",
     "thread_count": "53",
@@ -2195,20 +2209,6 @@
     "list_function_counts": "general discussion (54); philological discussion (7); digital resource/tool (3); identification/help request (3); announcement/event (1); bibliographic request (1); job/position (1); obituary/memorial (1)",
     "resolved_replies_sent": "38",
     "resolved_replies_received": "72",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "Raffaele Torella",
-    "message_count": "71",
-    "thread_count": "55",
-    "first_year": "1997",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (57); Bibliographic requests (5); Announcements and events (2); Digital resources and tools (2); History and culture (2); Veda and ritual (2); Manuscripts and epigraphy (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (55); announcement/event (4); identification/help request (4); obituary/memorial (3); digital resource/tool (2); bibliographic request (1); job/position (1); philological discussion (1)",
-    "resolved_replies_sent": "55",
-    "resolved_replies_received": "40",
     "author_status": "confirmed"
   },
   {
@@ -2562,6 +2562,20 @@
     "author_status": "confirmed"
   },
   {
+    "normalized_author": "Adriano Aprigliano",
+    "message_count": "64",
+    "thread_count": "45",
+    "first_year": "2010",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (35); Grammar and linguistics (10); Digital resources and tools (6); Bibliographic requests (4); Texts and philology (4); Announcements and events (3); History and culture (1); Teaching and pedagogy (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (36); philological discussion (14); digital resource/tool (6); bibliographic request (4); announcement/event (2); identification/help request (1); job/position (1)",
+    "resolved_replies_sent": "26",
+    "resolved_replies_received": "43",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "Dean Anderson",
     "message_count": "64",
     "thread_count": "39",
@@ -2604,17 +2618,17 @@
     "author_status": "confirmed"
   },
   {
-    "normalized_author": "Adriano Aprigliano",
+    "normalized_author": "Shrikant Bahulkar",
     "message_count": "63",
-    "thread_count": "44",
-    "first_year": "2010",
+    "thread_count": "49",
+    "first_year": "1998",
     "last_year": "2026",
     "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (35); Grammar and linguistics (10); Digital resources and tools (6); Bibliographic requests (4); Announcements and events (3); Texts and philology (3); History and culture (1); Teaching and pedagogy (1)",
+    "topic_counts": "General scholarly discussion (52); Digital resources and tools (3); Bibliographic requests (2); Announcements and events (1); Buddhism and Jainism (1); Grammar and linguistics (1); Manuscripts and epigraphy (1); Texts and philology (1); Veda and ritual (1)",
     "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (36); philological discussion (13); digital resource/tool (6); bibliographic request (4); announcement/event (2); identification/help request (1); job/position (1)",
-    "resolved_replies_sent": "26",
-    "resolved_replies_received": "43",
+    "list_function_counts": "general discussion (41); identification/help request (5); philological discussion (5); announcement/event (4); digital resource/tool (3); bibliographic request (2); obituary/memorial (2); job/position (1)",
+    "resolved_replies_sent": "52",
+    "resolved_replies_received": "50",
     "author_status": "confirmed"
   },
   {
@@ -2672,20 +2686,6 @@
     "resolved_replies_sent": "11",
     "resolved_replies_received": "27",
     "author_status": "needs_review"
-  },
-  {
-    "normalized_author": "Shrikant Bahulkar",
-    "message_count": "60",
-    "thread_count": "48",
-    "first_year": "1998",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (49); Digital resources and tools (3); Bibliographic requests (2); Announcements and events (1); Buddhism and Jainism (1); Grammar and linguistics (1); Manuscripts and epigraphy (1); Texts and philology (1); Veda and ritual (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (41); identification/help request (5); philological discussion (5); digital resource/tool (3); bibliographic request (2); obituary/memorial (2); announcement/event (1); job/position (1)",
-    "resolved_replies_sent": "50",
-    "resolved_replies_received": "46",
-    "author_status": "confirmed"
   },
   {
     "normalized_author": "Erik Hoogcarspel",
@@ -3192,6 +3192,20 @@
     "author_status": "confirmed"
   },
   {
+    "normalized_author": "Ram-Prasad, Chakravarthi",
+    "message_count": "51",
+    "thread_count": "42",
+    "first_year": "2014",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (40); Bibliographic requests (4); Announcements and events (3); Digital resources and tools (1); History and culture (1); Teaching and pedagogy (1); Texts and philology (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (37); identification/help request (6); debate/controversy (2); job/position (2); announcement/event (1); bibliographic request (1); digital resource/tool (1); philological discussion (1)",
+    "resolved_replies_sent": "24",
+    "resolved_replies_received": "35",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "Ramakrishnan Balasubramanian",
     "message_count": "51",
     "thread_count": "40",
@@ -3203,6 +3217,20 @@
     "list_function_counts": "general discussion (43); digital resource/tool (3); identification/help request (3); philological discussion (2)",
     "resolved_replies_sent": "37",
     "resolved_replies_received": "96",
+    "author_status": "confirmed"
+  },
+  {
+    "normalized_author": "Robert Leach",
+    "message_count": "51",
+    "thread_count": "37",
+    "first_year": "2012",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (47); Buddhism and Jainism (1); Digital resources and tools (1); History and culture (1); Manuscripts and epigraphy (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (48); digital resource/tool (1); identification/help request (1); philological discussion (1)",
+    "resolved_replies_sent": "22",
+    "resolved_replies_received": "28",
     "author_status": "confirmed"
   },
   {
@@ -3231,6 +3259,20 @@
     "list_function_counts": "general discussion (29); announcement/event (11); debate/controversy (3); philological discussion (3); identification/help request (2); bibliographic request (1); job/position (1)",
     "resolved_replies_sent": "25",
     "resolved_replies_received": "39",
+    "author_status": "confirmed"
+  },
+  {
+    "normalized_author": "Tyler Neill",
+    "message_count": "50",
+    "thread_count": "45",
+    "first_year": "2017",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (31); Digital resources and tools (12); Texts and philology (3); Bibliographic requests (2); Grammar and linguistics (1); History and culture (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (30); digital resource/tool (11); identification/help request (4); philological discussion (3); bibliographic request (2)",
+    "resolved_replies_sent": "21",
+    "resolved_replies_received": "32",
     "author_status": "confirmed"
   },
   {
@@ -3318,20 +3360,6 @@
     "author_status": "needs_review"
   },
   {
-    "normalized_author": "Robert Leach",
-    "message_count": "49",
-    "thread_count": "36",
-    "first_year": "2012",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (45); Buddhism and Jainism (1); Digital resources and tools (1); History and culture (1); Manuscripts and epigraphy (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (46); digital resource/tool (1); identification/help request (1); philological discussion (1)",
-    "resolved_replies_sent": "20",
-    "resolved_replies_received": "28",
-    "author_status": "confirmed"
-  },
-  {
     "normalized_author": "Paul K. Manansala",
     "message_count": "49",
     "thread_count": "21",
@@ -3374,20 +3402,6 @@
     "author_status": "needs_review"
   },
   {
-    "normalized_author": "Ram-Prasad, Chakravarthi",
-    "message_count": "48",
-    "thread_count": "40",
-    "first_year": "2014",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (37); Bibliographic requests (4); Announcements and events (3); Digital resources and tools (1); History and culture (1); Teaching and pedagogy (1); Texts and philology (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (35); identification/help request (5); debate/controversy (2); job/position (2); announcement/event (1); bibliographic request (1); digital resource/tool (1); philological discussion (1)",
-    "resolved_replies_sent": "23",
-    "resolved_replies_received": "33",
-    "author_status": "confirmed"
-  },
-  {
     "normalized_author": "Christian K. Wedemeyer",
     "message_count": "47",
     "thread_count": "43",
@@ -3399,20 +3413,6 @@
     "list_function_counts": "general discussion (28); job/position (7); digital resource/tool (4); identification/help request (3); philological discussion (3); announcement/event (2)",
     "resolved_replies_sent": "15",
     "resolved_replies_received": "26",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "Tyler Neill",
-    "message_count": "47",
-    "thread_count": "42",
-    "first_year": "2017",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (29); Digital resources and tools (12); Bibliographic requests (2); Texts and philology (2); Grammar and linguistics (1); History and culture (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (27); digital resource/tool (11); identification/help request (4); philological discussion (3); bibliographic request (2)",
-    "resolved_replies_sent": "19",
-    "resolved_replies_received": "31",
     "author_status": "confirmed"
   },
   {
@@ -3612,6 +3612,20 @@
     "author_status": "needs_review"
   },
   {
+    "normalized_author": "Tracy Coleman",
+    "message_count": "44",
+    "thread_count": "36",
+    "first_year": "2008",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (34); Texts and philology (4); Bibliographic requests (3); Announcements and events (2); History and culture (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (35); bibliographic request (3); philological discussion (3); announcement/event (1); identification/help request (1); job/position (1)",
+    "resolved_replies_sent": "33",
+    "resolved_replies_received": "43",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "Agathe Keller",
     "message_count": "44",
     "thread_count": "33",
@@ -3724,20 +3738,6 @@
     "author_status": "confirmed"
   },
   {
-    "normalized_author": "Tracy Coleman",
-    "message_count": "43",
-    "thread_count": "35",
-    "first_year": "2008",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (33); Texts and philology (4); Bibliographic requests (3); Announcements and events (2); History and culture (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (34); bibliographic request (3); philological discussion (3); announcement/event (1); identification/help request (1); job/position (1)",
-    "resolved_replies_sent": "32",
-    "resolved_replies_received": "43",
-    "author_status": "confirmed"
-  },
-  {
     "normalized_author": "Plamen Gradinarov",
     "message_count": "43",
     "thread_count": "32",
@@ -3763,6 +3763,20 @@
     "list_function_counts": "general discussion (30); philological discussion (7); digital resource/tool (3); identification/help request (2); job/position (1)",
     "resolved_replies_sent": "37",
     "resolved_replies_received": "13",
+    "author_status": "confirmed"
+  },
+  {
+    "normalized_author": "Dániel Balogh",
+    "message_count": "43",
+    "thread_count": "30",
+    "first_year": "2015",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (35); Digital resources and tools (3); Manuscripts and epigraphy (3); History and culture (2)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (37); digital resource/tool (3); identification/help request (3)",
+    "resolved_replies_sent": "41",
+    "resolved_replies_received": "35",
     "author_status": "confirmed"
   },
   {
@@ -3847,20 +3861,6 @@
     "list_function_counts": "general discussion (32); philological discussion (3); identification/help request (2); job/position (2); bibliographic request (1); debate/controversy (1); digital resource/tool (1)",
     "resolved_replies_sent": "27",
     "resolved_replies_received": "5",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "Dániel Balogh",
-    "message_count": "42",
-    "thread_count": "29",
-    "first_year": "2015",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (34); Digital resources and tools (3); Manuscripts and epigraphy (3); History and culture (2)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (36); digital resource/tool (3); identification/help request (3)",
-    "resolved_replies_sent": "40",
-    "resolved_replies_received": "33",
     "author_status": "confirmed"
   },
   {
@@ -4060,6 +4060,20 @@
     "author_status": "confirmed"
   },
   {
+    "normalized_author": "diwakar acharya",
+    "message_count": "39",
+    "thread_count": "39",
+    "first_year": "2001",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (23); Announcements and events (5); History and culture (3); Bibliographic requests (2); Texts and philology (2); Buddhism and Jainism (1); Digital resources and tools (1); Manuscripts and epigraphy (1); Teaching and pedagogy (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (27); job/position (6); identification/help request (3); philological discussion (2); digital resource/tool (1)",
+    "resolved_replies_sent": "25",
+    "resolved_replies_received": "10",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "Birendra Nath Prasad",
     "message_count": "39",
     "thread_count": "36",
@@ -4102,6 +4116,20 @@
     "author_status": "confirmed"
   },
   {
+    "normalized_author": "Caley Smith",
+    "message_count": "39",
+    "thread_count": "29",
+    "first_year": "2019",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (23); Veda and ritual (9); Grammar and linguistics (2); Texts and philology (2); Bibliographic requests (1); History and culture (1); List administration (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (34); philological discussion (3); identification/help request (1); list administration (1)",
+    "resolved_replies_sent": "33",
+    "resolved_replies_received": "32",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "Partha Banerjee",
     "message_count": "39",
     "thread_count": "24",
@@ -4127,20 +4155,6 @@
     "list_function_counts": "general discussion (32); identification/help request (4); philological discussion (2); digital resource/tool (1)",
     "resolved_replies_sent": "28",
     "resolved_replies_received": "12",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "diwakar acharya",
-    "message_count": "38",
-    "thread_count": "38",
-    "first_year": "2001",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (22); Announcements and events (5); History and culture (3); Bibliographic requests (2); Texts and philology (2); Buddhism and Jainism (1); Digital resources and tools (1); Manuscripts and epigraphy (1); Teaching and pedagogy (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (26); job/position (6); identification/help request (3); philological discussion (2); digital resource/tool (1)",
-    "resolved_replies_sent": "24",
-    "resolved_replies_received": "10",
     "author_status": "confirmed"
   },
   {
@@ -4225,20 +4239,6 @@
     "list_function_counts": "general discussion (31); announcement/event (3); digital resource/tool (2); identification/help request (1); philological discussion (1)",
     "resolved_replies_sent": "13",
     "resolved_replies_received": "7",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "Caley Smith",
-    "message_count": "38",
-    "thread_count": "28",
-    "first_year": "2019",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (22); Veda and ritual (9); Grammar and linguistics (2); Texts and philology (2); Bibliographic requests (1); History and culture (1); List administration (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (33); philological discussion (3); identification/help request (1); list administration (1)",
-    "resolved_replies_sent": "32",
-    "resolved_replies_received": "31",
     "author_status": "confirmed"
   },
   {
@@ -4662,6 +4662,20 @@
     "author_status": "confirmed"
   },
   {
+    "normalized_author": "Csaba Dezso",
+    "message_count": "34",
+    "thread_count": "31",
+    "first_year": "2003",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (30); Announcements and events (2); History and culture (1); List administration (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (30); announcement/event (2); identification/help request (1); list administration (1)",
+    "resolved_replies_sent": "20",
+    "resolved_replies_received": "11",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "Francois Voegeli",
     "message_count": "34",
     "thread_count": "31",
@@ -4841,20 +4855,6 @@
     "list_function_counts": "general discussion (29); philological discussion (3); announcement/event (1)",
     "resolved_replies_sent": "9",
     "resolved_replies_received": "8",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "Csaba Dezso",
-    "message_count": "33",
-    "thread_count": "30",
-    "first_year": "2003",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (29); Announcements and events (2); History and culture (1); List administration (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (29); announcement/event (2); identification/help request (1); list administration (1)",
-    "resolved_replies_sent": "20",
-    "resolved_replies_received": "11",
     "author_status": "confirmed"
   },
   {
@@ -5110,6 +5110,20 @@
     "author_status": "confirmed"
   },
   {
+    "normalized_author": "Дмитрий Комиссаров",
+    "message_count": "32",
+    "thread_count": "20",
+    "first_year": "2024",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (25); Bibliographic requests (3); History and culture (2); Manuscripts and epigraphy (2)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (26); identification/help request (4); philological discussion (2)",
+    "resolved_replies_sent": "19",
+    "resolved_replies_received": "22",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "GRUENENDAHL",
     "message_count": "31",
     "thread_count": "28",
@@ -5163,6 +5177,20 @@
     "list_function_counts": "general discussion (25); bibliographic request (2); identification/help request (2); digital resource/tool (1); philological discussion (1)",
     "resolved_replies_sent": "24",
     "resolved_replies_received": "21",
+    "author_status": "confirmed"
+  },
+  {
+    "normalized_author": "Fitzgerald, James",
+    "message_count": "31",
+    "thread_count": "25",
+    "first_year": "2009",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (21); Bibliographic requests (3); Announcements and events (2); Digital resources and tools (2); Texts and philology (2); Veda and ritual (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (21); bibliographic request (2); digital resource/tool (2); identification/help request (2); job/position (2); philological discussion (2)",
+    "resolved_replies_sent": "23",
+    "resolved_replies_received": "10",
     "author_status": "confirmed"
   },
   {
@@ -5387,20 +5415,6 @@
     "list_function_counts": "general discussion (25); announcement/event (2); philological discussion (2); identification/help request (1)",
     "resolved_replies_sent": "12",
     "resolved_replies_received": "31",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "Дмитрий Комиссаров",
-    "message_count": "30",
-    "thread_count": "19",
-    "first_year": "2024",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (25); Bibliographic requests (3); Manuscripts and epigraphy (2)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (24); identification/help request (4); philological discussion (2)",
-    "resolved_replies_sent": "18",
-    "resolved_replies_received": "21",
     "author_status": "confirmed"
   },
   {
@@ -6146,6 +6160,20 @@
     "author_status": "needs_review"
   },
   {
+    "normalized_author": "Paolo E. Rosati",
+    "message_count": "26",
+    "thread_count": "20",
+    "first_year": "2022",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (12); Bibliographic requests (10); Announcements and events (2); Buddhism and Jainism (1); History and culture (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (19); bibliographic request (3); announcement/event (2); identification/help request (2)",
+    "resolved_replies_sent": "9",
+    "resolved_replies_received": "16",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "jmdelire",
     "message_count": "26",
     "thread_count": "20",
@@ -6158,6 +6186,20 @@
     "resolved_replies_sent": "25",
     "resolved_replies_received": "25",
     "author_status": "needs_review"
+  },
+  {
+    "normalized_author": "Arjuna S R",
+    "message_count": "25",
+    "thread_count": "25",
+    "first_year": "2016",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (12); Announcements and events (9); Bibliographic requests (2); Digital resources and tools (2)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (13); announcement/event (7); digital resource/tool (2); job/position (2); bibliographic request (1)",
+    "resolved_replies_sent": "8",
+    "resolved_replies_received": "5",
+    "author_status": "confirmed"
   },
   {
     "normalized_author": "Pankaj Sukanraj Jain पंकज सुकनराज जैन",
@@ -6270,20 +6312,6 @@
     "resolved_replies_sent": "18",
     "resolved_replies_received": "14",
     "author_status": "needs_review"
-  },
-  {
-    "normalized_author": "Fitzgerald, James",
-    "message_count": "25",
-    "thread_count": "22",
-    "first_year": "2009",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (17); Bibliographic requests (3); Announcements and events (2); Digital resources and tools (2); Veda and ritual (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (17); bibliographic request (2); digital resource/tool (2); identification/help request (2); job/position (2)",
-    "resolved_replies_sent": "18",
-    "resolved_replies_received": "5",
-    "author_status": "confirmed"
   },
   {
     "normalized_author": "Karin.Preisendanz",
@@ -6426,20 +6454,6 @@
     "author_status": "confirmed"
   },
   {
-    "normalized_author": "Paolo E. Rosati",
-    "message_count": "25",
-    "thread_count": "19",
-    "first_year": "2022",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (11); Bibliographic requests (10); Announcements and events (2); Buddhism and Jainism (1); History and culture (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (18); bibliographic request (3); announcement/event (2); identification/help request (2)",
-    "resolved_replies_sent": "8",
-    "resolved_replies_received": "15",
-    "author_status": "confirmed"
-  },
-  {
     "normalized_author": "V.C.Vijayaraghavan",
     "message_count": "25",
     "thread_count": "7",
@@ -6452,20 +6466,6 @@
     "resolved_replies_sent": "25",
     "resolved_replies_received": "0",
     "author_status": "needs_review"
-  },
-  {
-    "normalized_author": "Arjuna S R",
-    "message_count": "24",
-    "thread_count": "24",
-    "first_year": "2016",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (12); Announcements and events (8); Bibliographic requests (2); Digital resources and tools (2)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (13); announcement/event (6); digital resource/tool (2); job/position (2); bibliographic request (1)",
-    "resolved_replies_sent": "8",
-    "resolved_replies_received": "5",
-    "author_status": "confirmed"
   },
   {
     "normalized_author": "David Pierdominici",
@@ -6632,7 +6632,7 @@
     "top_list_function": "general discussion",
     "list_function_counts": "general discussion (16); digital resource/tool (5); announcement/event (2); philological discussion (1)",
     "resolved_replies_sent": "13",
-    "resolved_replies_received": "12",
+    "resolved_replies_received": "13",
     "author_status": "confirmed"
   },
   {
@@ -6871,6 +6871,20 @@
     "list_function_counts": "general discussion (18); philological discussion (3); announcement/event (2)",
     "resolved_replies_sent": "11",
     "resolved_replies_received": "14",
+    "author_status": "confirmed"
+  },
+  {
+    "normalized_author": "KORN Agnes",
+    "message_count": "23",
+    "thread_count": "18",
+    "first_year": "2019",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (18); Bibliographic requests (2); Veda and ritual (2); Digital resources and tools (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (18); debate/controversy (2); bibliographic request (1); digital resource/tool (1); philological discussion (1)",
+    "resolved_replies_sent": "21",
+    "resolved_replies_received": "15",
     "author_status": "confirmed"
   },
   {
@@ -7138,20 +7152,6 @@
     "resolved_replies_sent": "17",
     "resolved_replies_received": "9",
     "author_status": "needs_review"
-  },
-  {
-    "normalized_author": "KORN Agnes",
-    "message_count": "22",
-    "thread_count": "17",
-    "first_year": "2019",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (18); Veda and ritual (2); Bibliographic requests (1); Digital resources and tools (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (18); debate/controversy (2); digital resource/tool (1); philological discussion (1)",
-    "resolved_replies_sent": "20",
-    "resolved_replies_received": "15",
-    "author_status": "confirmed"
   },
   {
     "normalized_author": "Allen, Michael S (msa2b)",
@@ -8302,6 +8302,20 @@
     "author_status": "confirmed"
   },
   {
+    "normalized_author": "Lauren Bausch",
+    "message_count": "18",
+    "thread_count": "18",
+    "first_year": "2016",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (13); Bibliographic requests (3); Announcements and events (1); Texts and philology (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (13); announcement/event (2); bibliographic request (2); philological discussion (1)",
+    "resolved_replies_sent": "13",
+    "resolved_replies_received": "4",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "Sfauthor at aol.com",
     "message_count": "18",
     "thread_count": "18",
@@ -8482,6 +8496,34 @@
     "resolved_replies_sent": "13",
     "resolved_replies_received": "5",
     "author_status": "needs_review"
+  },
+  {
+    "normalized_author": "Pranav Prakash",
+    "message_count": "18",
+    "thread_count": "15",
+    "first_year": "2023",
+    "last_year": "2026",
+    "top_topic": "Announcements and events",
+    "topic_counts": "Announcements and events (7); General scholarly discussion (5); History and culture (4); List administration (1); Texts and philology (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (9); announcement/event (7); list administration (1); philological discussion (1)",
+    "resolved_replies_sent": "3",
+    "resolved_replies_received": "4",
+    "author_status": "confirmed"
+  },
+  {
+    "normalized_author": "Samuel Grimes",
+    "message_count": "18",
+    "thread_count": "15",
+    "first_year": "2020",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (11); Digital resources and tools (3); Texts and philology (2); Announcements and events (1); Bibliographic requests (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (9); digital resource/tool (3); identification/help request (2); philological discussion (2); announcement/event (1); bibliographic request (1)",
+    "resolved_replies_sent": "12",
+    "resolved_replies_received": "8",
+    "author_status": "confirmed"
   },
   {
     "normalized_author": "David Rustin Mellins",
@@ -8750,34 +8792,6 @@
     "author_status": "needs_review"
   },
   {
-    "normalized_author": "Pranav Prakash",
-    "message_count": "17",
-    "thread_count": "14",
-    "first_year": "2023",
-    "last_year": "2025",
-    "top_topic": "Announcements and events",
-    "topic_counts": "Announcements and events (7); General scholarly discussion (5); History and culture (4); List administration (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (9); announcement/event (7); list administration (1)",
-    "resolved_replies_sent": "3",
-    "resolved_replies_received": "4",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "Samuel Grimes",
-    "message_count": "17",
-    "thread_count": "14",
-    "first_year": "2020",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (10); Digital resources and tools (3); Texts and philology (2); Announcements and events (1); Bibliographic requests (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (8); digital resource/tool (3); identification/help request (2); philological discussion (2); announcement/event (1); bibliographic request (1)",
-    "resolved_replies_sent": "11",
-    "resolved_replies_received": "8",
-    "author_status": "confirmed"
-  },
-  {
     "normalized_author": "Tony K. Stewart",
     "message_count": "17",
     "thread_count": "14",
@@ -8890,20 +8904,6 @@
     "author_status": "confirmed"
   },
   {
-    "normalized_author": "Lauren Bausch",
-    "message_count": "16",
-    "thread_count": "16",
-    "first_year": "2016",
-    "last_year": "2025",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (12); Bibliographic requests (3); Announcements and events (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (13); bibliographic request (2); announcement/event (1)",
-    "resolved_replies_sent": "12",
-    "resolved_replies_received": "3",
-    "author_status": "confirmed"
-  },
-  {
     "normalized_author": "Michaels, Prof. Dr. Axel",
     "message_count": "16",
     "thread_count": "16",
@@ -8943,6 +8943,20 @@
     "list_function_counts": "general discussion (11); announcement/event (3); identification/help request (1); philological discussion (1)",
     "resolved_replies_sent": "3",
     "resolved_replies_received": "6",
+    "author_status": "confirmed"
+  },
+  {
+    "normalized_author": "Rastelli, Marion",
+    "message_count": "16",
+    "thread_count": "16",
+    "first_year": "2011",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (9); Bibliographic requests (2); History and culture (2); Announcements and events (1); Texts and philology (1); Veda and ritual (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (10); announcement/event (3); bibliographic request (1); debate/controversy (1); philological discussion (1)",
+    "resolved_replies_sent": "4",
+    "resolved_replies_received": "15",
     "author_status": "confirmed"
   },
   {
@@ -9307,20 +9321,6 @@
     "list_function_counts": "general discussion (13); announcement/event (1); technical support (1)",
     "resolved_replies_sent": "9",
     "resolved_replies_received": "4",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "Rastelli, Marion",
-    "message_count": "15",
-    "thread_count": "15",
-    "first_year": "2011",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (9); Bibliographic requests (2); Announcements and events (1); History and culture (1); Texts and philology (1); Veda and ritual (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (9); announcement/event (3); bibliographic request (1); debate/controversy (1); philological discussion (1)",
-    "resolved_replies_sent": "3",
-    "resolved_replies_received": "13",
     "author_status": "confirmed"
   },
   {
@@ -10472,6 +10472,20 @@
     "author_status": "needs_review"
   },
   {
+    "normalized_author": "Gautama Vajracharya",
+    "message_count": "12",
+    "thread_count": "12",
+    "first_year": "1997",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (11); Texts and philology (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (11); philological discussion (1)",
+    "resolved_replies_sent": "3",
+    "resolved_replies_received": "3",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "Heike Moser",
     "message_count": "12",
     "thread_count": "12",
@@ -11015,20 +11029,6 @@
     "list_function_counts": "general discussion (7); identification/help request (3); announcement/event (1)",
     "resolved_replies_sent": "7",
     "resolved_replies_received": "6",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "Gautama Vajracharya",
-    "message_count": "11",
-    "thread_count": "11",
-    "first_year": "1997",
-    "last_year": "2011",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (10); Texts and philology (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (10); philological discussion (1)",
-    "resolved_replies_sent": "3",
-    "resolved_replies_received": "3",
     "author_status": "confirmed"
   },
   {
@@ -12250,6 +12250,20 @@
     "author_status": "needs_review"
   },
   {
+    "normalized_author": "Daniela Bevilacqua",
+    "message_count": "10",
+    "thread_count": "8",
+    "first_year": "2024",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (7); Announcements and events (3)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (7); announcement/event (3)",
+    "resolved_replies_sent": "2",
+    "resolved_replies_received": "4",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "G.J. Meulenbeld",
     "message_count": "10",
     "thread_count": "8",
@@ -12430,6 +12444,20 @@
     "resolved_replies_sent": "10",
     "resolved_replies_received": "0",
     "author_status": "needs_review"
+  },
+  {
+    "normalized_author": "Paul Thomas",
+    "message_count": "10",
+    "thread_count": "6",
+    "first_year": "2024",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (9); History and culture (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (6); philological discussion (3); identification/help request (1)",
+    "resolved_replies_sent": "6",
+    "resolved_replies_received": "10",
+    "author_status": "confirmed"
   },
   {
     "normalized_author": "Per-Johan Norelius",
@@ -13062,6 +13090,20 @@
     "author_status": "confirmed"
   },
   {
+    "normalized_author": "Smith, Frederick M",
+    "message_count": "9",
+    "thread_count": "8",
+    "first_year": "2008",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (6); Teaching and pedagogy (2); Digital resources and tools (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (8); digital resource/tool (1)",
+    "resolved_replies_sent": "6",
+    "resolved_replies_received": "22",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "Sugandha Johar",
     "message_count": "9",
     "thread_count": "8",
@@ -13214,20 +13256,6 @@
     "resolved_replies_sent": "6",
     "resolved_replies_received": "6",
     "author_status": "needs_review"
-  },
-  {
-    "normalized_author": "Daniela Bevilacqua",
-    "message_count": "9",
-    "thread_count": "7",
-    "first_year": "2024",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (6); Announcements and events (3)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (6); announcement/event (3)",
-    "resolved_replies_sent": "2",
-    "resolved_replies_received": "3",
-    "author_status": "confirmed"
   },
   {
     "normalized_author": "Dick Oliver",
@@ -13902,6 +13930,20 @@
     "author_status": "confirmed"
   },
   {
+    "normalized_author": "Buchholz, Jonas",
+    "message_count": "8",
+    "thread_count": "7",
+    "first_year": "2023",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (7); Announcements and events (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (7); job/position (1)",
+    "resolved_replies_sent": "4",
+    "resolved_replies_received": "5",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "Christina Fritsch",
     "message_count": "8",
     "thread_count": "7",
@@ -13913,6 +13955,20 @@
     "list_function_counts": "general discussion (7); digital resource/tool (1)",
     "resolved_replies_sent": "2",
     "resolved_replies_received": "7",
+    "author_status": "confirmed"
+  },
+  {
+    "normalized_author": "David S. Magier",
+    "message_count": "8",
+    "thread_count": "7",
+    "first_year": "2018",
+    "last_year": "2026",
+    "top_topic": "Bibliographic requests",
+    "topic_counts": "Bibliographic requests (4); General scholarly discussion (2); Announcements and events (1); History and culture (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (3); identification/help request (3); bibliographic request (1); job/position (1)",
+    "resolved_replies_sent": "3",
+    "resolved_replies_received": "3",
     "author_status": "confirmed"
   },
   {
@@ -14098,17 +14154,17 @@
     "author_status": "needs_review"
   },
   {
-    "normalized_author": "Smith, Frederick M",
+    "normalized_author": "Sharon Ben-Dor",
     "message_count": "8",
     "thread_count": "7",
-    "first_year": "2008",
-    "last_year": "2025",
+    "first_year": "2014",
+    "last_year": "2026",
     "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (5); Teaching and pedagogy (2); Digital resources and tools (1)",
+    "topic_counts": "General scholarly discussion (7); Bibliographic requests (1)",
     "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (7); digital resource/tool (1)",
-    "resolved_replies_sent": "5",
-    "resolved_replies_received": "21",
+    "list_function_counts": "general discussion (4); identification/help request (3); bibliographic request (1)",
+    "resolved_replies_sent": "8",
+    "resolved_replies_received": "6",
     "author_status": "confirmed"
   },
   {
@@ -14277,6 +14333,20 @@
     "list_function_counts": "general discussion (5); digital resource/tool (2); bibliographic request (1)",
     "resolved_replies_sent": "8",
     "resolved_replies_received": "6",
+    "author_status": "confirmed"
+  },
+  {
+    "normalized_author": "Nicole Karapanagiotis",
+    "message_count": "8",
+    "thread_count": "6",
+    "first_year": "2016",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (8)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (8)",
+    "resolved_replies_sent": "5",
+    "resolved_replies_received": "5",
     "author_status": "confirmed"
   },
   {
@@ -14487,6 +14557,20 @@
     "list_function_counts": "announcement/event (3); general discussion (2); job/position (1); philological discussion (1)",
     "resolved_replies_sent": "0",
     "resolved_replies_received": "1",
+    "author_status": "confirmed"
+  },
+  {
+    "normalized_author": "Fabrice Duvinage",
+    "message_count": "7",
+    "thread_count": "7",
+    "first_year": "2014",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (2); List administration (2); Veda and ritual (2); Digital resources and tools (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (4); list administration (2); digital resource/tool (1)",
+    "resolved_replies_sent": "2",
+    "resolved_replies_received": "6",
     "author_status": "confirmed"
   },
   {
@@ -14725,6 +14809,20 @@
     "list_function_counts": "general discussion (6); philological discussion (1)",
     "resolved_replies_sent": "0",
     "resolved_replies_received": "10",
+    "author_status": "confirmed"
+  },
+  {
+    "normalized_author": "Seth Powell",
+    "message_count": "7",
+    "thread_count": "7",
+    "first_year": "2023",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (3); Announcements and events (2); Digital resources and tools (2)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (3); digital resource/tool (2); announcement/event (1); job/position (1)",
+    "resolved_replies_sent": "1",
+    "resolved_replies_received": "1",
     "author_status": "confirmed"
   },
   {
@@ -15022,20 +15120,6 @@
     "author_status": "confirmed"
   },
   {
-    "normalized_author": "Buchholz, Jonas",
-    "message_count": "7",
-    "thread_count": "6",
-    "first_year": "2023",
-    "last_year": "2025",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (7)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (7)",
-    "resolved_replies_sent": "4",
-    "resolved_replies_received": "5",
-    "author_status": "confirmed"
-  },
-  {
     "normalized_author": "Chlodwig H. Werba",
     "message_count": "7",
     "thread_count": "6",
@@ -15061,20 +15145,6 @@
     "list_function_counts": "announcement/event (2); bibliographic request (2); general discussion (2); digital resource/tool (1)",
     "resolved_replies_sent": "1",
     "resolved_replies_received": "1",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "David S. Magier",
-    "message_count": "7",
-    "thread_count": "6",
-    "first_year": "2018",
-    "last_year": "2025",
-    "top_topic": "Bibliographic requests",
-    "topic_counts": "Bibliographic requests (3); General scholarly discussion (2); Announcements and events (1); History and culture (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (3); identification/help request (2); bibliographic request (1); job/position (1)",
-    "resolved_replies_sent": "3",
-    "resolved_replies_received": "2",
     "author_status": "confirmed"
   },
   {
@@ -15288,20 +15358,6 @@
     "author_status": "needs_review"
   },
   {
-    "normalized_author": "Sharon Ben-Dor",
-    "message_count": "7",
-    "thread_count": "6",
-    "first_year": "2014",
-    "last_year": "2025",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (6); Bibliographic requests (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (4); identification/help request (2); bibliographic request (1)",
-    "resolved_replies_sent": "7",
-    "resolved_replies_received": "6",
-    "author_status": "confirmed"
-  },
-  {
     "normalized_author": "huet",
     "message_count": "7",
     "thread_count": "6",
@@ -15426,34 +15482,6 @@
     "resolved_replies_sent": "5",
     "resolved_replies_received": "3",
     "author_status": "needs_review"
-  },
-  {
-    "normalized_author": "Nicole Karapanagiotis",
-    "message_count": "7",
-    "thread_count": "5",
-    "first_year": "2016",
-    "last_year": "2023",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (7)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (7)",
-    "resolved_replies_sent": "4",
-    "resolved_replies_received": "4",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "Paul Thomas",
-    "message_count": "7",
-    "thread_count": "5",
-    "first_year": "2024",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (6); History and culture (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (3); philological discussion (3); identification/help request (1)",
-    "resolved_replies_sent": "4",
-    "resolved_replies_received": "7",
-    "author_status": "confirmed"
   },
   {
     "normalized_author": "Peter Pasedach",
@@ -15792,6 +15820,20 @@
     "author_status": "confirmed"
   },
   {
+    "normalized_author": "Diwakar singh",
+    "message_count": "6",
+    "thread_count": "6",
+    "first_year": "2015",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (6)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (6)",
+    "resolved_replies_sent": "4",
+    "resolved_replies_received": "2",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "F.J. Martinez Garcia",
     "message_count": "6",
     "thread_count": "6",
@@ -15803,20 +15845,6 @@
     "list_function_counts": "general discussion (6)",
     "resolved_replies_sent": "1",
     "resolved_replies_received": "0",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "Fabrice Duvinage",
-    "message_count": "6",
-    "thread_count": "6",
-    "first_year": "2014",
-    "last_year": "2026",
-    "top_topic": "List administration",
-    "topic_counts": "List administration (2); Veda and ritual (2); Digital resources and tools (1); General scholarly discussion (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (3); list administration (2); digital resource/tool (1)",
-    "resolved_replies_sent": "1",
-    "resolved_replies_received": "5",
     "author_status": "confirmed"
   },
   {
@@ -16142,6 +16170,20 @@
     "author_status": "needs_review"
   },
   {
+    "normalized_author": "Santosh Gokhale",
+    "message_count": "6",
+    "thread_count": "6",
+    "first_year": "2017",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (4); Bibliographic requests (1); Texts and philology (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (4); bibliographic request (1); philological discussion (1)",
+    "resolved_replies_sent": "0",
+    "resolved_replies_received": "2",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "Sergey S.Tawaststjerna",
     "message_count": "6",
     "thread_count": "6",
@@ -16153,20 +16195,6 @@
     "list_function_counts": "general discussion (4); announcement/event (1); obituary/memorial (1)",
     "resolved_replies_sent": "4",
     "resolved_replies_received": "0",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "Seth Powell",
-    "message_count": "6",
-    "thread_count": "6",
-    "first_year": "2023",
-    "last_year": "2026",
-    "top_topic": "Announcements and events",
-    "topic_counts": "Announcements and events (2); Digital resources and tools (2); General scholarly discussion (2)",
-    "top_list_function": "digital resource/tool",
-    "list_function_counts": "digital resource/tool (2); general discussion (2); announcement/event (1); job/position (1)",
-    "resolved_replies_sent": "1",
-    "resolved_replies_received": "1",
     "author_status": "confirmed"
   },
   {
@@ -16730,6 +16758,20 @@
     "author_status": "needs_review"
   },
   {
+    "normalized_author": "Arti Dhand",
+    "message_count": "6",
+    "thread_count": "4",
+    "first_year": "2022",
+    "last_year": "2026",
+    "top_topic": "Bibliographic requests",
+    "topic_counts": "Bibliographic requests (4); General scholarly discussion (1); Texts and philology (1)",
+    "top_list_function": "bibliographic request",
+    "list_function_counts": "bibliographic request (4); general discussion (2)",
+    "resolved_replies_sent": "5",
+    "resolved_replies_received": "3",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "Bose, Mandakranta",
     "message_count": "6",
     "thread_count": "4",
@@ -17203,20 +17245,6 @@
     "list_function_counts": "general discussion (4); philological discussion (1)",
     "resolved_replies_sent": "1",
     "resolved_replies_received": "0",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "Diwakar singh",
-    "message_count": "5",
-    "thread_count": "5",
-    "first_year": "2015",
-    "last_year": "2019",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (5)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (5)",
-    "resolved_replies_sent": "4",
-    "resolved_replies_received": "2",
     "author_status": "confirmed"
   },
   {
@@ -17707,20 +17735,6 @@
     "list_function_counts": "general discussion (4); announcement/event (1)",
     "resolved_replies_sent": "2",
     "resolved_replies_received": "1",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "Santosh Gokhale",
-    "message_count": "5",
-    "thread_count": "5",
-    "first_year": "2017",
-    "last_year": "2023",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (3); Bibliographic requests (1); Texts and philology (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (3); bibliographic request (1); philological discussion (1)",
-    "resolved_replies_sent": "0",
-    "resolved_replies_received": "2",
     "author_status": "confirmed"
   },
   {
@@ -18382,6 +18396,20 @@
     "author_status": "confirmed"
   },
   {
+    "normalized_author": "Gowtham R",
+    "message_count": "5",
+    "thread_count": "4",
+    "first_year": "2024",
+    "last_year": "2026",
+    "top_topic": "Texts and philology",
+    "topic_counts": "Texts and philology (2); Announcements and events (1); General scholarly discussion (1); History and culture (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (4); announcement/event (1)",
+    "resolved_replies_sent": "4",
+    "resolved_replies_received": "4",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "Greg Eichler",
     "message_count": "5",
     "thread_count": "4",
@@ -18506,6 +18534,20 @@
     "resolved_replies_sent": "4",
     "resolved_replies_received": "0",
     "author_status": "needs_review"
+  },
+  {
+    "normalized_author": "Lucy May Constantini",
+    "message_count": "5",
+    "thread_count": "4",
+    "first_year": "2022",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (3); Buddhism and Jainism (1); Grammar and linguistics (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (4); philological discussion (1)",
+    "resolved_replies_sent": "4",
+    "resolved_replies_received": "3",
+    "author_status": "confirmed"
   },
   {
     "normalized_author": "Matthew Milligan",
@@ -18645,6 +18687,20 @@
     "list_function_counts": "general discussion (3); philological discussion (2)",
     "resolved_replies_sent": "4",
     "resolved_replies_received": "0",
+    "author_status": "confirmed"
+  },
+  {
+    "normalized_author": "Shubham Arora",
+    "message_count": "5",
+    "thread_count": "4",
+    "first_year": "2023",
+    "last_year": "2026",
+    "top_topic": "Bibliographic requests",
+    "topic_counts": "Bibliographic requests (2); General scholarly discussion (2); Announcements and events (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (4); announcement/event (1)",
+    "resolved_replies_sent": "3",
+    "resolved_replies_received": "3",
     "author_status": "confirmed"
   },
   {
@@ -20706,20 +20762,6 @@
     "author_status": "confirmed"
   },
   {
-    "normalized_author": "Arti Dhand",
-    "message_count": "4",
-    "thread_count": "3",
-    "first_year": "2022",
-    "last_year": "2024",
-    "top_topic": "Bibliographic requests",
-    "topic_counts": "Bibliographic requests (2); General scholarly discussion (1); Texts and philology (1)",
-    "top_list_function": "bibliographic request",
-    "list_function_counts": "bibliographic request (2); general discussion (2)",
-    "resolved_replies_sent": "3",
-    "resolved_replies_received": "2",
-    "author_status": "confirmed"
-  },
-  {
     "normalized_author": "Bhalchandrarao C Patwardhan",
     "message_count": "4",
     "thread_count": "3",
@@ -20787,20 +20829,6 @@
     "list_function_counts": "general discussion (2); identification/help request (1); job/position (1)",
     "resolved_replies_sent": "2",
     "resolved_replies_received": "3",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "Gowtham R",
-    "message_count": "4",
-    "thread_count": "3",
-    "first_year": "2024",
-    "last_year": "2025",
-    "top_topic": "Texts and philology",
-    "topic_counts": "Texts and philology (2); General scholarly discussion (1); History and culture (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (4)",
-    "resolved_replies_sent": "4",
-    "resolved_replies_received": "4",
     "author_status": "confirmed"
   },
   {
@@ -20940,20 +20968,6 @@
     "top_list_function": "announcement/event",
     "list_function_counts": "announcement/event (4)",
     "resolved_replies_sent": "1",
-    "resolved_replies_received": "2",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "Lucy May Constantini",
-    "message_count": "4",
-    "thread_count": "3",
-    "first_year": "2022",
-    "last_year": "2024",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (2); Buddhism and Jainism (1); Grammar and linguistics (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (3); philological discussion (1)",
-    "resolved_replies_sent": "3",
     "resolved_replies_received": "2",
     "author_status": "confirmed"
   },
@@ -21179,20 +21193,6 @@
     "list_function_counts": "general discussion (3); philological discussion (1)",
     "resolved_replies_sent": "2",
     "resolved_replies_received": "1",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "Shubham Arora",
-    "message_count": "4",
-    "thread_count": "3",
-    "first_year": "2023",
-    "last_year": "2025",
-    "top_topic": "Bibliographic requests",
-    "topic_counts": "Bibliographic requests (2); Announcements and events (1); General scholarly discussion (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (3); announcement/event (1)",
-    "resolved_replies_sent": "2",
-    "resolved_replies_received": "3",
     "author_status": "confirmed"
   },
   {
@@ -28896,6 +28896,20 @@
     "author_status": "confirmed"
   },
   {
+    "normalized_author": "Whitaker, Jarrod",
+    "message_count": "2",
+    "thread_count": "2",
+    "first_year": "2026",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (1); History and culture (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (2)",
+    "resolved_replies_sent": "0",
+    "resolved_replies_received": "4",
+    "author_status": "confirmed"
+  },
+  {
     "normalized_author": "William Mahony",
     "message_count": "2",
     "thread_count": "2",
@@ -31481,6 +31495,20 @@
     "topic_counts": "General scholarly discussion (1)",
     "top_list_function": "general discussion",
     "list_function_counts": "general discussion (1)",
+    "resolved_replies_sent": "1",
+    "resolved_replies_received": "0",
+    "author_status": "confirmed"
+  },
+  {
+    "normalized_author": "Arushi Bahuguna",
+    "message_count": "1",
+    "thread_count": "1",
+    "first_year": "2026",
+    "last_year": "2026",
+    "top_topic": "Announcements and events",
+    "topic_counts": "Announcements and events (1)",
+    "top_list_function": "announcement/event",
+    "list_function_counts": "announcement/event (1)",
     "resolved_replies_sent": "1",
     "resolved_replies_received": "0",
     "author_status": "confirmed"
@@ -40390,20 +40418,6 @@
     "author_status": "confirmed"
   },
   {
-    "normalized_author": "Whitaker, Jarrod",
-    "message_count": "1",
-    "thread_count": "1",
-    "first_year": "2026",
-    "last_year": "2026",
-    "top_topic": "History and culture",
-    "topic_counts": "History and culture (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (1)",
-    "resolved_replies_sent": "0",
-    "resolved_replies_received": "2",
-    "author_status": "confirmed"
-  },
-  {
     "normalized_author": "Wiles Royce",
     "message_count": "1",
     "thread_count": "1",
@@ -41787,6 +41801,20 @@
     "list_function_counts": "general discussion (1)",
     "resolved_replies_sent": "0",
     "resolved_replies_received": "0",
+    "author_status": "needs_review"
+  },
+  {
+    "normalized_author": "haolinWANG",
+    "message_count": "1",
+    "thread_count": "1",
+    "first_year": "2026",
+    "last_year": "2026",
+    "top_topic": "Bibliographic requests",
+    "topic_counts": "Bibliographic requests (1)",
+    "top_list_function": "bibliographic request",
+    "list_function_counts": "bibliographic request (1)",
+    "resolved_replies_sent": "0",
+    "resolved_replies_received": "1",
     "author_status": "needs_review"
   },
   {

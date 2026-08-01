@@ -68,17 +68,19 @@ Human-facing review fields include `curation_status`, `review_track`, `review_de
 | `data/curation/first_review_notes.csv` | 25 | Human-editable review intake for importing first-review notes. |
 | `data/curation/renou_subject_rules.csv` | 25 | Human-editable Renou state/register subject matching rules. |
 | `data/processed/atlas_list_functions.csv` | 44 | Readable categories for what work the mailing list performed by decade. |
-| `data/processed/atlas_people_summary.csv` | 3150 | Conservative person-level participation summary using normalized author labels. |
+| `data/processed/atlas_people_summary.csv` | 3152 | Conservative person-level participation summary using normalized author labels. |
 | `data/processed/atlas_reply_summary.csv` | 4 | Directed reply reconstruction counts by confidence level. |
 | `data/processed/atlas_timeline.csv` | 37 | Year-by-year atlas summary for volume, threads, authors, dominant topics, and list functions. |
 | `data/processed/atlas_topic_profiles.csv` | 12 | Topic profiles with time span, thread counts, author counts, and dominant list functions. |
-| `data/processed/author_aliases.csv` | 3283 | Public author-normalization audit table, one row per raw author string. |
-| `data/processed/author_eras.csv` | 4275 | Generated atlas output. |
-| `data/processed/authors_needing_review.csv` | 888 | Ambiguous author strings retained without identity merging. |
+| `data/processed/author_aliases.csv` | 3285 | Public author-normalization audit table, one row per raw author string. |
+| `data/processed/author_eras.csv` | 4279 | Generated atlas output. |
+| `data/processed/author_participation_cohorts.csv` | 15 | Generated atlas output. |
+| `data/processed/authors_needing_review.csv` | 889 | Ambiguous author strings retained without identity merging. |
 | `data/processed/case_review_queue.csv` | 250 | English-only review queue for all generated case-study candidates. |
 | `data/processed/case_review_queue_infrastructure.csv` | 16 | Review packet for case-study candidates suggested as infrastructure history. |
-| `data/processed/case_review_queue_philological.csv` | 37 | Review packet for case-study candidates suggested as philological substance. |
-| `data/processed/case_review_queue_unassigned.csv` | 197 | Review packet for case-study candidates without an automatic track suggestion. |
+| `data/processed/case_review_queue_philological.csv` | 36 | Review packet for case-study candidates suggested as philological substance. |
+| `data/processed/case_review_queue_unassigned.csv` | 198 | Review packet for case-study candidates without an automatic track suggestion. |
+| `data/processed/case_score_components.csv` | 250 | Generated atlas output. |
 | `data/processed/case_study_candidates.csv` | 250 | Data-driven thread candidates for close reading and human curation. |
 | `data/processed/count_mismatch_audit.csv` | 8 | Documentation of months where archive index and mbox counts differ. |
 | `data/processed/curated_case_studies.csv` | 250 | Review-ready curation table seeded from generated case-study candidates. |
@@ -88,32 +90,33 @@ Human-facing review fields include `curation_status`, `review_track`, `review_de
 | `data/processed/human_review_index.csv` | 1921 | Unified reviewer-facing queue for author, case-study, count, noisy-subject, and reply-network checks. |
 | `data/processed/human_review_summary.json` | 5 | Machine-readable summary of the unified human review index. |
 | `data/processed/interpretive_guardrails.csv` | 7 | Responsible-claims guardrails for interpreting reply, co-participation, volume, archive, and author-normalization outputs. |
-| `data/processed/messages.csv` | 72338 | Analyzed message metadata with cleaned subjects, topic labels, thread length, and author display strings. |
-| `data/processed/messages_clean.csv` | 72338 | Message metadata with conservative normalized author labels and author audit fields. |
-| `data/processed/messages_raw.csv` | 72338 | Harvested message metadata aligned from Pipermail HTML indexes and monthly mbox headers. |
-| `data/processed/monthly_counts.csv` | 426 | Message volume by archive month. |
-| `data/processed/months.csv` | 426 | Generated atlas output. |
-| `data/processed/named_coparticipation_network_summary.csv` | 47103 | Named co-participation network summary by topic. |
-| `data/processed/named_reply_network_summary.csv` | 24546 | Named direct-reply network summary by decade, topic, and confidence. |
-| `data/processed/network_edges.csv` | 40703 | Undirected co-participation edges: two authors appear in the same thread. |
+| `data/processed/list_function_decade_share.csv` | 44 | Generated atlas output. |
+| `data/processed/messages.csv` | 72515 | Analyzed message metadata with cleaned subjects, topic labels, thread length, and author display strings. |
+| `data/processed/messages_clean.csv` | 72515 | Message metadata with conservative normalized author labels and author audit fields. |
+| `data/processed/messages_raw.csv` | 72515 | Harvested message metadata aligned from Pipermail HTML indexes and monthly mbox headers. |
+| `data/processed/monthly_counts.csv` | 427 | Message volume by archive month. |
+| `data/processed/months.csv` | 427 | Generated atlas output. |
+| `data/processed/named_coparticipation_network_summary.csv` | 47166 | Named co-participation network summary by topic. |
+| `data/processed/named_reply_network_summary.csv` | 24591 | Named direct-reply network summary by decade, topic, and confidence. |
+| `data/processed/network_edges.csv` | 40760 | Undirected co-participation edges: two authors appear in the same thread. |
 | `data/processed/noisy_subjects.csv` | 397 | Generated atlas output. |
 | `data/processed/parse_issues.csv` | 8 | Generated atlas output. |
 | `data/processed/renou_coverage.csv` | 2 | Coverage counts for the sparse Renou subject-line layer. |
 | `data/processed/renou_export_index.csv` | 75 | Index of filtered Renou state/register CSV downloads. |
-| `data/processed/renou_message_matches.csv` | 9110 | Sparse message-level Renou state/register matches with matched terms and confidence. |
-| `data/processed/renou_messages.csv` | 62115 | Row-per-message sparse Renou state/register index derived from subject-line evidence. |
+| `data/processed/renou_message_matches.csv` | 9128 | Sparse message-level Renou state/register matches with matched terms and confidence. |
+| `data/processed/renou_messages.csv` | 62214 | Row-per-message sparse Renou state/register index derived from subject-line evidence. |
 | `data/processed/renou_register_atharva_messages.csv` | 66 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_atharva_summary.csv` | 22 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_atharva_threads.csv` | 46 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_bauddha_messages.csv` | 92 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_bauddha_summary.csv` | 26 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_bauddha_threads.csv` | 46 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_register_bhasya_messages.csv` | 293 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_register_bhasya_summary.csv` | 63 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_register_bhasya_threads.csv` | 154 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_register_brahmana_messages.csv` | 93 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_register_brahmana_summary.csv` | 22 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_register_brahmana_threads.csv` | 47 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_register_bhasya_messages.csv` | 294 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_register_bhasya_summary.csv` | 64 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_register_bhasya_threads.csv` | 155 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_register_brahmana_messages.csv` | 94 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_register_brahmana_summary.csv` | 23 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_register_brahmana_threads.csv` | 48 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_epic_messages.csv` | 563 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_epic_summary.csv` | 104 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_epic_threads.csv` | 336 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
@@ -123,74 +126,78 @@ Human-facing review fields include `curation_status`, `review_track`, `review_de
 | `data/processed/renou_register_hors_inde_messages.csv` | 13 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_hors_inde_summary.csv` | 5 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_hors_inde_threads.csv` | 12 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_register_jaina_messages.csv` | 365 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_register_jaina_messages.csv` | 366 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_jaina_summary.csv` | 101 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_register_jaina_threads.csv` | 288 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_register_jaina_threads.csv` | 289 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_karika_messages.csv` | 17 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_karika_summary.csv` | 3 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_karika_threads.csv` | 8 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_katha_messages.csv` | 174 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_katha_summary.csv` | 49 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_katha_threads.csv` | 115 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_register_kavya_messages.csv` | 518 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_register_kavya_messages.csv` | 522 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_kavya_summary.csv` | 102 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_register_kavya_threads.csv` | 254 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_register_kavya_threads.csv` | 256 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_natya_messages.csv` | 124 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_natya_summary.csv` | 25 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_natya_threads.csv` | 72 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_register_purana_messages.csv` | 160 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_register_purana_messages.csv` | 161 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_purana_summary.csv` | 37 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_register_purana_threads.csv` | 90 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_register_purana_threads.csv` | 91 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_rgveda_messages.csv` | 523 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_rgveda_summary.csv` | 61 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_rgveda_threads.csv` | 283 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_smrti_messages.csv` | 77 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_smrti_summary.csv` | 23 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_smrti_threads.csv` | 41 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_register_summary.csv` | 935 | Renou register-axis summary by year, topic, and list function. |
-| `data/processed/renou_register_sutra_messages.csv` | 108 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_register_sutra_summary.csv` | 25 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_register_sutra_threads.csv` | 67 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_register_summary.csv` | 939 | Renou register-axis summary by year, topic, and list function. |
+| `data/processed/renou_register_sutra_messages.csv` | 109 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_register_sutra_summary.csv` | 26 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_register_sutra_threads.csv` | 68 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_tantra_messages.csv` | 211 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_tantra_summary.csv` | 60 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_tantra_threads.csv` | 122 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_register_upanisad_messages.csv` | 144 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_register_upanisad_summary.csv` | 28 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_register_upanisad_threads.csv` | 79 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_register_upanisad_messages.csv` | 145 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_register_upanisad_summary.csv` | 29 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_register_upanisad_threads.csv` | 80 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_vyakarana_messages.csv` | 649 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_vyakarana_summary.csv` | 81 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_vyakarana_threads.csv` | 324 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_yajus_messages.csv` | 24 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_yajus_summary.csv` | 9 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_register_yajus_threads.csv` | 13 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_state_i_messages.csv` | 1528 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_state_i_summary.csv` | 146 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_state_i_threads.csv` | 873 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_state_i_messages.csv` | 1530 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_state_i_summary.csv` | 147 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_state_i_threads.csv` | 875 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_state_ii_messages.csv` | 724 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_state_ii_summary.csv` | 91 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_state_ii_threads.csv` | 365 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_state_iii_messages.csv` | 1215 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_state_iii_messages.csv` | 1216 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_state_iii_summary.csv` | 137 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_state_iii_threads.csv` | 637 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_state_iv_messages.csv` | 323 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_state_iii_threads.csv` | 638 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_state_iv_messages.csv` | 327 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_state_iv_summary.csv` | 68 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_state_iv_threads.csv` | 179 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_state_summary.csv` | 581 | Renou I-V state-axis summary by year, topic, and list function. |
-| `data/processed/renou_state_v_messages.csv` | 751 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_state_iv_threads.csv` | 181 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_state_summary.csv` | 582 | Renou I-V state-axis summary by year, topic, and list function. |
+| `data/processed/renou_state_v_messages.csv` | 752 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
 | `data/processed/renou_state_v_summary.csv` | 139 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_state_v_threads.csv` | 529 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
-| `data/processed/renou_thread_matches.csv` | 3307 | Thread-level rollup of sparse Renou state/register matches. |
-| `data/processed/reply_edges.csv` | 42743 | Directed reply edges resolved from In-Reply-To, References, or conservative thread inference. |
-| `data/processed/reply_network_edges.csv` | 20783 | Aggregated directed reply edge weights by source, target, and confidence. |
+| `data/processed/renou_state_v_threads.csv` | 530 | Filtered Renou state/register CSV export used by the clickable dashboard tables. |
+| `data/processed/renou_thread_matches.csv` | 3314 | Thread-level rollup of sparse Renou state/register matches. |
+| `data/processed/reply_confidence_year_counts.csv` | 94 | Generated atlas output. |
+| `data/processed/reply_edges.csv` | 42808 | Directed reply edges resolved from In-Reply-To, References, or conservative thread inference. |
+| `data/processed/reply_network_edges.csv` | 20823 | Aggregated directed reply edge weights by source, target, and confidence. |
 | `data/processed/review_import_audit.csv` | 25 | Audit trail for importing human review notes into curated case metadata. |
-| `data/processed/search_authors.json` | 3150 | Static search index for conservative author summaries. |
-| `data/processed/search_messages_sample.json` | 4066 | Compact metadata-only message sample for static search. |
+| `data/processed/review_queue_summary.csv` | 6 | Generated atlas output. |
+| `data/processed/search_authors.json` | 3152 | Static search index for conservative author summaries. |
+| `data/processed/search_messages_sample.json` | 4068 | Compact metadata-only message sample for static search. |
 | `data/processed/search_threads.json` | 250 | Static search index for generated thread pages and case-study candidate status. |
 | `data/processed/search_topics.json` | 12 | Static search index for topic profiles. |
 | `data/processed/skipped_mbox_rows.csv` | 12 | Extra mbox rows skipped during subject-based archive alignment. |
 | `data/processed/thread_explorer_index.csv` | 250 | Index of generated static thread explorer pages for case-study candidates. |
-| `data/processed/threads.csv` | 24034 | Reconstructed thread-level metadata. |
+| `data/processed/thread_typology.csv` | 24075 | Generated atlas output. |
+| `data/processed/threads.csv` | 24075 | Reconstructed thread-level metadata. |
 | `data/processed/topic_decade_counts.csv` | 48 | Topic message counts by decade. |
+| `data/processed/topic_decade_share.csv` | 48 | Generated atlas output. |
 | `data/processed/topic_year_counts.csv` | 405 | Topic message counts by year. |
 | `data/processed/yearly_counts.csv` | 37 | Message volume by year. |
 

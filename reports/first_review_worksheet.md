@@ -406,7 +406,7 @@ Reviewer fields:
 - Topic: General scholarly discussion
 - List function: general discussion
 - Messages/authors/replies: 29/12/28
-- Local thread page: `threads/074-016462-insa-email-address.html`
+- Local thread page: `threads/077-016462-insa-email-address.html`
 - Public archive URL: https://list.indology.info/pipermail/indology/1999-April/016462.html
 - Generated evidence: long thread; multi-author; resolved replies; debate language
 
@@ -432,7 +432,7 @@ Reviewer fields:
 - Topic: Manuscripts and epigraphy
 - List function: philological discussion
 - Messages/authors/replies: 28/14/27
-- Local thread page: `threads/081-057928-manuscript-collections-on-archive-org.html`
+- Local thread page: `threads/082-057928-manuscript-collections-on-archive-org.html`
 - Public archive URL: https://list.indology.info/pipermail/indology/2023-July/057928.html
 - Generated evidence: long thread; multi-author; resolved replies; thanks/correction language
 
@@ -510,7 +510,7 @@ Reviewer fields:
 - Topic: General scholarly discussion
 - List function: general discussion
 - Messages/authors/replies: 26/14/25
-- Local thread page: `threads/110-015333-references-to-tulu-language-in-ancient-tamil-text.html`
+- Local thread page: `threads/109-015333-references-to-tulu-language-in-ancient-tamil-text.html`
 - Public archive URL: https://list.indology.info/pipermail/indology/1999-January/015333.html
 - Generated evidence: long thread; multi-author; resolved replies
 
@@ -562,7 +562,7 @@ Reviewer fields:
 - Topic: General scholarly discussion
 - List function: general discussion
 - Messages/authors/replies: 21/13/19
-- Local thread page: `threads/100-005629-event-announcement-testing-workshop.html`
+- Local thread page: `threads/097-005629-event-announcement-testing-workshop.html`
 - Public archive URL: https://list.indology.info/pipermail/indology/1996-August/005632.html
 - Generated evidence: long thread; multi-author; resolved replies; request/help language
 
@@ -588,7 +588,7 @@ Reviewer fields:
 - Topic: General scholarly discussion
 - List function: announcement/event
 - Messages/authors/replies: 24/15/23
-- Local thread page: `threads/137-043031-new-publication.html`
+- Local thread page: `threads/139-043031-new-publication.html`
 - Public archive URL: https://list.indology.info/pipermail/indology/2016-April/043031.html
 - Generated evidence: long thread; multi-author; resolved replies
 

@@ -1,33 +1,33 @@
 raw_author,normalized_author,author_id,status,confidence,evidence,first_seen,last_seen,message_count,unique_subject_count
-Dominik Wujastyk,Dominik Wujastyk,indology-author-59d4728d55,confirmed,1.0,exact normalized display-name group,1990-11-23T09:47:58+00:00,2026-06-08T21:46:00+00:00,3413,2701
-Madhav Deshpande,Madhav Deshpande,indology-author-c5f809d9dd,confirmed,1.0,exact normalized display-name group,1994-10-30T21:51:51+00:00,2026-06-28T12:36:10+00:00,1888,1071
+Dominik Wujastyk,Dominik Wujastyk,indology-author-59d4728d55,confirmed,1.0,exact normalized display-name group,1990-11-23T09:47:58+00:00,2026-07-19T10:28:31+00:00,3416,2703
+Madhav Deshpande,Madhav Deshpande,indology-author-c5f809d9dd,confirmed,1.0,exact normalized display-name group,1994-10-30T21:51:51+00:00,2026-07-15T23:20:54+00:00,1894,1075
 N. Ganesan,N. Ganesan,indology-author-a14327ff59,confirmed,1.0,exact normalized display-name group,1997-09-11T08:34:42+00:00,2001-04-17T08:19:12+00:00,1126,779
-Harry Spier,Harry Spier,indology-author-87d25b6557,confirmed,1.0,exact normalized display-name group,1999-02-12T23:35:54+00:00,2026-06-30T20:45:38+00:00,1040,655
+Harry Spier,Harry Spier,indology-author-87d25b6557,confirmed,1.0,exact normalized display-name group,1999-02-12T23:35:54+00:00,2026-07-31T21:37:34+00:00,1044,660
 Nagaraj Paturi,Nagaraj Paturi,indology-author-c3dd606c0a,confirmed,1.0,exact normalized display-name group,2014-06-11T18:38:15+00:00,2026-05-05T14:19:31+00:00,832,387
-Matthew Kapstein,Matthew Kapstein,indology-author-af2502595c,confirmed,1.0,exact normalized display-name group,2001-11-28T00:44:38+00:00,2026-06-20T17:35:32+00:00,805,540
+Matthew Kapstein,Matthew Kapstein,indology-author-af2502595c,confirmed,1.0,exact normalized display-name group,2001-11-28T00:44:38+00:00,2026-07-15T21:50:06+00:00,806,541
 Lars Martin Fosse,Lars Martin Fosse,indology-author-f30725b401,confirmed,1.0,exact normalized display-name group,1992-11-11T21:39:47+00:00,2016-03-17T17:30:48+00:00,784,625
-Sudalaimuthu Palaniappan,Sudalaimuthu Palaniappan,indology-author-2bf0a0c4a4,confirmed,1.0,exact normalized display-name group,1997-09-11T04:50:58+00:00,2026-05-16T17:05:11+00:00,773,571
+Sudalaimuthu Palaniappan,Sudalaimuthu Palaniappan,indology-author-2bf0a0c4a4,confirmed,1.0,exact normalized display-name group,1997-09-11T04:50:58+00:00,2026-07-28T20:42:55+00:00,776,573
 Allen W Thrasher,Allen W Thrasher,indology-author-8fe1a806cf,confirmed,1.0,exact normalized display-name group,1997-08-13T15:04:34+00:00,2010-04-30T18:31:28+00:00,603,502
 Vidyasankar Sundaresan,Vidyasankar Sundaresan,indology-author-4deee72b6e,confirmed,1.0,exact normalized display-name group,1995-08-31T01:12:00+00:00,2001-03-13T14:04:01+00:00,574,465
-Jan E.M. Houben,Jan E.M. Houben,indology-author-f4e79109c4,confirmed,1.0,exact normalized display-name group,1997-08-06T14:31:22+00:00,2026-05-26T10:14:06+00:00,559,450
-Christophe Vielle,Christophe Vielle,indology-author-617866ed1c,confirmed,1.0,exact normalized display-name group,2002-10-09T16:26:52+00:00,2026-06-16T10:05:56+00:00,553,449
+Jan E.M. Houben,Jan E.M. Houben,indology-author-f4e79109c4,confirmed,1.0,exact normalized display-name group,1997-08-06T14:31:22+00:00,2026-07-15T11:46:13+00:00,561,451
+Christophe Vielle,Christophe Vielle,indology-author-617866ed1c,confirmed,1.0,exact normalized display-name group,2002-10-09T16:26:52+00:00,2026-07-27T08:09:04+00:00,554,450
 Dipak Bhattacharya,Dipak Bhattacharya,indology-author-00b11504eb,confirmed,1.0,exact normalized display-name group,2008-06-10T04:29:30+00:00,2018-02-22T04:24:18+00:00,549,394
-Jonathan Silk,Jonathan Silk,indology-author-550a0c6084,confirmed,1.0,exact normalized display-name group,1999-02-02T21:01:24+00:00,2026-06-27T19:03:23+00:00,528,443
+Jonathan Silk,Jonathan Silk,indology-author-550a0c6084,confirmed,1.0,exact normalized display-name group,1999-02-02T21:01:24+00:00,2026-07-15T16:59:33+00:00,530,445
 Arlo Griffiths,Arlo Griffiths,indology-author-9a68bc0d00,confirmed,1.0,exact normalized display-name group,1998-01-06T22:01:32+00:00,2026-06-22T04:56:03+00:00,516,448
 Michael Witzel,Michael Witzel,indology-author-63d155bdc5,confirmed,1.0,exact normalized display-name group,1995-09-10T20:08:18+00:00,2016-05-03T16:16:30+00:00,507,429
 Artur Karp,Artur Karp,indology-author-5a2e9fc9b9,confirmed,1.0,exact normalized display-name group,1998-09-20T18:43:43+00:00,2021-09-25T14:30:57+00:00,465,289
 George Thompson,George Thompson,indology-author-c6c9e78b5c,confirmed,1.0,exact normalized display-name group,1997-01-01T09:21:45+00:00,2020-05-07T18:17:14+00:00,446,335
 Swaminathan Madhuresan,Swaminathan Madhuresan,indology-author-2dd5ca0744,confirmed,1.0,exact normalized display-name group,1999-01-06T23:26:54+00:00,2001-04-17T13:39:50+00:00,409,357
-Martin Gansten,Martin Gansten,indology-author-c3c13788e1,confirmed,1.0,exact normalized display-name group,1997-12-06T14:37:02+00:00,2026-03-20T11:38:53+00:00,380,246
+Martin Gansten,Martin Gansten,indology-author-c3c13788e1,confirmed,1.0,exact normalized display-name group,1997-12-06T14:37:02+00:00,2026-07-18T16:37:35+00:00,381,247
 David Magier,David Magier,indology-author-b64d65c9b5,confirmed,1.0,exact normalized display-name group,1991-02-15T14:39:34+00:00,2017-10-03T15:16:55+00:00,354,321
 Walter Slaje,Walter Slaje,indology-author-b54b884124,confirmed,1.0,exact normalized display-name group,1997-06-04T09:59:04+00:00,2026-04-17T10:42:28+00:00,348,246
 Ashok Aklujkar,Ashok Aklujkar,indology-author-4653ee6422,confirmed,1.0,exact normalized display-name group,1997-01-19T16:39:16+00:00,2019-05-23T03:47:38+00:00,328,275
-Patrick Olivelle,Patrick Olivelle,indology-author-3f9c2f535d,confirmed,1.0,exact normalized display-name group,2001-08-29T11:41:45+00:00,2026-06-10T13:53:49+00:00,320,228
+Patrick Olivelle,Patrick Olivelle,indology-author-3f9c2f535d,confirmed,1.0,exact normalized display-name group,2001-08-29T11:41:45+00:00,2026-07-18T17:33:05+00:00,323,230
 Stephen Hodge,Stephen Hodge,indology-author-cb8c925700,confirmed,1.0,exact normalized display-name group,1999-09-26T10:00:36+00:00,2013-06-04T17:51:27+00:00,306,230
 Robert Zydenbos,Robert Zydenbos,indology-author-8e2a6ffe31,confirmed,1.0,exact normalized display-name group,1998-03-23T04:47:49+00:00,2025-05-15T01:36:24+00:00,305,247
 "Olivelle, J P","Olivelle, J P",indology-author-ed2b2e4798,confirmed,1.0,exact normalized display-name group,2016-02-23T13:23:56+00:00,2022-09-30T13:58:11+00:00,292,130
 DEVARAKONDA VENKATA NARAYANA SARMA,DEVARAKONDA VENKATA NARAYANA SARMA,indology-author-277b3774d8,confirmed,1.0,exact normalized display-name group,1997-05-09T13:04:15+00:00,1999-03-07T22:11:15+00:00,282,221
-David and Nancy Reigle,David and Nancy Reigle,indology-author-fa3b89faff,confirmed,1.0,exact normalized display-name group,2015-05-12T00:25:00+00:00,2026-03-24T14:30:02+00:00,273,169
+David and Nancy Reigle,David and Nancy Reigle,indology-author-fa3b89faff,confirmed,1.0,exact normalized display-name group,2015-05-12T00:25:00+00:00,2026-07-15T17:17:22+00:00,274,170
 Howard Resnick,Howard Resnick,indology-author-54075ba9e0,confirmed,1.0,exact normalized display-name group,1996-02-07T22:43:22+00:00,2025-02-06T20:38:12+00:00,268,154
 Elliot Stern,Elliot Stern,indology-author-af3c232b78,confirmed,1.0,exact normalized display-name group,1997-01-29T07:58:10+00:00,2026-06-20T17:18:41+00:00,251,198
 alakendu das,alakendu das,indology-author-9a0120dbbb,confirmed,1.0,exact normalized display-name group,2011-11-23T14:59:56+00:00,2023-10-31T19:07:12+00:00,251,171
@@ -36,13 +36,13 @@ Birgit Kellner,Birgit Kellner,indology-author-c2e5322986,confirmed,1.0,exact nor
 Krishnaprasad G,Krishnaprasad G,indology-author-3b5492e8cf,confirmed,1.0,exact normalized display-name group,2015-07-12T06:32:26+00:00,2022-04-28T17:53:49+00:00,241,155
 Venkatraman Iyer,Venkatraman Iyer,indology-author-5825b6ee28,confirmed,1.0,exact normalized display-name group,1999-02-19T03:27:04+00:00,2001-04-15T18:23:55+00:00,236,207
 Dan Lusthaus,Dan Lusthaus,indology-author-dc3db21c46,confirmed,1.0,exact normalized display-name group,1997-01-09T20:24:54+00:00,2026-01-15T17:02:38+00:00,233,174
-McComas Taylor,McComas Taylor,indology-author-350be20771,confirmed,1.0,exact normalized display-name group,2003-03-13T07:21:25+00:00,2026-03-15T06:15:45+00:00,231,223
+McComas Taylor,McComas Taylor,indology-author-350be20771,confirmed,1.0,exact normalized display-name group,2003-03-13T07:21:25+00:00,2026-07-15T10:37:42+00:00,233,225
 patrick mccartney,patrick mccartney,indology-author-88ed3b027e,confirmed,1.0,exact normalized display-name group,2010-04-20T08:32:18+00:00,2026-06-17T06:53:01+00:00,230,168
 Luis Gonzalez-Reimann,Luis Gonzalez-Reimann,indology-author-d21d0424bd,confirmed,1.0,exact normalized display-name group,1996-09-02T00:56:20+00:00,2021-01-11T03:08:52+00:00,227,199
-Roland Steiner,Roland Steiner,indology-author-1c3ef64a4f,confirmed,1.0,exact normalized display-name group,1997-02-11T14:35:27+00:00,2026-03-15T13:32:29+00:00,224,188
+Roland Steiner,Roland Steiner,indology-author-1c3ef64a4f,confirmed,1.0,exact normalized display-name group,1997-02-11T14:35:27+00:00,2026-07-24T12:26:35+00:00,226,190
 Valerie J Roebuck,Valerie J Roebuck,indology-author-67f9cf0ba2,confirmed,1.0,exact normalized display-name group,2000-06-27T14:12:30+00:00,2022-04-13T13:10:45+00:00,221,195
 "Gruenendahl, Reinhold","Gruenendahl, Reinhold",indology-author-7f8ced386e,confirmed,1.0,exact normalized display-name group,2008-02-08T12:34:37+00:00,2022-07-29T13:04:25+00:00,218,195
-Jean-Luc Chevillard,Jean-Luc Chevillard,indology-author-b5b26cf6da,confirmed,1.0,exact normalized display-name group,1996-04-03T11:56:10+00:00,2026-03-20T12:10:25+00:00,215,168
+Jean-Luc Chevillard,Jean-Luc Chevillard,indology-author-b5b26cf6da,confirmed,1.0,exact normalized display-name group,1996-04-03T11:56:10+00:00,2026-07-27T11:25:33+00:00,217,169
 George Hart,George Hart,indology-author-5116ca13b0,confirmed,1.0,exact normalized display-name group,2001-08-27T16:14:31+00:00,2023-03-24T19:47:45+00:00,213,171
 "Lubin, Tim","Lubin, Tim",indology-author-c2d3e6c750,confirmed,1.0,exact normalized display-name group,2009-08-22T01:47:18+00:00,2026-03-24T08:10:40+00:00,210,160
 Paul Kekai Manansala,Paul Kekai Manansala,indology-author-b121009083,confirmed,1.0,exact normalized display-name group,1997-01-24T23:51:00+00:00,2000-12-16T16:36:22+00:00,210,149
@@ -55,10 +55,10 @@ Enrica Garzilli,Enrica Garzilli,indology-author-d71d1074f9,confirmed,1.0,exact n
 S Krishna,S Krishna,indology-author-045f340787,confirmed,1.0,exact normalized display-name group,1997-05-08T08:36:00+00:00,2000-06-28T07:21:03+00:00,180,156
 Stefan Baums,Stefan Baums,indology-author-cfd664094d,confirmed,1.0,exact normalized display-name group,1998-03-08T20:32:02+00:00,2025-09-24T10:07:33+00:00,174,138
 nanda chandran,nanda chandran,indology-author-1b5619adb7,confirmed,1.0,exact normalized display-name group,1999-02-08T16:55:33+00:00,2000-11-01T03:52:04+00:00,171,145
-Asko Parpola,Asko Parpola,indology-author-671fc2f8c1,confirmed,1.0,exact normalized display-name group,1997-12-01T14:59:27+00:00,2026-06-30T16:10:56+00:00,169,158
+Asko Parpola,Asko Parpola,indology-author-671fc2f8c1,confirmed,1.0,exact normalized display-name group,1997-12-01T14:59:27+00:00,2026-07-13T18:45:15+00:00,169,158
+Lubomír Ondračka,Lubomír Ondračka,indology-author-d39fd77722,confirmed,1.0,exact normalized display-name group,2017-04-02T21:40:52+00:00,2026-07-15T13:25:22+00:00,168,142
 Vishal Agarwal,Vishal Agarwal,indology-author-b29b6e8f58,confirmed,1.0,exact normalized display-name group,1999-04-02T21:44:31+00:00,2000-04-23T13:54:11+00:00,168,134
 Klaus Karttunen,Klaus Karttunen,indology-author-7711f8ec42,confirmed,1.0,exact normalized display-name group,1996-10-15T14:36:41+00:00,2017-11-06T12:24:17+00:00,167,159
-Lubomír Ondračka,Lubomír Ondračka,indology-author-d39fd77722,confirmed,1.0,exact normalized display-name group,2017-04-02T21:40:52+00:00,2026-06-02T14:19:16+00:00,167,141
 Richard Salomon,Richard Salomon,indology-author-583c2583f1,confirmed,1.0,exact normalized display-name group,1993-05-04T21:32:49+00:00,2016-11-10T00:14:19+00:00,156,142
 Jesse Knutson,Jesse Knutson,indology-author-27338efc7a,confirmed,1.0,exact normalized display-name group,2014-05-15T19:26:53+00:00,2025-12-06T01:00:36+00:00,153,106
 Mrinal Kaul,Mrinal Kaul,indology-author-bc329238b2,confirmed,1.0,exact normalized display-name group,2008-08-26T15:54:38+00:00,2025-05-15T07:04:31+00:00,152,122
@@ -70,13 +70,13 @@ Paolo Eugenio Rosati,Paolo Eugenio Rosati,indology-author-0bf4fd13c1,confirmed,1
 Vidhyanath Rao,Vidhyanath Rao,indology-author-61d844ab11,confirmed,1.0,exact normalized display-name group,1996-11-08T01:16:13+00:00,2001-04-13T08:20:27+00:00,142,125
 Stella Sandahl,Stella Sandahl,indology-author-1c9cd6db37,confirmed,1.0,exact normalized display-name group,2003-01-20T07:45:40+00:00,2021-05-12T15:34:27+00:00,137,118
 Narayan S. Raja,Narayan S. Raja,indology-author-b7b7f69d1c,confirmed,1.0,exact normalized display-name group,1995-01-11T17:40:22+00:00,2000-08-18T15:55:34+00:00,134,118
-Rolf Heinrich Koch,Rolf Heinrich Koch,indology-author-0ea84e7529,confirmed,1.0,exact normalized display-name group,1997-08-20T18:43:14+00:00,2026-06-09T08:22:29+00:00,132,108
-Antonia Ruppel,Antonia Ruppel,indology-author-708246b697,confirmed,1.0,exact normalized display-name group,2014-02-20T20:16:21+00:00,2026-06-05T17:21:42+00:00,131,98
+Rolf Heinrich Koch,Rolf Heinrich Koch,indology-author-0ea84e7529,confirmed,1.0,exact normalized display-name group,1997-08-20T18:43:14+00:00,2026-07-05T21:54:07+00:00,133,109
+Antonia Ruppel,Antonia Ruppel,indology-author-708246b697,confirmed,1.0,exact normalized display-name group,2014-02-20T20:16:21+00:00,2026-07-05T22:02:38+00:00,132,99
 Axel Michaels,Axel Michaels,indology-author-152d9a22b0,confirmed,1.0,exact normalized display-name group,1995-01-17T17:06:23+00:00,2013-01-10T02:33:15+00:00,128,120
 Rajarshi Banerjee,Rajarshi Banerjee,indology-author-907b2ce6ab,confirmed,1.0,exact normalized display-name group,1999-05-12T15:42:53+00:00,2001-03-25T22:34:59+00:00,128,115
 Samar Abbas,Samar Abbas,indology-author-0b761d4217,confirmed,1.0,exact normalized display-name group,1998-10-17T20:23:29+00:00,2001-04-08T13:22:05+00:00,126,112
+"Tieken, H.J.H. (Herman)","Tieken, H.J.H. (Herman)",indology-author-5b4a1f880d,confirmed,1.0,exact normalized display-name group,2021-09-14T18:44:22+00:00,2026-07-28T12:18:25+00:00,123,96
 Anshuman Pandey,Anshuman Pandey,indology-author-bf739ff256,confirmed,1.0,exact normalized display-name group,1995-02-16T05:59:47+00:00,2000-04-14T22:25:11+00:00,121,117
-"Tieken, H.J.H. (Herman)","Tieken, H.J.H. (Herman)",indology-author-5b4a1f880d,confirmed,1.0,exact normalized display-name group,2021-09-14T18:44:22+00:00,2026-03-02T08:18:34+00:00,120,93
 Jacob Baltuch,Jacob Baltuch,indology-author-e002c6c034,confirmed,1.0,exact normalized display-name group,1997-09-18T18:47:37+00:00,1998-12-02T02:13:41+00:00,119,93
 Dominic Goodall,Dominic Goodall,indology-author-2c7b2521b4,confirmed,1.0,exact normalized display-name group,1998-04-05T17:29:12+00:00,2023-11-22T22:27:40+00:00,118,108
 Harsha Dehejia,Harsha Dehejia,indology-author-c3e6e3f2ef,confirmed,1.0,exact normalized display-name group,2005-11-22T11:20:46+00:00,2025-10-31T10:40:28+00:00,117,106
@@ -90,8 +90,8 @@ Frank Conlon,Frank Conlon,indology-author-166622bc91,confirmed,1.0,exact normali
 John Smith,John Smith,indology-author-33dcc32591,confirmed,1.0,exact normalized display-name group,1997-03-07T09:22:05+00:00,2000-03-08T16:09:14+00:00,109,106
 Manu Francis,Manu Francis,indology-author-88a0a2e09e,confirmed,1.0,exact normalized display-name group,2012-03-21T15:55:55+00:00,2026-02-16T08:27:36+00:00,108,90
 Ven. Tantra,Ven. Tantra,indology-author-fa4cacd9b2,confirmed,1.0,exact normalized display-name group,2000-02-23T03:25:50+00:00,2001-04-17T14:10:54+00:00,108,95
+Peter Flugel,Peter Flugel,indology-author-199f0ee2e5,confirmed,1.0,exact normalized display-name group,1998-03-19T09:35:00+00:00,2026-07-21T14:18:30+00:00,107,101
 Lakshmi Srinivas,Lakshmi Srinivas,indology-author-8a228b22b3,confirmed,1.0,exact normalized display-name group,1998-02-04T22:32:11+00:00,2001-04-06T15:15:54+00:00,106,99
-Peter Flugel,Peter Flugel,indology-author-199f0ee2e5,confirmed,1.0,exact normalized display-name group,1998-03-19T09:35:00+00:00,2026-03-25T02:07:45+00:00,106,100
 Arun Gupta,Arun Gupta,indology-author-b8f1a09679,confirmed,1.0,exact normalized display-name group,2000-02-06T05:52:43+00:00,2001-04-17T12:11:17+00:00,104,95
 Richard MAHONEY,Richard MAHONEY,indology-author-a59fefaf88,confirmed,1.0,exact normalized display-name group,2004-03-09T10:56:00+00:00,2012-07-10T04:57:29+00:00,104,96
 Yaroslav V. Vassilkov,Yaroslav V. Vassilkov,indology-author-c7c676d577,confirmed,1.0,exact normalized display-name group,1997-11-10T09:42:07+00:00,1999-09-27T14:59:08+00:00,104,94
@@ -99,7 +99,7 @@ Periannan Chandrasekaran,Periannan Chandrasekaran,indology-author-e76eb14847,con
 Bhadraiah Mallampalli,Bhadraiah Mallampalli,indology-author-2445375d47,confirmed,1.0,exact normalized display-name group,1997-11-14T16:35:41+00:00,2001-04-14T11:50:08+00:00,102,84
 Nityanand Misra,Nityanand Misra,indology-author-3d4caf81cf,confirmed,1.0,exact normalized display-name group,2014-09-28T07:37:25+00:00,2016-11-14T15:04:11+00:00,101,61
 Valerie Roebuck,Valerie Roebuck,indology-author-0634327399,confirmed,1.0,exact normalized display-name group,2015-01-30T08:53:47+00:00,2026-03-13T21:13:49+00:00,101,86
-Eli Franco,Eli Franco,indology-author-df8f77fb57,confirmed,1.0,exact normalized display-name group,2006-12-06T17:49:53+00:00,2026-04-12T15:41:49+00:00,98,84
+Eli Franco,Eli Franco,indology-author-df8f77fb57,confirmed,1.0,exact normalized display-name group,2006-12-06T17:49:53+00:00,2026-07-18T12:34:47+00:00,99,85
 Srinivasan Pichumani,Srinivasan Pichumani,indology-author-1fa1045f0d,confirmed,1.0,exact normalized display-name group,1995-06-27T15:34:50+00:00,1998-05-01T21:21:18+00:00,97,88
 Camillo Formigatti,Camillo Formigatti,indology-author-a90965afca,confirmed,1.0,exact normalized display-name group,2016-12-20T15:16:46+00:00,2021-04-30T13:59:20+00:00,96,51
 Joanna Jurewicz,Joanna Jurewicz,indology-author-dd42fb8930,confirmed,1.0,exact normalized display-name group,2009-04-22T10:37:48+00:00,2026-03-14T10:10:14+00:00,96,70
@@ -120,7 +120,7 @@ John C. Huntington,John C. Huntington,indology-author-2292ff1607,confirmed,1.0,e
 John Huntington,John Huntington,indology-author-aafba83b29,confirmed,1.0,exact normalized display-name group,2002-08-06T13:54:24+00:00,2020-11-13T14:02:39+00:00,81,71
 Miguel Carrasquer Vidal,Miguel Carrasquer Vidal,indology-author-3b94c50c33,confirmed,1.0,exact normalized display-name group,1998-03-22T02:16:09+00:00,1999-04-10T18:22:29+00:00,81,50
 Mittal Sushil,Mittal Sushil,indology-author-49eef2d887,confirmed,1.0,exact normalized display-name group,1996-04-28T20:23:22+00:00,1998-05-14T21:47:56+00:00,81,76
-Ananya Vajpeyi,Ananya Vajpeyi,indology-author-ebc67b8d5d,confirmed,1.0,exact normalized display-name group,2015-08-04T06:10:23+00:00,2026-06-17T08:02:37+00:00,79,64
+Ananya Vajpeyi,Ananya Vajpeyi,indology-author-ebc67b8d5d,confirmed,1.0,exact normalized display-name group,2015-08-04T06:10:23+00:00,2026-07-16T04:30:10+00:00,80,65
 Kenneth Zysk,Kenneth Zysk,indology-author-9a8be98780,confirmed,1.0,exact normalized display-name group,1999-09-29T10:50:31+00:00,2013-09-08T06:46:12+00:00,79,68
 Lyne Bansat-Boudon,Lyne Bansat-Boudon,indology-author-085e9d022c,confirmed,1.0,exact normalized display-name group,2017-07-17T12:10:33+00:00,2026-01-06T10:13:59+00:00,78,59
 Peter Scharf,Peter Scharf,indology-author-a6a3e17785,confirmed,1.0,exact normalized display-name group,2009-11-24T22:02:43+00:00,2026-06-12T17:45:01+00:00,78,69
@@ -149,20 +149,20 @@ Dr. Rupali Mokashi,Dr. Rupali Mokashi,indology-author-ad486ece5b,confirmed,1.0,e
 JR Gardner,JR Gardner,indology-author-96f0179ad3,confirmed,1.0,exact normalized display-name group,1996-08-02T16:13:53+00:00,1999-08-18T18:39:03+00:00,68,67
 Julia Hegewald,Julia Hegewald,indology-author-4f55ae5467,confirmed,1.0,exact normalized display-name group,2006-03-29T14:23:19+00:00,2026-03-23T08:48:29+00:00,68,66
 Mani Varadarajan,Mani Varadarajan,indology-author-503a0edc7b,confirmed,1.0,exact normalized display-name group,1994-04-25T02:12:29+00:00,1999-07-08T00:54:08+00:00,68,57
+Raffaele Torella,Raffaele Torella,indology-author-9d22fe196a,confirmed,1.0,exact normalized display-name group,1997-05-22T01:29:31+00:00,2026-07-12T11:56:23+00:00,68,52
 Ruth Laila Schmidt,Ruth Laila Schmidt,indology-author-991d64d72e,confirmed,1.0,exact normalized display-name group,1997-03-12T10:04:46+00:00,2001-01-16T08:58:14+00:00,68,63
 S. Kalyanaraman,S. Kalyanaraman,indology-author-2aee2d6c79,confirmed,1.0,exact normalized display-name group,1997-02-07T00:14:18+00:00,1998-07-09T17:14:08+00:00,68,47
 "Witzel, Michael","Witzel, Michael",indology-author-52f9bd4578,confirmed,1.0,exact normalized display-name group,2012-01-28T09:53:39+00:00,2026-03-16T07:32:06+00:00,68,61
 Ferenc Ruzsa,Ferenc Ruzsa,indology-author-853ed33007,confirmed,1.0,exact normalized display-name group,1999-01-30T20:08:44+00:00,2006-03-23T18:05:30+00:00,67,59
-Raffaele Torella,Raffaele Torella,indology-author-9d22fe196a,confirmed,1.0,exact normalized display-name group,1997-05-22T01:29:31+00:00,2026-01-27T15:14:27+00:00,67,51
 James Hegarty,James Hegarty,indology-author-5765e57045,confirmed,1.0,exact normalized display-name group,2010-11-01T17:01:07+00:00,2025-02-07T09:17:55+00:00,66,61
 Jeffery Long,Jeffery Long,indology-author-0cab5d5c5e,confirmed,1.0,exact normalized display-name group,2016-06-17T15:25:29+00:00,2026-04-24T18:56:50+00:00,66,45
+Adriano Aprigliano,Adriano Aprigliano,indology-author-46669c0b38,confirmed,1.0,exact normalized display-name group,2010-02-17T18:44:36+00:00,2026-07-13T17:33:29+00:00,64,45
 Dean Anderson,Dean Anderson,indology-author-d184d79a37,confirmed,1.0,exact normalized display-name group,2002-01-23T20:18:18+00:00,2008-06-10T14:39:57+00:00,64,46
 Lavanya Vemsani,Lavanya Vemsani,indology-author-26314bc832,confirmed,1.0,exact normalized display-name group,2014-06-30T19:15:12+00:00,2026-04-28T23:46:04+00:00,64,63
 Rolf Heiner Koch,Rolf Heiner Koch,indology-author-2375663d6c,confirmed,1.0,exact normalized display-name group,1997-11-09T21:12:56+00:00,1998-07-13T23:25:57+00:00,64,61
 Sn. Subrahmanya,Sn. Subrahmanya,indology-author-1f1958e543,confirmed,1.0,exact normalized display-name group,1997-10-22T01:01:02+00:00,1998-07-29T10:03:18+00:00,64,53
 "Thrasher, Allen","Thrasher, Allen",indology-author-dec282ed4c,confirmed,1.0,exact normalized display-name group,2010-05-24T17:47:37+00:00,2011-10-05T20:26:36+00:00,64,48
 Adheesh Sathaye,Adheesh Sathaye,indology-author-7310a1ff36,confirmed,1.0,exact normalized display-name group,1998-05-28T20:39:25+00:00,2019-07-31T18:09:34+00:00,63,62
-Adriano Aprigliano,Adriano Aprigliano,indology-author-46669c0b38,confirmed,1.0,exact normalized display-name group,2010-02-17T18:44:36+00:00,2026-05-05T14:28:10+00:00,63,44
 Antonio Ferreira-Jardim,Antonio Ferreira-Jardim,indology-author-d741bdd6c8,confirmed,1.0,exact normalized display-name group,2006-12-05T14:25:38+00:00,2024-04-22T05:06:08+00:00,63,56
 Ashish Chandra,Ashish Chandra,indology-author-e4e107aea4,confirmed,1.0,exact normalized display-name group,1998-11-18T16:54:09+00:00,1999-02-19T16:37:00+00:00,63,50
 Peter J. Claus,Peter J. Claus,indology-author-325ce0a04e,confirmed,1.0,exact normalized display-name group,1996-06-25T15:01:53+00:00,1998-06-24T11:46:58+00:00,63,60
@@ -175,6 +175,7 @@ Girish Beeharry,Girish Beeharry,indology-author-a39ad36232,confirmed,1.0,exact n
 Westin Harris,Westin Harris,indology-author-e5cc0ad1b5,confirmed,1.0,exact normalized display-name group,2020-09-17T00:17:28+00:00,2026-06-09T05:44:18+00:00,60,39
 "Collins, Brian","Collins, Brian",indology-author-83131f12d9,confirmed,1.0,exact normalized display-name group,2016-09-29T14:47:31+00:00,2026-01-09T17:10:47+00:00,59,43
 Donald R Davis,Donald R Davis,indology-author-aad52d927e,confirmed,1.0,exact normalized display-name group,2013-10-03T16:27:22+00:00,2026-04-16T16:38:53+00:00,59,50
+Shrikant Bahulkar,Shrikant Bahulkar,indology-author-b1fa93a45a,confirmed,1.0,exact normalized display-name group,1998-12-19T18:30:58+00:00,2026-07-11T17:12:55+00:00,58,48
 Sreenivas Paruchuri,Sreenivas Paruchuri,indology-author-8ced958581,confirmed,1.0,exact normalized display-name group,1996-02-21T18:45:53+00:00,2000-10-24T10:38:03+00:00,58,56
 Dagmar Wujastyk,Dagmar Wujastyk,indology-author-490bf90487,confirmed,1.0,exact normalized display-name group,2015-04-07T13:10:42+00:00,2026-06-04T12:28:53+00:00,57,49
 Girish Jha,Girish Jha,indology-author-131b43c165,confirmed,1.0,exact normalized display-name group,1998-09-18T21:20:51+00:00,2026-01-01T02:32:50+00:00,57,35
@@ -185,7 +186,6 @@ Michael Slouber,Michael Slouber,indology-author-e62361932d,confirmed,1.0,exact n
 Vanbakkam Vijayaraghavan,Vanbakkam Vijayaraghavan,indology-author-cdf57441d7,confirmed,1.0,exact normalized display-name group,2000-10-02T00:23:16+00:00,2001-04-16T09:24:27+00:00,57,51
 Jean Michel DELIRE,Jean Michel DELIRE,indology-author-4e4490a7d8,confirmed,1.0,exact normalized display-name group,2023-04-08T08:10:57+00:00,2026-05-22T06:46:49+00:00,56,38
 Mark Allon,Mark Allon,indology-author-472bf19c4c,confirmed,1.0,exact normalized display-name group,1997-11-11T22:50:12+00:00,2025-12-13T17:12:36+00:00,56,46
-Shrikant Bahulkar,Shrikant Bahulkar,indology-author-b1fa93a45a,confirmed,1.0,exact normalized display-name group,1998-12-19T18:30:58+00:00,2026-05-07T05:36:09+00:00,55,47
 Subrahmanya S.,Subrahmanya S.,indology-author-7ec2c2c962,confirmed,1.0,exact normalized display-name group,2000-02-11T18:05:58+00:00,2001-04-12T00:08:31+00:00,55,49
 V.V. Raman,V.V. Raman,indology-author-246a70cfd5,confirmed,1.0,exact normalized display-name group,2000-10-26T09:17:41+00:00,2001-04-17T16:17:35+00:00,55,49
 C.R. Selvakumar,C.R. Selvakumar,indology-author-5053326765,confirmed,1.0,exact normalized display-name group,1998-04-16T13:18:25+00:00,2000-11-22T16:56:24+00:00,54,45
@@ -198,11 +198,14 @@ Piotr Balcerowicz,Piotr Balcerowicz,indology-author-bca241e93c,confirmed,1.0,exa
 Rohana Seneviratne,Rohana Seneviratne,indology-author-a963f76b4b,confirmed,1.0,exact normalized display-name group,2012-03-17T12:49:57+00:00,2015-09-04T14:30:37+00:00,52,38
 Bill Mak,Bill Mak,indology-author-0c831ff6d3,confirmed,1.0,exact normalized display-name group,2009-08-01T14:38:23+00:00,2026-04-23T10:03:47+00:00,51,32
 Jan Brzezinski,Jan Brzezinski,indology-author-3fbb1fd3c8,confirmed,1.0,exact normalized display-name group,1997-03-03T00:29:30+00:00,2001-03-20T04:15:45+00:00,51,48
+"Ram-Prasad, Chakravarthi","Ram-Prasad, Chakravarthi",indology-author-60d596f0ba,confirmed,1.0,exact normalized display-name group,2014-07-02T07:48:22+00:00,2026-07-31T15:37:50+00:00,51,43
 Ramakrishnan Balasubramanian,Ramakrishnan Balasubramanian,indology-author-a96ae9a90b,confirmed,1.0,exact normalized display-name group,1997-04-01T14:10:12+00:00,2000-03-07T02:52:07+00:00,51,46
 Shyam Ranganathan,Shyam Ranganathan,indology-author-5ba6b09600,confirmed,1.0,exact normalized display-name group,2004-05-14T16:26:35+00:00,2019-04-19T17:31:45+00:00,51,45
 Sven Sellmer,Sven Sellmer,indology-author-ee86e7eb4e,confirmed,1.0,exact normalized display-name group,2000-07-10T06:33:04+00:00,2026-03-16T12:20:36+00:00,51,49
 Alfred Hiltebeitel,Alfred Hiltebeitel,indology-author-7645aaf8aa,confirmed,1.0,exact normalized display-name group,2004-10-06T13:59:24+00:00,2021-05-27T02:01:00+00:00,50,39
+Robert Leach,Robert Leach,indology-author-2a40f63b40,confirmed,1.0,exact normalized display-name group,2014-06-10T21:00:47+00:00,2026-07-16T13:56:06+00:00,50,37
 Simon Brodbeck,Simon Brodbeck,indology-author-d37b28c329,confirmed,1.0,exact normalized display-name group,2006-11-21T12:10:43+00:00,2024-11-22T14:37:30+00:00,50,46
+Tyler Neill,Tyler Neill,indology-author-86b512d21f,confirmed,1.0,exact normalized display-name group,2017-05-12T11:21:31+00:00,2026-07-19T22:29:46+00:00,50,40
 Andrey Klebanov,Andrey Klebanov,indology-author-71918be772,confirmed,1.0,exact normalized display-name group,2010-07-20T21:24:40+00:00,2026-01-23T10:43:05+00:00,49,46
 B. Reusch,B. Reusch,indology-author-db86bb81c7,confirmed,1.0,exact normalized display-name group,1997-01-21T21:58:15+00:00,2003-02-08T15:23:57+00:00,49,47
 Frances Pritchett,Frances Pritchett,indology-author-9ed4daffbb,confirmed,1.0,exact normalized display-name group,1994-03-19T22:45:48+00:00,2012-08-20T12:55:37+00:00,49,47
@@ -210,13 +213,10 @@ George Cardona,George Cardona,indology-author-889a2d7350,confirmed,1.0,exact nor
 Lubomir Ondracka,Lubomir Ondracka,indology-author-3ceb78b816,confirmed,1.0,exact normalized display-name group,1994-02-05T14:51:39+00:00,2018-09-13T12:07:05+00:00,49,41
 Paul K. Manansala,Paul K. Manansala,indology-author-4e8cb3b967,confirmed,1.0,exact normalized display-name group,1998-03-25T23:20:30+00:00,1998-05-28T13:12:20+00:00,49,40
 Martin Gluckman,Martin Gluckman,indology-author-de9995d2cf,confirmed,1.0,exact normalized display-name group,2014-12-28T17:13:06+00:00,2025-10-06T10:36:47+00:00,48,44
-"Ram-Prasad, Chakravarthi","Ram-Prasad, Chakravarthi",indology-author-60d596f0ba,confirmed,1.0,exact normalized display-name group,2014-07-02T07:48:22+00:00,2026-04-17T16:22:14+00:00,48,40
-Robert Leach,Robert Leach,indology-author-2a40f63b40,confirmed,1.0,exact normalized display-name group,2014-06-10T21:00:47+00:00,2026-05-29T15:58:27+00:00,48,35
 victor van Bijlert,victor van Bijlert,indology-author-34a9d2d621,confirmed,1.0,exact normalized display-name group,2008-12-18T08:29:55+00:00,2009-05-07T19:26:21+00:00,48,22
 Christian K. Wedemeyer,Christian K. Wedemeyer,indology-author-689c010bc3,confirmed,1.0,exact normalized display-name group,1994-07-19T18:29:25+00:00,2014-10-13T22:41:03+00:00,47,44
 Hartmut Buescher,Hartmut Buescher,indology-author-b04d3dc5ba,confirmed,1.0,exact normalized display-name group,2000-12-15T16:51:57+00:00,2020-04-10T10:59:52+00:00,47,29
 Niranjan Saha,Niranjan Saha,indology-author-7df56113b0,confirmed,1.0,exact normalized display-name group,2013-09-05T05:48:20+00:00,2020-05-27T21:06:33+00:00,47,31
-Tyler Neill,Tyler Neill,indology-author-86b512d21f,confirmed,1.0,exact normalized display-name group,2017-05-12T11:21:31+00:00,2026-06-30T18:53:49+00:00,47,37
 Hans Henrich Hock,Hans Henrich Hock,indology-author-30c1932acf,confirmed,1.0,exact normalized display-name group,1999-05-24T18:57:14+00:00,2011-08-18T02:48:22+00:00,46,42
 Richard Mahoney | Indica et Buddhica,Richard Mahoney | Indica et Buddhica,indology-author-6edf65a1a8,confirmed,1.0,exact normalized display-name group,2016-03-07T19:40:53+00:00,2023-10-12T21:25:59+00:00,46,39
 Chris Beetle,Chris Beetle,indology-author-fd94dfa1f9,confirmed,1.0,exact normalized display-name group,1997-10-13T16:59:16+00:00,2001-03-24T20:47:48+00:00,45,41
@@ -226,18 +226,18 @@ Jan Kučera,Jan Kučera,indology-author-000bb1dc0a,confirmed,1.0,exact normalize
 Agathe Keller,Agathe Keller,indology-author-dc5b06bc72,confirmed,1.0,exact normalized display-name group,1999-09-02T11:55:43+00:00,2023-05-12T10:54:15+00:00,44,36
 Andrea Acri,Andrea Acri,indology-author-64edaaf084,confirmed,1.0,exact normalized display-name group,2010-11-05T14:23:34+00:00,2025-09-15T05:02:25+00:00,44,41
 Paolo Magnone,Paolo Magnone,indology-author-f1e6e12e4a,confirmed,1.0,exact normalized display-name group,1997-11-25T17:24:37+00:00,2022-01-31T16:10:19+00:00,44,34
+Tracy Coleman,Tracy Coleman,indology-author-2fee96f293,confirmed,1.0,exact normalized display-name group,2008-10-23T19:08:19+00:00,2026-07-13T23:32:49+00:00,44,38
 Ajit Gargeshwari,Ajit Gargeshwari,indology-author-8270a43f46,confirmed,1.0,exact normalized display-name group,2013-11-09T03:31:18+00:00,2024-03-17T06:40:45+00:00,43,40
 Alex Watson,Alex Watson,indology-author-12e38c6e01,confirmed,1.0,exact normalized display-name group,2006-02-23T12:55:45+00:00,2025-08-22T21:54:05+00:00,43,38
 Andrew Nicholson,Andrew Nicholson,indology-author-f4483a1308,confirmed,1.0,exact normalized display-name group,2010-03-07T00:43:45+00:00,2026-02-16T23:05:38+00:00,43,35
 Bh. Krishnamurti,Bh. Krishnamurti,indology-author-d7f9d63ad1,confirmed,1.0,exact normalized display-name group,1997-10-10T20:53:48+00:00,1998-05-07T18:58:55+00:00,43,38
+Dániel Balogh,Dániel Balogh,indology-author-1b31adf139,confirmed,1.0,exact normalized display-name group,2015-09-28T05:31:45+00:00,2026-07-18T16:19:31+00:00,43,30
 Geoffrey Samuel,Geoffrey Samuel,indology-author-e7fc148e35,confirmed,1.0,exact normalized display-name group,1997-11-05T09:56:40+00:00,2025-05-15T00:15:13+00:00,43,41
 Plamen Gradinarov,Plamen Gradinarov,indology-author-b123f16a9c,confirmed,1.0,exact normalized display-name group,2004-03-05T11:22:31+00:00,2006-03-09T21:29:46+00:00,43,31
 Prasad Velusamy,Prasad Velusamy,indology-author-902652ab71,confirmed,1.0,exact normalized display-name group,1999-05-09T20:50:07+00:00,2001-04-15T19:34:17+00:00,43,37
-Tracy Coleman,Tracy Coleman,indology-author-2fee96f293,confirmed,1.0,exact normalized display-name group,2008-10-23T19:08:19+00:00,2026-03-13T23:51:51+00:00,43,37
 Ulrike Niklas,Ulrike Niklas,indology-author-8d16ab5066,confirmed,1.0,exact normalized display-name group,1996-11-04T11:10:34+00:00,2000-08-16T07:07:11+00:00,43,37
 Anand Venkt Raman,Anand Venkt Raman,indology-author-35825f4b61,confirmed,1.0,exact normalized display-name group,1995-06-27T01:13:39+00:00,1997-10-22T03:01:40+00:00,42,40
 Christopher Wallis,Christopher Wallis,indology-author-94d2241a00,confirmed,1.0,exact normalized display-name group,2010-12-24T21:22:46+00:00,2023-08-07T15:22:26+00:00,42,16
-Dániel Balogh,Dániel Balogh,indology-author-1b31adf139,confirmed,1.0,exact normalized display-name group,2015-09-28T05:31:45+00:00,2026-06-22T07:38:36+00:00,42,29
 Harunaga Isaacson,Harunaga Isaacson,indology-author-623d3608a4,confirmed,1.0,exact normalized display-name group,2000-04-18T11:11:25+00:00,2023-05-08T21:22:10+00:00,42,39
 Patricia Sauthoff,Patricia Sauthoff,indology-author-cb6b72be71,confirmed,1.0,exact normalized display-name group,2016-08-06T12:57:12+00:00,2023-04-09T00:11:06+00:00,42,31
 Rupert Gethin,Rupert Gethin,indology-author-036ca48258,confirmed,1.0,exact normalized display-name group,1997-04-04T01:20:11+00:00,2026-03-06T10:56:25+00:00,42,36
@@ -253,13 +253,13 @@ Shrinivas Tilak,Shrinivas Tilak,indology-author-324d58fd42,confirmed,1.0,exact n
 peter bisschop,peter bisschop,indology-author-ba12499dcc,confirmed,1.0,exact normalized display-name group,2011-03-22T09:02:07+00:00,2026-05-16T16:48:32+00:00,40,39
 Anna A. Slaczka,Anna A. Slaczka,indology-author-ef9e7f1c3c,confirmed,1.0,exact normalized display-name group,2007-05-20T08:08:23+00:00,2015-06-02T11:50:42+00:00,39,32
 Birendra Nath Prasad,Birendra Nath Prasad,indology-author-8fc4660e6c,confirmed,1.0,exact normalized display-name group,2013-09-24T04:57:57+00:00,2025-11-09T09:33:11+00:00,39,35
+Caley Smith,Caley Smith,indology-author-5c9261bc00,confirmed,1.0,exact normalized display-name group,2019-10-21T16:28:10+00:00,2026-07-06T05:32:48+00:00,39,29
 Partha Banerjee,Partha Banerjee,indology-author-480d10eb54,confirmed,1.0,exact normalized display-name group,1998-11-07T02:58:32+00:00,1999-04-20T13:14:19+00:00,39,35
 T.I. Console,T.I. Console,indology-author-6accf48609,confirmed,1.0,exact normalized display-name group,1998-06-15T21:43:18+00:00,1998-12-17T13:01:20+00:00,39,28
 pslvax!sadhu at UCSD.EDU,pslvax!sadhu at UCSD.EDU,indology-author-48a7b608dc,confirmed,1.0,exact normalized display-name group,1994-09-07T13:28:18+00:00,1995-08-29T21:32:06+00:00,39,36
 Brian Akers,Brian Akers,indology-author-598d513695,confirmed,1.0,exact normalized display-name group,1997-09-28T23:10:16+00:00,2001-04-15T23:50:26+00:00,38,37
 "Buchta, David","Buchta, David",indology-author-9eb6ffe646,confirmed,1.0,exact normalized display-name group,2015-03-05T18:31:53+00:00,2026-01-29T02:21:45+00:00,38,33
 C.A. Formigatti,C.A. Formigatti,indology-author-a95069648f,confirmed,1.0,exact normalized display-name group,2013-07-04T14:55:27+00:00,2016-10-06T16:37:37+00:00,38,33
-Caley Smith,Caley Smith,indology-author-5c9261bc00,confirmed,1.0,exact normalized display-name group,2019-10-21T16:28:10+00:00,2026-03-14T15:29:51+00:00,38,28
 Dr Shivamurthy Swamiji,Dr Shivamurthy Swamiji,indology-author-9d5c98be80,confirmed,1.0,exact normalized display-name group,1996-03-15T19:54:24+00:00,2000-03-21T00:20:29+00:00,38,36
 L.S. Cousins,L.S. Cousins,indology-author-fd3b72db5e,confirmed,1.0,exact normalized display-name group,1996-10-18T16:42:59+00:00,2014-06-10T09:48:31+00:00,38,33
 Péter-Dániel Szántó,Péter-Dániel Szántó,indology-author-3d4d114107,confirmed,1.0,exact normalized display-name group,2016-03-14T09:51:49+00:00,2024-05-08T03:50:31+00:00,38,22
@@ -288,13 +288,13 @@ Peter Friedlander,Peter Friedlander,indology-author-300cb51562,confirmed,1.0,exa
 Robert P. GOLDMAN,Robert P. GOLDMAN,indology-author-e87d61c13b,confirmed,1.0,exact normalized display-name group,2021-11-16T19:39:34+00:00,2026-03-22T22:34:53+00:00,35,32
 Christian Lee Novetzke,Christian Lee Novetzke,indology-author-f8de17edf0,confirmed,1.0,exact normalized display-name group,1999-03-27T09:10:52+00:00,2006-10-05T18:50:13+00:00,34,32
 Christoph Emmrich,Christoph Emmrich,indology-author-98cdb145a6,confirmed,1.0,exact normalized display-name group,2002-06-28T08:29:02+00:00,2025-12-02T23:27:43+00:00,34,32
+Csaba Dezso,Csaba Dezso,indology-author-8b66d04de0,confirmed,1.0,exact normalized display-name group,2003-05-19T15:45:36+00:00,2026-07-23T16:52:13+00:00,34,31
 Evgeniya Desnitskaya,Evgeniya Desnitskaya,indology-author-9e5174475d,confirmed,1.0,exact normalized display-name group,2020-02-13T15:28:17+00:00,2026-04-13T13:37:43+00:00,34,21
 Heike Oberlin,Heike Oberlin,indology-author-b355e109be,confirmed,1.0,exact normalized display-name group,2014-09-12T07:01:36+00:00,2025-08-08T13:45:42+00:00,34,34
 Narayan R.Joshi,Narayan R.Joshi,indology-author-212ef35219,confirmed,1.0,exact normalized display-name group,2000-12-17T19:21:51+00:00,2001-04-16T02:28:11+00:00,34,33
 Paul Hackett,Paul Hackett,indology-author-96735653f2,confirmed,1.0,exact normalized display-name group,2011-11-10T10:43:40+00:00,2026-03-02T15:31:39+00:00,34,29
 Seishi Karashima,Seishi Karashima,indology-author-9cb1f7e187,confirmed,1.0,exact normalized display-name group,2015-04-30T00:25:44+00:00,2019-06-24T10:21:03+00:00,34,24
 Tim Felix Aufderheide,Tim Felix Aufderheide,indology-author-14b5dbac08,confirmed,1.0,exact normalized display-name group,2019-05-05T11:16:12+00:00,2022-04-23T12:42:42+00:00,34,18
-Csaba Dezso,Csaba Dezso,indology-author-8b66d04de0,confirmed,1.0,exact normalized display-name group,2003-05-19T15:45:36+00:00,2026-06-15T18:04:03+00:00,33,30
 David Salmon,David Salmon,indology-author-4949ca6bc0,confirmed,1.0,exact normalized display-name group,1998-11-29T15:47:25+00:00,2001-04-17T18:02:04+00:00,33,30
 Francois Quiviger,Francois Quiviger,indology-author-4727b51f57,confirmed,1.0,exact normalized display-name group,1995-08-17T09:31:59+00:00,1997-10-13T18:54:44+00:00,33,32
 François Patte,François Patte,indology-author-a77b8fee43,confirmed,1.0,exact normalized display-name group,2000-05-16T17:43:15+00:00,2026-01-30T09:56:36+00:00,33,24
@@ -313,8 +313,10 @@ Sid Harth,Sid Harth,indology-author-8ca81ae546,confirmed,1.0,exact normalized di
 Timothy Lubin,Timothy Lubin,indology-author-8da802edbe,confirmed,1.0,exact normalized display-name group,1996-03-05T00:45:34+00:00,2008-02-15T13:06:32+00:00,32,28
 Vidhyanath K. Rao,Vidhyanath K. Rao,indology-author-6285e559db,confirmed,1.0,exact normalized display-name group,1994-11-30T13:12:43+00:00,1998-11-11T17:13:26+00:00,32,31
 Viktoria Lyssenko,Viktoria Lyssenko,indology-author-44f503e9bf,confirmed,1.0,exact normalized display-name group,2008-08-07T18:13:44+00:00,2013-05-29T05:40:02+00:00,32,23
+Дмитрий Комиссаров,Дмитрий Комиссаров,indology-author-4d02106d55,confirmed,1.0,exact normalized display-name group,2024-06-13T21:29:42+00:00,2026-07-24T11:42:18+00:00,32,20
 Anthony P Stone,Anthony P Stone,indology-author-145faa5c91,confirmed,1.0,exact normalized display-name group,1997-01-09T17:05:20+00:00,1999-06-20T11:23:05+00:00,31,29
 Balogh Dániel,Balogh Dániel,indology-author-e477d23411,confirmed,1.0,exact normalized display-name group,2012-12-18T09:39:19+00:00,2019-01-13T15:16:22+00:00,31,27
+"Fitzgerald, James","Fitzgerald, James",indology-author-e77ab6a732,confirmed,1.0,exact normalized display-name group,2009-03-06T11:26:44+00:00,2026-07-31T22:13:26+00:00,31,28
 John Peterson,John Peterson,indology-author-249bb8a0e8,confirmed,1.0,exact normalized display-name group,1996-08-01T08:49:59+00:00,2023-08-02T12:00:13+00:00,31,30
 Nataliya Yanchevskaya,Nataliya Yanchevskaya,indology-author-6d5e2722fc,confirmed,1.0,exact normalized display-name group,2016-05-01T19:43:14+00:00,2026-05-04T17:04:18+00:00,31,22
 Paul G. Hackett,Paul G. Hackett,indology-author-a58c2e10e5,confirmed,1.0,exact normalized display-name group,2006-03-22T15:41:53+00:00,2010-09-24T13:38:04+00:00,31,28
@@ -331,7 +333,6 @@ Michael Hahn,Michael Hahn,indology-author-e62c55d7af,confirmed,1.0,exact normali
 Oliver Fallon,Oliver Fallon,indology-author-91bc2a0fef,confirmed,1.0,exact normalized display-name group,2008-03-25T07:36:42+00:00,2025-10-25T16:51:11+00:00,30,23
 Phillip Ernest,Phillip Ernest,indology-author-357d8074ff,confirmed,1.0,exact normalized display-name group,2000-08-02T02:22:49+00:00,2001-04-11T12:03:46+00:00,30,29
 Samuel Wright,Samuel Wright,indology-author-a71aba5dd6,confirmed,1.0,exact normalized display-name group,2014-11-01T17:39:57+00:00,2023-02-25T14:41:58+00:00,30,24
-Дмитрий Комиссаров,Дмитрий Комиссаров,indology-author-4d02106d55,confirmed,1.0,exact normalized display-name group,2024-06-13T21:29:42+00:00,2026-05-16T19:49:58+00:00,30,19
 Anurupa Naik,Anurupa Naik,indology-author-1ebde6b8a4,confirmed,1.0,exact normalized display-name group,2015-04-08T05:55:16+00:00,2022-07-26T04:48:55+00:00,29,16
 "Brendan S. Gillon, Prof.","Brendan S. Gillon, Prof.",indology-author-864469eba0,confirmed,1.0,exact normalized display-name group,2013-05-20T22:54:24+00:00,2024-06-08T21:07:15+00:00,29,26
 Claudius Teodorescu,Claudius Teodorescu,indology-author-50fd9cc6d0,confirmed,1.0,exact normalized display-name group,2016-08-01T16:36:41+00:00,2026-01-15T11:52:13+00:00,29,20
@@ -370,16 +371,16 @@ Julia Leslie,Julia Leslie,indology-author-94e711192d,confirmed,1.0,exact normali
 Mark McClish,Mark McClish,indology-author-db4b592996,confirmed,1.0,exact normalized display-name group,2015-09-02T16:11:10+00:00,2024-01-08T18:30:52+00:00,26,19
 Mārcis Gasūns,Mārcis Gasūns,indology-author-f2bfd86948,confirmed,1.0,exact normalized display-name group,2017-12-29T10:08:10+00:00,2025-02-28T13:15:46+00:00,26,25
 Narahari Achar,Narahari Achar,indology-author-19f28c8122,confirmed,1.0,exact normalized display-name group,1997-02-25T11:11:41+00:00,2001-04-12T17:31:53+00:00,26,26
+Paolo E. Rosati,Paolo E. Rosati,indology-author-27528c260f,confirmed,1.0,exact normalized display-name group,2022-08-26T17:13:51+00:00,2026-07-12T16:38:11+00:00,26,21
 Rembert Lutjeharms,Rembert Lutjeharms,indology-author-66eb531830,confirmed,1.0,exact normalized display-name group,2015-03-03T17:17:29+00:00,2026-05-04T17:14:31+00:00,26,23
 Viktoria Lysenko,Viktoria Lysenko,indology-author-e6b2a80f04,confirmed,1.0,exact normalized display-name group,2013-06-16T10:52:26+00:00,2025-07-13T21:10:44+00:00,26,22
+Arjuna S R,Arjuna S R,indology-author-3542135e61,confirmed,1.0,exact normalized display-name group,2016-09-22T06:37:57+00:00,2026-07-14T12:49:00+00:00,25,25
 Bradley Clough,Bradley Clough,indology-author-99937f71bd,confirmed,1.0,exact normalized display-name group,2002-12-11T12:36:07+00:00,2025-02-26T09:27:25+00:00,25,23
-"Fitzgerald, James","Fitzgerald, James",indology-author-e77ab6a732,confirmed,1.0,exact normalized display-name group,2009-03-06T11:26:44+00:00,2026-06-17T16:39:00+00:00,25,24
 George Cronk,George Cronk,indology-author-ab353baf20,confirmed,1.0,exact normalized display-name group,1998-03-20T22:07:31+00:00,2001-03-16T23:23:26+00:00,25,21
 John Richards,John Richards,indology-author-e09407f9ab,confirmed,1.0,exact normalized display-name group,1995-01-05T11:37:52+00:00,2000-12-27T17:06:44+00:00,25,24
 "Nemec, John William (jwn3y)","Nemec, John William (jwn3y)",indology-author-59d1c25eae,confirmed,1.0,exact normalized display-name group,2019-04-02T13:35:07+00:00,2026-06-17T12:38:19+00:00,25,22
 Nobumi Iyanaga,Nobumi Iyanaga,indology-author-9271cd3ab7,confirmed,1.0,exact normalized display-name group,1995-04-17T21:56:53+00:00,2001-03-14T07:18:43+00:00,25,23
 Pankaj Sukanraj Jain पंकज सुकनराज जैन,Pankaj Sukanraj Jain पंकज सुकनराज जैन,indology-author-717fd162e0,confirmed,1.0,exact normalized display-name group,2023-09-12T12:31:05+00:00,2026-05-15T14:36:29+00:00,25,25
-Paolo E. Rosati,Paolo E. Rosati,indology-author-27528c260f,confirmed,1.0,exact normalized display-name group,2022-08-26T17:13:51+00:00,2026-02-16T22:46:34+00:00,25,20
 Rolf Koch,Rolf Koch,indology-author-e21843c97c,confirmed,1.0,exact normalized display-name group,1998-09-22T13:21:21+00:00,2000-11-14T00:54:27+00:00,25,25
 Vitus Angermeier,Vitus Angermeier,indology-author-b0c8b12739,confirmed,1.0,exact normalized display-name group,2013-10-16T10:49:54+00:00,2025-04-09T11:34:28+00:00,25,22
 elisa freschi,elisa freschi,indology-author-a4750c1897,confirmed,1.0,exact normalized display-name group,2009-03-19T21:25:34+00:00,2020-01-14T07:19:32+00:00,25,24
@@ -388,7 +389,6 @@ naresh keerthi,naresh keerthi,indology-author-03706996a9,confirmed,1.0,exact nor
 "Aditya, the Cheerful Hindu Skeptic","Aditya, the Cheerful Hindu Skeptic",indology-author-7923abab66,confirmed,1.0,exact normalized display-name group,2000-11-16T10:08:20+00:00,2001-02-15T13:48:15+00:00,24,19
 Alessandro Battistini,Alessandro Battistini,indology-author-8f99255eb7,confirmed,1.0,exact normalized display-name group,2014-02-06T18:27:04+00:00,2020-11-25T18:20:44+00:00,24,20
 Anna Aurelia Esposito,Anna Aurelia Esposito,indology-author-1038ba319e,confirmed,1.0,exact normalized display-name group,2017-10-10T06:06:27+00:00,2025-05-07T20:37:02+00:00,24,21
-Arjuna S R,Arjuna S R,indology-author-3542135e61,confirmed,1.0,exact normalized display-name group,2016-09-22T06:37:57+00:00,2026-05-22T11:02:44+00:00,24,24
 David Pierdominici,David Pierdominici,indology-author-5a8fe783c0,confirmed,1.0,exact normalized display-name group,2015-07-28T20:05:38+00:00,2019-02-23T14:28:33+00:00,24,16
 Eric Gurevitch,Eric Gurevitch,indology-author-824a0eaae4,confirmed,1.0,exact normalized display-name group,2017-07-07T13:08:26+00:00,2022-05-15T05:27:52+00:00,24,23
 Erik Reenberg Sand,Erik Reenberg Sand,indology-author-d54b62d1e7,confirmed,1.0,exact normalized display-name group,1995-10-13T15:36:52+00:00,2017-06-24T09:14:47+00:00,24,18
@@ -409,6 +409,7 @@ Dr. T. Ganesan,Dr. T. Ganesan,indology-author-34de025855,confirmed,1.0,exact nor
 Edwin F Bryant,Edwin F Bryant,indology-author-40a06425c2,confirmed,1.0,exact normalized display-name group,1996-05-15T01:11:13+00:00,1997-07-08T10:39:34+00:00,23,20
 François Voegeli,François Voegeli,indology-author-780bde94bf,confirmed,1.0,exact normalized display-name group,2013-06-11T12:36:39+00:00,2024-12-09T13:37:39+00:00,23,22
 Jan Filipský,Jan Filipský,indology-author-b716711518,confirmed,1.0,exact normalized display-name group,2008-04-28T09:28:59+00:00,2025-04-17T21:07:15+00:00,23,21
+KORN Agnes,KORN Agnes,indology-author-2b2b7b0652,confirmed,1.0,exact normalized display-name group,2019-03-04T08:41:52+00:00,2026-07-15T13:28:49+00:00,23,18
 Mahes Raj Pant,Mahes Raj Pant,indology-author-a159cd152d,confirmed,1.0,exact normalized display-name group,2001-09-27T09:17:43+00:00,2012-05-13T04:48:11+00:00,23,19
 Robert A. Hueckstedt,Robert A. Hueckstedt,indology-author-c498437649,confirmed,1.0,exact normalized display-name group,1994-04-05T13:42:26+00:00,2013-06-12T15:05:34+00:00,23,22
 Steven Lindquist,Steven Lindquist,indology-author-cec1100ddd,confirmed,1.0,exact normalized display-name group,2008-11-30T04:08:30+00:00,2011-03-18T08:13:09+00:00,23,22
@@ -418,7 +419,6 @@ Gerard Huet,Gerard Huet,indology-author-43ed0e6779,confirmed,1.0,exact normalize
 James E. Agenbroad,James E. Agenbroad,indology-author-fda4a3453f,confirmed,1.0,exact normalized display-name group,1995-08-16T19:02:13+00:00,2001-03-14T22:36:47+00:00,22,22
 Jarrod Whitaker,Jarrod Whitaker,indology-author-e9d38bdfc9,confirmed,1.0,exact normalized display-name group,2011-06-29T23:59:53+00:00,2022-02-10T16:23:53+00:00,22,22
 Jim Hartzell,Jim Hartzell,indology-author-2ea1d3abf8,confirmed,1.0,exact normalized display-name group,1994-04-12T15:55:21+00:00,1997-03-17T14:33:14+00:00,22,22
-KORN Agnes,KORN Agnes,indology-author-2b2b7b0652,confirmed,1.0,exact normalized display-name group,2019-03-04T08:41:52+00:00,2026-04-21T13:18:31+00:00,22,17
 Paul Kiparsky,Paul Kiparsky,indology-author-f1502680cc,confirmed,1.0,exact normalized display-name group,1990-12-03T06:27:08+00:00,2011-07-09T20:12:08+00:00,22,22
 Srinivasa Varakhedi,Srinivasa Varakhedi,indology-author-4eed21c3f3,confirmed,1.0,exact normalized display-name group,2005-02-21T00:03:45+00:00,2010-08-02T17:58:07+00:00,22,20
 Stanley Rice,Stanley Rice,indology-author-e19892d9a8,confirmed,1.0,exact normalized display-name group,1994-05-08T05:37:23+00:00,1996-07-07T18:18:41+00:00,22,22
@@ -503,9 +503,12 @@ Jaap Pranger,Jaap Pranger,indology-author-3838a7fd9c,confirmed,1.0,exact normali
 Jan Houben,Jan Houben,indology-author-37e2190f65,confirmed,1.0,exact normalized display-name group,2007-06-21T16:00:48+00:00,2009-06-22T19:18:24+00:00,18,18
 John Lowe,John Lowe,indology-author-ce4833749e,confirmed,1.0,exact normalized display-name group,2019-05-15T19:18:49+00:00,2023-07-07T12:53:39+00:00,18,13
 Kush Depala,Kush Depala,indology-author-18782c1348,confirmed,1.0,exact normalized display-name group,2019-09-05T10:44:25+00:00,2026-03-18T22:24:29+00:00,18,18
+Lauren Bausch,Lauren Bausch,indology-author-71efd9e582,confirmed,1.0,exact normalized display-name group,2016-09-06T23:43:09+00:00,2026-07-11T16:44:18+00:00,18,18
+Pranav Prakash,Pranav Prakash,indology-author-b7fe765333,confirmed,1.0,exact normalized display-name group,2023-03-20T09:54:18+00:00,2026-07-14T22:09:22+00:00,18,13
 Richard Barz,Richard Barz,indology-author-d6b570186d,confirmed,1.0,exact normalized display-name group,1997-10-24T09:03:30+00:00,2000-09-05T03:45:16+00:00,18,18
 Richard Hayes,Richard Hayes,indology-author-27d16f98db,confirmed,1.0,exact normalized display-name group,1990-11-29T10:42:30+00:00,2013-11-13T18:29:23+00:00,18,17
 "Rocher, Rosane D","Rocher, Rosane D",indology-author-a51a88a96c,confirmed,1.0,exact normalized display-name group,2018-11-01T02:28:00+00:00,2020-01-14T04:09:00+00:00,18,13
+Samuel Grimes,Samuel Grimes,indology-author-cc4c25f957,confirmed,1.0,exact normalized display-name group,2020-08-10T19:27:52+00:00,2026-07-19T00:41:28+00:00,18,15
 Vanessa Sasson,Vanessa Sasson,indology-author-0c9637bd0c,confirmed,1.0,exact normalized display-name group,2014-09-30T19:02:07+00:00,2025-05-06T11:49:29+00:00,18,15
 sudheer birodkar,sudheer birodkar,indology-author-3486049490,confirmed,1.0,exact normalized display-name group,1997-06-11T21:32:22+00:00,1998-04-23T02:51:18+00:00,18,17
 "Aditya, the ]-[indu $kepti¢","Aditya, the ]-[indu $kepti¢",indology-author-7fede3a721,confirmed,1.0,exact normalized display-name group,1998-12-25T15:28:46+00:00,1999-02-20T15:59:13+00:00,17,13
@@ -517,8 +520,6 @@ Dr. S. Kalyanaraman,Dr. S. Kalyanaraman,indology-author-64b85877b4,confirmed,1.0
 Finnian Moore-Gerety,Finnian Moore-Gerety,indology-author-682da97063,confirmed,1.0,exact normalized display-name group,2020-11-14T21:23:36+00:00,2024-02-18T21:51:01+00:00,17,17
 Ingo Strauch,Ingo Strauch,indology-author-b86cb60f37,confirmed,1.0,exact normalized display-name group,2007-11-13T16:49:41+00:00,2025-05-04T20:06:50+00:00,17,17
 "Manring, Rebecca","Manring, Rebecca",indology-author-c7f17da4e9,confirmed,1.0,exact normalized display-name group,2002-02-13T10:07:16+00:00,2012-11-07T15:21:51+00:00,17,17
-Pranav Prakash,Pranav Prakash,indology-author-b7fe765333,confirmed,1.0,exact normalized display-name group,2023-03-20T09:54:18+00:00,2025-10-25T20:14:17+00:00,17,12
-Samuel Grimes,Samuel Grimes,indology-author-cc4c25f957,confirmed,1.0,exact normalized display-name group,2020-08-10T19:27:52+00:00,2026-05-15T03:57:28+00:00,17,14
 "Shaw, Julia","Shaw, Julia",indology-author-1577358a41,confirmed,1.0,exact normalized display-name group,2016-05-17T13:14:58+00:00,2023-03-06T20:17:13+00:00,17,11
 Srilata Raman,Srilata Raman,indology-author-a7f3b018ec,confirmed,1.0,exact normalized display-name group,2020-05-26T13:05:15+00:00,2025-12-25T11:53:50+00:00,17,17
 Thomas Lehmann,Thomas Lehmann,indology-author-425bba06ce,confirmed,1.0,exact normalized display-name group,1996-09-27T13:40:33+00:00,2000-08-14T09:04:39+00:00,17,17
@@ -535,7 +536,6 @@ Ithamar Theodor,Ithamar Theodor,indology-author-def6cf8a84,confirmed,1.0,exact n
 J L Brockington,J L Brockington,indology-author-f9e2add0d5,confirmed,1.0,exact normalized display-name group,2007-06-08T15:13:51+00:00,2012-04-02T10:09:14+00:00,16,15
 JAGANADH GOPINADHAN,JAGANADH GOPINADHAN,indology-author-c1fea70330,confirmed,1.0,exact normalized display-name group,2006-10-25T08:27:22+00:00,2009-06-15T12:22:42+00:00,16,13
 Joydeep Mitra,Joydeep Mitra,indology-author-e1b210e27c,confirmed,1.0,exact normalized display-name group,1994-11-02T20:06:06+00:00,1998-09-28T23:45:13+00:00,16,14
-Lauren Bausch,Lauren Bausch,indology-author-71efd9e582,confirmed,1.0,exact normalized display-name group,2016-09-06T23:43:09+00:00,2025-10-04T18:45:43+00:00,16,16
 Madhav M. Deshpande,Madhav M. Deshpande,indology-author-1cda634269,confirmed,1.0,exact normalized display-name group,2001-08-01T20:17:50+00:00,2002-04-26T01:57:15+00:00,16,15
 Malcolm Keating,Malcolm Keating,indology-author-4e7ecd8da4,confirmed,1.0,exact normalized display-name group,2012-03-06T01:14:05+00:00,2023-07-01T22:43:10+00:00,16,11
 "Michaels, Prof. Dr. Axel","Michaels, Prof. Dr. Axel",indology-author-a9452ba80d,confirmed,1.0,exact normalized display-name group,2022-04-11T08:37:51+00:00,2026-04-28T13:58:54+00:00,16,16
@@ -544,6 +544,7 @@ Nina Mirnig,Nina Mirnig,indology-author-3c97d00f46,confirmed,1.0,exact normalize
 Paliath Narendran,Paliath Narendran,indology-author-15dcbc402e,confirmed,1.0,exact normalized display-name group,1994-09-26T19:01:17+00:00,1998-03-22T17:11:39+00:00,16,16
 Peter Gaeffke,Peter Gaeffke,indology-author-37bd2e3f7a,confirmed,1.0,exact normalized display-name group,1996-01-31T03:37:55+00:00,1996-07-17T17:43:28+00:00,16,15
 R. P. Jain,R. P. Jain,indology-author-97c22b0400,confirmed,1.0,exact normalized display-name group,2016-03-10T10:09:42+00:00,2020-12-15T07:34:20+00:00,16,16
+"Rastelli, Marion","Rastelli, Marion",indology-author-b8fc600dcd,confirmed,1.0,exact normalized display-name group,2011-06-28T14:33:16+00:00,2026-07-24T11:39:55+00:00,16,16
 carlo della casa,carlo della casa,indology-author-c5ef0fbfd0,confirmed,1.0,exact normalized display-name group,1993-03-29T23:24:23+00:00,1995-01-13T18:21:09+00:00,16,16
 eva de clercq,eva de clercq,indology-author-f08fa4bfd2,confirmed,1.0,exact normalized display-name group,2019-09-16T07:56:57+00:00,2025-02-24T15:05:30+00:00,16,16
 Alec McAllister,Alec McAllister,indology-author-32932b9123,confirmed,1.0,exact normalized display-name group,1995-04-21T16:07:28+00:00,1997-05-14T13:13:02+00:00,15,15
@@ -557,7 +558,6 @@ John Taber,John Taber,indology-author-a726ff86dc,confirmed,1.0,exact normalized 
 "Kellner, Birgit","Kellner, Birgit",indology-author-71065832ee,confirmed,1.0,exact normalized display-name group,2010-04-07T10:50:29+00:00,2014-03-27T17:48:56+00:00,15,15
 NAYAK Anand,NAYAK Anand,indology-author-1d77805dfd,confirmed,1.0,exact normalized display-name group,2000-01-07T11:37:19+00:00,2008-10-22T13:06:53+00:00,15,15
 R Srinivasan,R Srinivasan,indology-author-51f5ae1b63,confirmed,1.0,exact normalized display-name group,2000-12-13T02:53:53+00:00,2000-12-30T21:47:59+00:00,15,13
-"Rastelli, Marion","Rastelli, Marion",indology-author-b8fc600dcd,confirmed,1.0,exact normalized display-name group,2011-06-28T14:33:16+00:00,2026-04-28T10:23:58+00:00,15,15
 Roelf Barkhuis,Roelf Barkhuis,indology-author-b5d678cc3b,confirmed,1.0,exact normalized display-name group,1998-12-24T14:28:10+00:00,2017-11-24T12:02:14+00:00,15,14
 Sara McClintock,Sara McClintock,indology-author-4c40c4d914,confirmed,1.0,exact normalized display-name group,1997-11-24T09:31:32+00:00,2001-08-03T22:24:45+00:00,15,14
 Shrinivasa Varakhedi,Shrinivasa Varakhedi,indology-author-55765748a5,confirmed,1.0,exact normalized display-name group,2012-02-04T17:24:04+00:00,2024-06-09T02:10:05+00:00,15,15
@@ -623,6 +623,7 @@ BROCKINGTON John,BROCKINGTON John,indology-author-dad6796aca,confirmed,1.0,exact
 Carmen Spiers,Carmen Spiers,indology-author-d279b4cea3,confirmed,1.0,exact normalized display-name group,2021-10-20T06:52:10+00:00,2025-10-22T14:57:13+00:00,12,9
 Christian Coseru,Christian Coseru,indology-author-845ebd7dd2,confirmed,1.0,exact normalized display-name group,1999-11-18T16:42:24+00:00,2010-01-12T21:11:54+00:00,12,12
 Daniel Baum,Daniel Baum,indology-author-1e21f268a0,confirmed,1.0,exact normalized display-name group,1995-06-29T18:40:44+00:00,1999-06-01T01:09:22+00:00,12,12
+Gautama Vajracharya,Gautama Vajracharya,indology-author-7435ef66e3,confirmed,1.0,exact normalized display-name group,1997-05-31T17:47:44+00:00,2026-07-03T17:27:03+00:00,12,12
 Heike Moser,Heike Moser,indology-author-4403693bb7,confirmed,1.0,exact normalized display-name group,2007-09-01T10:22:01+00:00,2012-10-12T12:29:06+00:00,12,12
 Jay Thakar,Jay Thakar,indology-author-fd7295f99f,confirmed,1.0,exact normalized display-name group,1997-09-03T15:19:16+00:00,1998-02-04T12:55:09+00:00,12,8
 Jesualdo Correia,Jesualdo Correia,indology-author-be27d0d626,confirmed,1.0,exact normalized display-name group,2000-07-19T01:28:44+00:00,2001-04-16T06:59:30+00:00,12,12
@@ -654,7 +655,6 @@ David Lorenzen S.,David Lorenzen S.,indology-author-91708c4e60,confirmed,1.0,exa
 Dermot Killingley,Dermot Killingley,indology-author-fe4866d503,confirmed,1.0,exact normalized display-name group,1998-11-16T12:02:12+00:00,2026-04-17T07:58:32+00:00,11,11
 Elena Mucciarelli,Elena Mucciarelli,indology-author-b476639852,confirmed,1.0,exact normalized display-name group,2013-07-06T09:23:04+00:00,2025-01-17T19:38:13+00:00,11,9
 Frederick M Asher,Frederick M Asher,indology-author-5189eea49c,confirmed,1.0,exact normalized display-name group,1994-04-14T15:29:38+00:00,1995-06-11T19:13:55+00:00,11,10
-Gautama Vajracharya,Gautama Vajracharya,indology-author-7435ef66e3,confirmed,1.0,exact normalized display-name group,1997-05-31T17:47:44+00:00,2011-10-23T21:16:59+00:00,11,11
 Jeroen Hellingman,Jeroen Hellingman,indology-author-d62b40257b,confirmed,1.0,exact normalized display-name group,1993-01-27T15:19:48+00:00,1994-06-20T11:35:49+00:00,11,11
 Joel H. Tatelman,Joel H. Tatelman,indology-author-7a52972c23,confirmed,1.0,exact normalized display-name group,1997-09-05T13:46:40+00:00,1998-05-06T16:07:17+00:00,11,11
 John Nemec,John Nemec,indology-author-59412f6802,confirmed,1.0,exact normalized display-name group,1995-11-10T13:29:43+00:00,2016-03-13T19:55:22+00:00,11,8
@@ -695,6 +695,7 @@ Chris Clark,Chris Clark,indology-author-5d8a1fc7fe,confirmed,1.0,exact normalize
 Claudine Bautze-Picron,Claudine Bautze-Picron,indology-author-8264bfe1f7,confirmed,1.0,exact normalized display-name group,2009-01-12T11:15:56+00:00,2010-04-29T16:40:51+00:00,10,10
 Claudine Picron,Claudine Picron,indology-author-a0e274e641,confirmed,1.0,exact normalized display-name group,2008-02-19T17:18:55+00:00,2008-12-21T05:28:51+00:00,10,10
 Clementin Catherine,Clementin Catherine,indology-author-97dc21e1f7,confirmed,1.0,exact normalized display-name group,2014-06-26T07:38:46+00:00,2022-05-15T11:05:43+00:00,10,10
+Daniela Bevilacqua,Daniela Bevilacqua,indology-author-608d63a43a,confirmed,1.0,exact normalized display-name group,2024-08-27T07:38:26+00:00,2026-07-12T06:35:13+00:00,10,8
 G.J. Meulenbeld,G.J. Meulenbeld,indology-author-b37cc1433d,confirmed,1.0,exact normalized display-name group,2008-04-17T03:51:43+00:00,2010-04-27T08:26:30+00:00,10,9
 J.K. Brzezinski,J.K. Brzezinski,indology-author-953e0a3715,confirmed,1.0,exact normalized display-name group,1994-03-08T17:19:26+00:00,1995-02-21T21:01:55+00:00,10,10
 J.M. Fritzman,J.M. Fritzman,indology-author-809576a2d5,confirmed,1.0,exact normalized display-name group,2024-02-18T18:13:24+00:00,2026-03-31T19:54:14+00:00,10,10
@@ -712,6 +713,7 @@ Michael J. Sweet,Michael J. Sweet,indology-author-5332060f1d,confirmed,1.0,exact
 Michael Zimmermann,Michael Zimmermann,indology-author-be7ed460db,confirmed,1.0,exact normalized display-name group,2002-01-29T07:58:31+00:00,2016-04-26T20:19:53+00:00,10,10
 Olivia Cattedra,Olivia Cattedra,indology-author-34b60e304e,confirmed,1.0,exact normalized display-name group,2007-09-05T09:14:18+00:00,2008-10-24T18:43:58+00:00,10,9
 Paul (Kekai) Manansala,Paul (Kekai) Manansala,indology-author-36f4518127,confirmed,1.0,exact normalized display-name group,1998-02-21T03:45:42+00:00,1998-03-17T13:19:35+00:00,10,8
+Paul Thomas,Paul Thomas,indology-author-1b7dfa05f5,confirmed,1.0,exact normalized display-name group,2024-09-24T13:51:24+00:00,2026-07-20T16:16:29+00:00,10,6
 Per-Johan Norelius,Per-Johan Norelius,indology-author-786c75cfb2,confirmed,1.0,exact normalized display-name group,2019-10-03T08:02:14+00:00,2022-11-22T09:36:40+00:00,10,5
 Ravi Chawla,Ravi Chawla,indology-author-2b1bb811e0,confirmed,1.0,exact normalized display-name group,1999-12-18T22:36:27+00:00,2000-05-21T22:31:44+00:00,10,9
 Rebecca Manring,Rebecca Manring,indology-author-54bd0b96b4,confirmed,1.0,exact normalized display-name group,1996-09-04T14:36:21+00:00,2000-02-09T18:35:46+00:00,10,10
@@ -723,7 +725,6 @@ Andrew Fort,Andrew Fort,indology-author-38d88c6ce6,confirmed,1.0,exact normalize
 Anna Slaczka,Anna Slaczka,indology-author-1cc7b210f0,confirmed,1.0,exact normalized display-name group,2013-06-29T12:19:47+00:00,2022-08-31T05:53:16+00:00,9,6
 Bapa Rao,Bapa Rao,indology-author-3a54a92171,confirmed,1.0,exact normalized display-name group,1998-03-27T13:14:05+00:00,1999-01-04T16:22:48+00:00,9,8
 "Clarke, Shayne","Clarke, Shayne",indology-author-78b0ac1ccc,confirmed,1.0,exact normalized display-name group,2016-02-04T14:18:33+00:00,2025-07-03T13:16:01+00:00,9,9
-Daniela Bevilacqua,Daniela Bevilacqua,indology-author-608d63a43a,confirmed,1.0,exact normalized display-name group,2024-08-27T07:38:26+00:00,2026-04-28T11:38:23+00:00,9,7
 Daud R. Ali,Daud R. Ali,indology-author-6c2daab8bd,confirmed,1.0,exact normalized display-name group,1995-03-28T03:39:10+00:00,1995-08-18T19:00:31+00:00,9,8
 David Jonsson,David Jonsson,indology-author-b610a23f74,confirmed,1.0,exact normalized display-name group,1999-04-22T10:16:53+00:00,1999-11-02T00:45:16+00:00,9,8
 DiSimone Charles,DiSimone Charles,indology-author-f35841b47f,confirmed,1.0,exact normalized display-name group,2008-06-15T18:55:08+00:00,2013-07-11T07:55:19+00:00,9,9
@@ -757,6 +758,7 @@ Rajeev P. Jain,Rajeev P. Jain,indology-author-8eebb4cafe,confirmed,1.0,exact nor
 Rama Balasubramanian,Rama Balasubramanian,indology-author-6c2371db6c,confirmed,1.0,exact normalized display-name group,1997-10-06T14:16:13+00:00,1998-02-26T13:35:17+00:00,9,6
 "Reich, James David","Reich, James David",indology-author-0412315a4d,confirmed,1.0,exact normalized display-name group,2021-05-19T19:40:54+00:00,2024-11-04T20:37:07+00:00,9,8
 Rosina Pastore,Rosina Pastore,indology-author-f5facaf7ad,confirmed,1.0,exact normalized display-name group,2025-09-07T13:41:41+00:00,2025-11-27T08:04:06+00:00,9,3
+"Smith, Frederick M","Smith, Frederick M",indology-author-40e1c921d8,confirmed,1.0,exact normalized display-name group,2008-04-20T16:31:33+00:00,2026-07-06T04:23:43+00:00,9,8
 Sravana Borkataky-Varma,Sravana Borkataky-Varma,indology-author-e0e031491c,confirmed,1.0,exact normalized display-name group,2018-10-28T17:57:39+00:00,2023-05-01T14:16:45+00:00,9,9
 Sugandha Johar,Sugandha Johar,indology-author-f634b850c2,confirmed,1.0,exact normalized display-name group,1996-12-09T06:50:11+00:00,1997-10-02T12:37:29+00:00,9,9
 Svevo D'Onofrio,Svevo D'Onofrio,indology-author-1d8f400c25,confirmed,1.0,exact normalized display-name group,2008-06-15T18:39:58+00:00,2016-01-21T23:24:43+00:00,9,9
@@ -770,9 +772,11 @@ rainer stuhrmann,rainer stuhrmann,indology-author-5711b6bf32,confirmed,1.0,exact
 Akihiko Akamatsu,Akihiko Akamatsu,indology-author-8ee2897e6f,confirmed,1.0,exact normalized display-name group,1994-06-07T18:20:10+00:00,2009-08-22T13:06:09+00:00,8,8
 Anand V Raman,Anand V Raman,indology-author-e0c8c98c30,confirmed,1.0,exact normalized display-name group,1992-11-17T04:36:03+00:00,1994-09-21T22:35:07+00:00,8,8
 Appasamy Murugaiyan,Appasamy Murugaiyan,indology-author-d5b2ff467a,confirmed,1.0,exact normalized display-name group,2024-04-21T17:41:40+00:00,2025-12-07T19:00:27+00:00,8,7
+"Buchholz, Jonas","Buchholz, Jonas",indology-author-f3afe005b4,confirmed,1.0,exact normalized display-name group,2023-03-24T08:13:37+00:00,2026-07-10T07:46:28+00:00,8,6
 Cezary Galewicz,Cezary Galewicz,indology-author-a9ae6a5f0e,confirmed,1.0,exact normalized display-name group,1996-05-30T12:38:54+00:00,2017-12-04T18:20:35+00:00,8,8
 Chris Wallis,Chris Wallis,indology-author-3141da8224,confirmed,1.0,exact normalized display-name group,2000-01-29T14:44:55+00:00,2000-03-20T22:41:19+00:00,8,7
 Christina Fritsch,Christina Fritsch,indology-author-1bccedd508,confirmed,1.0,exact normalized display-name group,1998-07-08T09:26:49+00:00,1999-06-29T13:44:02+00:00,8,8
+David S. Magier,David S. Magier,indology-author-1cd3ca2611,confirmed,1.0,exact normalized display-name group,2018-07-11T14:51:36+00:00,2026-07-17T21:34:35+00:00,8,7
 Dimitry Shevchenko,Dimitry Shevchenko,indology-author-bf75acb38f,confirmed,1.0,exact normalized display-name group,2017-11-02T07:48:05+00:00,2022-04-23T10:51:28+00:00,8,6
 Dr Anthony P Stone,Dr Anthony P Stone,indology-author-194e3a6796,confirmed,1.0,exact normalized display-name group,1999-09-17T15:03:06+00:00,2000-10-14T10:48:28+00:00,8,8
 Elisa Ganser,Elisa Ganser,indology-author-bd8a9426e6,confirmed,1.0,exact normalized display-name group,2018-02-10T09:17:05+00:00,2023-01-04T09:15:48+00:00,8,6
@@ -800,6 +804,7 @@ Max Langley,Max Langley,indology-author-353be5e416,confirmed,1.0,exact normalize
 "McGrath, Kevin","McGrath, Kevin",indology-author-2c6ff020d9,confirmed,1.0,exact normalized display-name group,2016-05-19T19:28:33+00:00,2023-03-14T15:27:28+00:00,8,7
 "Mehta, Shailendra","Mehta, Shailendra",indology-author-311e6979d9,confirmed,1.0,exact normalized display-name group,1995-09-14T23:56:46+00:00,2000-01-10T01:23:11+00:00,8,8
 Michaël Meyer,Michaël Meyer,indology-author-e922d9f560,confirmed,1.0,exact normalized display-name group,2019-06-19T08:15:15+00:00,2024-01-08T08:54:48+00:00,8,7
+Nicole Karapanagiotis,Nicole Karapanagiotis,indology-author-eb0fa460dd,confirmed,1.0,exact normalized display-name group,2016-09-08T16:13:34+00:00,2026-07-06T00:10:29+00:00,8,6
 Olga Nowicka,Olga Nowicka,indology-author-67ddc21048,confirmed,1.0,exact normalized display-name group,2015-06-02T19:07:19+00:00,2025-03-13T05:10:37+00:00,8,7
 P. Cooper,P. Cooper,indology-author-5f032030a7,confirmed,1.0,exact normalized display-name group,1997-12-12T16:14:56+00:00,1999-04-22T15:11:59+00:00,8,8
 Prof. D N Jha,Prof. D N Jha,indology-author-fc4f8ec875,confirmed,1.0,exact normalized display-name group,2000-09-22T00:40:44+00:00,2001-01-28T22:26:54+00:00,8,8
@@ -807,7 +812,7 @@ Ravindran Sriramachhandran,Ravindran Sriramachhandran,indology-author-cc10d7c908
 SAMUELS JEFFREY,SAMUELS JEFFREY,indology-author-6422f645e4,confirmed,1.0,exact normalized display-name group,1993-09-08T18:36:05+00:00,1994-08-01T21:39:07+00:00,8,8
 SHREENAND BAPAT,SHREENAND BAPAT,indology-author-0c4705f786,confirmed,1.0,exact normalized display-name group,2000-09-19T10:38:20+00:00,2001-02-04T08:22:35+00:00,8,7
 Shankar Nair,Shankar Nair,indology-author-1d85380323,confirmed,1.0,exact normalized display-name group,2016-03-16T21:58:45+00:00,2023-05-16T19:47:48+00:00,8,6
-"Smith, Frederick M","Smith, Frederick M",indology-author-40e1c921d8,confirmed,1.0,exact normalized display-name group,2008-04-20T16:31:33+00:00,2025-05-15T02:16:41+00:00,8,7
+Sharon Ben-Dor,Sharon Ben-Dor,indology-author-149065e08a,confirmed,1.0,exact normalized display-name group,2014-09-28T21:15:48+00:00,2026-07-15T06:53:50+00:00,8,7
 Som Dev Vasudeva,Som Dev Vasudeva,indology-author-a85d279529,confirmed,1.0,exact normalized display-name group,2006-12-11T07:53:57+00:00,2012-05-25T23:26:12+00:00,8,8
 Sreenivasa S. S. Nittala,Sreenivasa S. S. Nittala,indology-author-c978814d43,confirmed,1.0,exact normalized display-name group,1996-09-26T16:26:53+00:00,1998-05-04T13:23:16+00:00,8,7
 Sushil Jain,Sushil Jain,indology-author-cc21219855,confirmed,1.0,exact normalized display-name group,1996-05-20T22:27:38+00:00,2000-11-05T03:55:12+00:00,8,8
@@ -824,7 +829,6 @@ Anne Monius,Anne Monius,indology-author-b38ac51f58,confirmed,1.0,exact normalize
 Anurupa IFP,Anurupa IFP,indology-author-9a4e2d87f3,confirmed,1.0,exact normalized display-name group,2013-09-23T07:37:23+00:00,2015-02-17T08:51:53+00:00,7,7
 Bal Prasad,Bal Prasad,indology-author-5d86a2cf1e,confirmed,1.0,exact normalized display-name group,1998-11-06T19:20:11+00:00,2000-09-05T22:50:55+00:00,7,7
 Brendan S. Gillon,Brendan S. Gillon,indology-author-5e4b16f05e,confirmed,1.0,exact normalized display-name group,1990-11-30T03:52:48+00:00,1993-05-05T15:54:43+00:00,7,7
-"Buchholz, Jonas","Buchholz, Jonas",indology-author-f3afe005b4,confirmed,1.0,exact normalized display-name group,2023-03-24T08:13:37+00:00,2025-03-07T14:50:25+00:00,7,5
 Chlodwig H. Werba,Chlodwig H. Werba,indology-author-794a7256ed,confirmed,1.0,exact normalized display-name group,2015-01-05T14:02:19+00:00,2018-01-08T09:02:25+00:00,7,6
 Chris Austin,Chris Austin,indology-author-23507b611f,confirmed,1.0,exact normalized display-name group,1996-10-04T03:10:28+00:00,2002-12-04T11:55:46+00:00,7,7
 Christopher John Fynn,Christopher John Fynn,indology-author-f1f141f3b4,confirmed,1.0,exact normalized display-name group,2000-04-11T11:46:07+00:00,2000-04-22T00:51:36+00:00,7,5
@@ -833,12 +837,12 @@ DC Lammerts,DC Lammerts,indology-author-069525d2d8,confirmed,1.0,exact normalize
 DEVI IFP,DEVI IFP,indology-author-89faf5a477,confirmed,1.0,exact normalized display-name group,2003-02-07T10:42:23+00:00,2003-10-13T14:06:58+00:00,7,7
 DN Jha,DN Jha,indology-author-c7244c6f5f,confirmed,1.0,exact normalized display-name group,2009-07-21T10:19:31+00:00,2012-11-11T04:28:20+00:00,7,7
 Daniela De Simone,Daniela De Simone,indology-author-328800a1d2,confirmed,1.0,exact normalized display-name group,2017-11-24T12:19:52+00:00,2022-12-26T10:28:52+00:00,7,7
-David S. Magier,David S. Magier,indology-author-1cd3ca2611,confirmed,1.0,exact normalized display-name group,2018-07-11T14:51:36+00:00,2025-06-29T13:05:31+00:00,7,6
 David Stampe,David Stampe,indology-author-9811238ac3,confirmed,1.0,exact normalized display-name group,1992-05-21T01:55:27+00:00,1995-09-12T23:18:31+00:00,7,7
 Deven Patel,Deven Patel,indology-author-de9fada184,confirmed,1.0,exact normalized display-name group,2008-10-31T19:16:39+00:00,2025-09-20T17:14:49+00:00,7,7
 Dr. Dominik Wujastyk,Dr. Dominik Wujastyk,indology-author-fadc1a4a45,confirmed,1.0,exact normalized display-name group,1995-01-08T23:33:45+00:00,1995-01-12T14:53:12+00:00,7,6
 Dr. Nupam Mahajan,Dr. Nupam Mahajan,indology-author-30252d6d27,confirmed,1.0,exact normalized display-name group,1998-08-05T23:41:52+00:00,2000-01-09T20:56:20+00:00,7,7
 Eviatar Shulman,Eviatar Shulman,indology-author-59e6c83a35,confirmed,1.0,exact normalized display-name group,2017-08-04T07:45:13+00:00,2023-05-27T10:26:52+00:00,7,7
+Fabrice Duvinage,Fabrice Duvinage,indology-author-b42767b7af,confirmed,1.0,exact normalized display-name group,2014-01-29T16:41:10+00:00,2026-07-13T14:05:14+00:00,7,7
 Florinda De Simini,Florinda De Simini,indology-author-9dbc54bb68,confirmed,1.0,exact normalized display-name group,2016-11-07T21:14:39+00:00,2026-06-10T17:29:20+00:00,7,7
 Frank Van Den Bossche,Frank Van Den Bossche,indology-author-5c9c30069e,confirmed,1.0,exact normalized display-name group,1996-08-07T03:22:54+00:00,2000-03-13T10:31:11+00:00,7,7
 George Baumann,George Baumann,indology-author-bdbe005212,confirmed,1.0,exact normalized display-name group,2000-04-12T05:56:58+00:00,2001-04-10T01:25:40+00:00,7,7
@@ -859,9 +863,7 @@ Leona Anderson,Leona Anderson,indology-author-8b2042e0ac,confirmed,1.0,exact nor
 Marco Ferrante,Marco Ferrante,indology-author-c6a4baa97a,confirmed,1.0,exact normalized display-name group,2021-12-05T07:27:31+00:00,2025-03-05T09:39:21+00:00,7,6
 Matthew Robertson,Matthew Robertson,indology-author-56bc38a1a2,confirmed,1.0,exact normalized display-name group,2024-02-12T17:39:16+00:00,2026-03-07T18:43:43+00:00,7,4
 Namrata Bose,Namrata Bose,indology-author-f139f2a2f9,confirmed,1.0,exact normalized display-name group,1999-09-04T14:28:10+00:00,2000-10-23T12:40:52+00:00,7,6
-Nicole Karapanagiotis,Nicole Karapanagiotis,indology-author-eb0fa460dd,confirmed,1.0,exact normalized display-name group,2016-09-08T16:13:34+00:00,2023-04-24T23:38:09+00:00,7,5
 Pathompong Bodhiprasiddhinand,Pathompong Bodhiprasiddhinand,indology-author-a6f668f79c,confirmed,1.0,exact normalized display-name group,2006-08-08T13:24:00+00:00,2016-07-24T04:59:05+00:00,7,7
-Paul Thomas,Paul Thomas,indology-author-1b7dfa05f5,confirmed,1.0,exact normalized display-name group,2024-09-24T13:51:24+00:00,2026-01-10T19:55:49+00:00,7,5
 Peter Freund,Peter Freund,indology-author-0a1198af72,confirmed,1.0,exact normalized display-name group,1999-10-26T22:11:48+00:00,2000-10-11T01:45:10+00:00,7,7
 Peter Pasedach,Peter Pasedach,indology-author-6102830fd0,confirmed,1.0,exact normalized display-name group,2021-09-30T10:15:12+00:00,2022-12-06T17:24:19+00:00,7,5
 Prof. P. Kumar,Prof. P. Kumar,indology-author-b0a7944eb0,confirmed,1.0,exact normalized display-name group,1999-11-03T16:37:50+00:00,2001-04-17T07:29:14+00:00,7,7
@@ -872,7 +874,7 @@ Richard Lariviere,Richard Lariviere,indology-author-a2b9c2c163,confirmed,1.0,exa
 Richard Thomas,Richard Thomas,indology-author-ff652f1afc,confirmed,1.0,exact normalized display-name group,2000-04-05T13:33:00+00:00,2000-11-16T02:10:02+00:00,7,7
 Rishi Rajpopat,Rishi Rajpopat,indology-author-b981055d8c,confirmed,1.0,exact normalized display-name group,2022-05-31T12:37:14+00:00,2023-12-12T09:32:00+00:00,7,5
 "Robert, Eric","Robert, Eric",indology-author-001b4b6f06,confirmed,1.0,exact normalized display-name group,1999-12-07T19:04:15+00:00,2000-08-29T13:51:30+00:00,7,7
-Sharon Ben-Dor,Sharon Ben-Dor,indology-author-149065e08a,confirmed,1.0,exact normalized display-name group,2014-09-28T21:15:48+00:00,2025-03-19T08:27:45+00:00,7,6
+Seth Powell,Seth Powell,indology-author-4f2ff02364,confirmed,1.0,exact normalized display-name group,2023-03-27T16:26:52+00:00,2026-07-27T18:07:02+00:00,7,7
 Somdev Vasudeva,Somdev Vasudeva,indology-author-245c3cb591,confirmed,1.0,exact normalized display-name group,1995-08-22T19:59:56+00:00,1996-10-01T13:19:59+00:00,7,7
 South Asia Section,South Asia Section,indology-author-7e2bab7dfc,confirmed,1.0,exact normalized display-name group,1996-07-12T16:06:33+00:00,1998-05-06T14:42:12+00:00,7,7
 Stephen H. Phillips,Stephen H. Phillips,indology-author-4f40deffc0,confirmed,1.0,exact normalized display-name group,1994-09-15T00:32:00+00:00,1995-12-15T19:05:36+00:00,7,7
@@ -891,6 +893,7 @@ milton degeorge,milton degeorge,indology-author-2d07913cbf,confirmed,1.0,exact n
 Adela or Alain Sandness Leblanc,Adela or Alain Sandness Leblanc,indology-author-ff3141e63a,confirmed,1.0,exact normalized display-name group,2000-01-24T14:22:52+00:00,2000-11-06T19:04:34+00:00,6,6
 Ales Petrocchi,Ales Petrocchi,indology-author-0378f82b17,confirmed,1.0,exact normalized display-name group,2013-05-12T20:17:24+00:00,2015-06-28T18:03:47+00:00,6,6
 Anna Lise Seastrand,Anna Lise Seastrand,indology-author-32e76bc470,confirmed,1.0,exact normalized display-name group,2022-08-24T08:51:01+00:00,2025-11-14T19:43:18+00:00,6,3
+Arti Dhand,Arti Dhand,indology-author-57ee40d02a,confirmed,1.0,exact normalized display-name group,2022-06-02T18:03:50+00:00,2026-07-23T15:02:52+00:00,6,4
 B. Hatcher,B. Hatcher,indology-author-45cd32aaf8,confirmed,1.0,exact normalized display-name group,1995-04-26T15:23:51+00:00,1996-05-14T12:49:03+00:00,6,6
 B. Schlerath,B. Schlerath,indology-author-dc9917161e,confirmed,1.0,exact normalized display-name group,2000-10-31T04:18:16+00:00,2001-01-14T16:09:47+00:00,6,6
 Benjamin Preciado,Benjamin Preciado,indology-author-c31fa3227d,confirmed,1.0,exact normalized display-name group,1997-06-19T03:57:55+00:00,2001-02-15T23:11:57+00:00,6,6
@@ -905,8 +908,8 @@ Chris Haskett,Chris Haskett,indology-author-501b751450,confirmed,1.0,exact norma
 Christian P. Haskett,Christian P. Haskett,indology-author-9b57be3224,confirmed,1.0,exact normalized display-name group,2012-09-07T09:46:57+00:00,2019-06-30T14:35:03+00:00,6,6
 "Coburn, Tom","Coburn, Tom",indology-author-9b85e7deec,confirmed,1.0,exact normalized display-name group,1995-05-08T22:05:28+00:00,1995-07-14T13:27:09+00:00,6,6
 David Fiordalis,David Fiordalis,indology-author-8890f69f49,confirmed,1.0,exact normalized display-name group,2007-01-24T14:19:38+00:00,2014-10-08T19:06:06+00:00,6,5
+Diwakar singh,Diwakar singh,indology-author-74c7c1203a,confirmed,1.0,exact normalized display-name group,2015-02-09T05:15:11+00:00,2026-07-18T02:41:56+00:00,6,5
 F.J. Martinez Garcia,F.J. Martinez Garcia,indology-author-c05624fb63,confirmed,1.0,exact normalized display-name group,1995-07-21T01:15:06+00:00,1996-01-31T01:28:38+00:00,6,6
-Fabrice Duvinage,Fabrice Duvinage,indology-author-b42767b7af,confirmed,1.0,exact normalized display-name group,2014-01-29T16:41:10+00:00,2026-03-05T13:55:36+00:00,6,6
 Gail Coelho,Gail Coelho,indology-author-20f32f9fc5,confirmed,1.0,exact normalized display-name group,1999-09-12T14:32:27+00:00,1999-09-17T20:00:26+00:00,6,5
 Ghanshyam Sharma,Ghanshyam Sharma,indology-author-fc3566a638,confirmed,1.0,exact normalized display-name group,1998-05-14T10:26:12+00:00,2025-05-18T11:21:19+00:00,6,6
 Giles Hooper,Giles Hooper,indology-author-cbb657c2aa,confirmed,1.0,exact normalized display-name group,2012-06-07T12:06:33+00:00,2018-06-18T03:29:51+00:00,6,6
@@ -938,8 +941,8 @@ Pankaj Jain पंकज जैन,Pankaj Jain पंकज जैन,indology-a
 Raj Balkaran,Raj Balkaran,indology-author-9935704c24,confirmed,1.0,exact normalized display-name group,2023-12-01T18:25:05+00:00,2025-11-14T17:08:59+00:00,6,6
 Ravi Chaudhary,Ravi Chaudhary,indology-author-a2e66fb999,confirmed,1.0,exact normalized display-name group,2000-10-28T03:28:03+00:00,2001-03-08T00:13:21+00:00,6,6
 SUBSCRIBE INDOLOGY ganapathi,SUBSCRIBE INDOLOGY ganapathi,indology-author-baeb03fea6,confirmed,1.0,exact normalized display-name group,2000-08-19T04:38:28+00:00,2000-08-28T09:38:57+00:00,6,5
+Santosh Gokhale,Santosh Gokhale,indology-author-1c2ee8e9f4,confirmed,1.0,exact normalized display-name group,2017-02-21T12:35:16+00:00,2026-07-22T05:27:59+00:00,6,5
 Sergey S.Tawaststjerna,Sergey S.Tawaststjerna,indology-author-ff389a33a7,confirmed,1.0,exact normalized display-name group,1999-08-31T13:04:06+00:00,2000-06-13T11:06:28+00:00,6,6
-Seth Powell,Seth Powell,indology-author-4f2ff02364,confirmed,1.0,exact normalized display-name group,2023-03-27T16:26:52+00:00,2026-04-13T23:44:03+00:00,6,6
 Shailendra Raj Mehta,Shailendra Raj Mehta,indology-author-105d0e936e,confirmed,1.0,exact normalized display-name group,2000-05-20T22:32:49+00:00,2001-02-14T17:49:31+00:00,6,6
 Shauna Singh Baldwin,Shauna Singh Baldwin,indology-author-b4accf3652,confirmed,1.0,exact normalized display-name group,1998-09-29T04:39:46+00:00,1999-11-18T17:36:48+00:00,6,6
 Sumit Guha,Sumit Guha,indology-author-75dab9f334,confirmed,1.0,exact normalized display-name group,2002-11-06T23:03:19+00:00,2003-06-23T15:57:36+00:00,6,5
@@ -977,7 +980,6 @@ D N Jha,D N Jha,indology-author-c1a85fe028,confirmed,1.0,exact normalized displa
 David Salmon (Kettenpom),David Salmon (Kettenpom),indology-author-a32cfaf18c,confirmed,1.0,exact normalized display-name group,1999-12-02T12:32:35+00:00,2000-07-06T22:51:50+00:00,5,4
 Deepthi Kumara Henadeerage,Deepthi Kumara Henadeerage,indology-author-fe98e3e5fc,confirmed,1.0,exact normalized display-name group,1998-03-09T15:46:01+00:00,2000-06-01T10:57:16+00:00,5,5
 Dinesh Maheshwari,Dinesh Maheshwari,indology-author-55883ac3d6,confirmed,1.0,exact normalized display-name group,2000-03-23T15:45:53+00:00,2000-05-26T19:49:14+00:00,5,5
-Diwakar singh,Diwakar singh,indology-author-74c7c1203a,confirmed,1.0,exact normalized display-name group,2015-02-09T05:15:11+00:00,2019-06-18T06:04:38+00:00,5,4
 Douglas R. Brooks,Douglas R. Brooks,indology-author-81da9e39ea,confirmed,1.0,exact normalized display-name group,1994-05-18T11:24:14+00:00,1996-12-11T15:43:03+00:00,5,5
 Dr K N Neelakantan Elayath,Dr K N Neelakantan Elayath,indology-author-87b9c156f2,confirmed,1.0,exact normalized display-name group,2003-06-01T23:04:13+00:00,2006-10-12T08:50:02+00:00,5,4
 Dr. Chlodwig H. Werba,Dr. Chlodwig H. Werba,indology-author-a3e1b7ba7b,confirmed,1.0,exact normalized display-name group,2006-12-11T22:06:04+00:00,2013-05-02T12:07:33+00:00,5,5
@@ -990,6 +992,7 @@ Federico Squarcini,Federico Squarcini,indology-author-6eed248fff,confirmed,1.0,e
 Frank F Conlon,Frank F Conlon,indology-author-6139cd81a1,confirmed,1.0,exact normalized display-name group,2007-02-14T17:23:38+00:00,2025-09-01T21:18:59+00:00,5,5
 Frank Koehler,Frank Koehler,indology-author-6f4e10f842,confirmed,1.0,exact normalized display-name group,2014-08-19T14:34:06+00:00,2023-01-19T21:17:53+00:00,5,5
 Gerard Fussman,Gerard Fussman,indology-author-5fb3548492,confirmed,1.0,exact normalized display-name group,2011-04-21T13:10:46+00:00,2013-06-29T19:03:36+00:00,5,5
+Gowtham R,Gowtham R,indology-author-c60c46f30b,confirmed,1.0,exact normalized display-name group,2024-03-27T04:21:39+00:00,2026-07-25T10:17:21+00:00,5,4
 Greg Eichler,Greg Eichler,indology-author-799ecdf05d,confirmed,1.0,exact normalized display-name group,1994-04-05T14:41:11+00:00,1994-12-18T10:12:22+00:00,5,4
 H. Mark Hubey,H. Mark Hubey,indology-author-453cbddc60,confirmed,1.0,exact normalized display-name group,1999-04-10T13:19:05+00:00,1999-08-14T21:50:54+00:00,5,5
 "Hueckstedt, Robert A (rah2k)","Hueckstedt, Robert A (rah2k)",indology-author-5d8246a0c1,confirmed,1.0,exact normalized display-name group,2019-11-08T21:26:25+00:00,2022-07-01T22:11:09+00:00,5,4
@@ -1005,6 +1008,7 @@ Juergen Hanneder,Juergen Hanneder,indology-author-29eb5924eb,confirmed,1.0,exact
 Jutta K. Lehmann,Jutta K. Lehmann,indology-author-bf8e4ef1d3,confirmed,1.0,exact normalized display-name group,1996-08-25T14:50:38+00:00,1997-01-19T15:11:59+00:00,5,5
 Kamal Raj Adhikary,Kamal Raj Adhikary,indology-author-ad203d133e,confirmed,1.0,exact normalized display-name group,1999-09-01T11:35:27+00:00,2000-07-28T06:58:22+00:00,5,5
 Kevin M. Ryan,Kevin M. Ryan,indology-author-acc609510e,confirmed,1.0,exact normalized display-name group,2015-08-07T21:34:17+00:00,2016-09-13T01:03:44+00:00,5,3
+Lucy May Constantini,Lucy May Constantini,indology-author-71e46edb17,confirmed,1.0,exact normalized display-name group,2022-08-05T05:58:37+00:00,2026-07-13T08:09:02+00:00,5,4
 Malhar Kulkarni,Malhar Kulkarni,indology-author-83b62862db,confirmed,1.0,exact normalized display-name group,2025-10-12T07:18:11+00:00,2026-02-20T13:21:14+00:00,5,2
 Mantra Corporation,Mantra Corporation,indology-author-04db060aec,confirmed,1.0,exact normalized display-name group,1994-09-08T01:19:21+00:00,1995-01-08T20:39:00+00:00,5,5
 Masato Fujii,Masato Fujii,indology-author-8c30358855,confirmed,1.0,exact normalized display-name group,1995-09-19T04:05:19+00:00,1996-12-04T13:21:04+00:00,5,5
@@ -1030,10 +1034,10 @@ Roy Tzohar,Roy Tzohar,indology-author-3e80f9cdad,confirmed,1.0,exact normalized 
 Ruzsa Ferenc,Ruzsa Ferenc,indology-author-05290fc84f,confirmed,1.0,exact normalized display-name group,2002-01-23T21:42:29+00:00,2007-05-21T12:40:14+00:00,5,4
 Sadananda Das,Sadananda Das,indology-author-f588ad7f29,confirmed,1.0,exact normalized display-name group,2020-09-20T19:32:00+00:00,2026-03-16T15:10:10+00:00,5,5
 Sanjeev Shankar,Sanjeev Shankar,indology-author-fac1aaa725,confirmed,1.0,exact normalized display-name group,1998-02-25T20:26:10+00:00,1999-05-02T02:00:04+00:00,5,5
-Santosh Gokhale,Santosh Gokhale,indology-author-1c2ee8e9f4,confirmed,1.0,exact normalized display-name group,2017-02-21T12:35:16+00:00,2023-07-17T16:33:48+00:00,5,4
 Shalini Sinha,Shalini Sinha,indology-author-740aa7933b,confirmed,1.0,exact normalized display-name group,2016-04-15T19:29:56+00:00,2020-03-09T18:14:18+00:00,5,5
 Shaman Hatley,Shaman Hatley,indology-author-8073c5a733,confirmed,1.0,exact normalized display-name group,2008-11-22T00:22:14+00:00,2023-11-20T05:41:39+00:00,5,5
 Shubha Pathak,Shubha Pathak,indology-author-d055c798c4,confirmed,1.0,exact normalized display-name group,2014-09-01T12:25:34+00:00,2024-08-12T19:41:43+00:00,5,5
+Shubham Arora,Shubham Arora,indology-author-156882425d,confirmed,1.0,exact normalized display-name group,2023-08-03T01:05:45+00:00,2026-07-13T17:23:21+00:00,5,4
 Silvia D'Intino,Silvia D'Intino,indology-author-0f2b5a81ff,confirmed,1.0,exact normalized display-name group,2010-02-17T15:51:02+00:00,2025-07-30T12:40:00+00:00,5,5
 "Smith,Travis LaMar","Smith,Travis LaMar",indology-author-aa475dad54,confirmed,1.0,exact normalized display-name group,2010-02-17T14:06:16+00:00,2014-02-05T17:42:27+00:00,5,5
 Steve Brown,Steve Brown,indology-author-8b7625260f,confirmed,1.0,exact normalized display-name group,2000-02-22T19:08:46+00:00,2000-05-13T01:13:28+00:00,5,5
@@ -1066,7 +1070,6 @@ Amala Bhakta,Amala Bhakta,indology-author-5a9c4d24ab,confirmed,1.0,exact normali
 Andreas Schuettler,Andreas Schuettler,indology-author-c082268586,confirmed,1.0,exact normalized display-name group,1995-01-17T00:03:49+00:00,1997-12-18T19:49:50+00:00,4,4
 Anirban Dash,Anirban Dash,indology-author-4d8acc5595,confirmed,1.0,exact normalized display-name group,2021-01-14T18:38:09+00:00,2023-08-13T09:26:33+00:00,4,4
 Anthony Good,Anthony Good,indology-author-bac8ecbfa8,confirmed,1.0,exact normalized display-name group,1995-08-18T07:43:20+00:00,2000-12-18T11:31:34+00:00,4,4
-Arti Dhand,Arti Dhand,indology-author-57ee40d02a,confirmed,1.0,exact normalized display-name group,2022-06-02T18:03:50+00:00,2024-10-13T16:03:02+00:00,4,3
 Arun Chandrakantan,Arun Chandrakantan,indology-author-9ef9e80cdf,confirmed,1.0,exact normalized display-name group,1995-01-21T12:33:05+00:00,1995-04-25T08:45:54+00:00,4,4
 BERNEDE Franck,BERNEDE Franck,indology-author-cba81706ec,confirmed,1.0,exact normalized display-name group,1999-08-25T02:11:17+00:00,1999-11-30T11:17:22+00:00,4,4
 Bhalchandrarao C Patwardhan,Bhalchandrarao C Patwardhan,indology-author-119295a7be,confirmed,1.0,exact normalized display-name group,2000-12-14T01:37:29+00:00,2001-01-08T14:15:34+00:00,4,4
@@ -1098,7 +1101,6 @@ Ganesan T,Ganesan T,indology-author-f84402431a,confirmed,1.0,exact normalized di
 George Pervushin,George Pervushin,indology-author-e1ada352ba,confirmed,1.0,exact normalized display-name group,2020-11-28T22:54:26+00:00,2025-09-30T10:35:56+00:00,4,2
 Girish Bhaskaruni,Girish Bhaskaruni,indology-author-7e00ff4308,confirmed,1.0,exact normalized display-name group,2000-12-28T16:56:46+00:00,2001-02-25T06:46:42+00:00,4,4
 Girish Kumar Beeharry,Girish Kumar Beeharry,indology-author-54d65141e1,confirmed,1.0,exact normalized display-name group,1998-03-18T18:34:10+00:00,1998-11-27T06:22:51+00:00,4,4
-Gowtham R,Gowtham R,indology-author-c60c46f30b,confirmed,1.0,exact normalized display-name group,2024-03-27T04:21:39+00:00,2025-01-29T09:36:32+00:00,4,3
 Halina Marlewicz,Halina Marlewicz,indology-author-b3fe013019,confirmed,1.0,exact normalized display-name group,1996-05-14T19:17:54+00:00,1996-12-03T11:44:40+00:00,4,4
 Hamsa Stainton,Hamsa Stainton,indology-author-c8cd03eff5,confirmed,1.0,exact normalized display-name group,2019-01-29T18:35:53+00:00,2026-03-30T17:52:32+00:00,4,4
 Harshavardhan Vedak,Harshavardhan Vedak,indology-author-d71dd5a55c,confirmed,1.0,exact normalized display-name group,1998-04-22T14:36:15+00:00,1998-05-18T23:17:52+00:00,4,2
@@ -1125,7 +1127,6 @@ Kiyotaka Yoshimizu,Kiyotaka Yoshimizu,indology-author-ff132b5b11,confirmed,1.0,e
 Laura Harrington,Laura Harrington,indology-author-6e64652f70,confirmed,1.0,exact normalized display-name group,2013-01-28T21:29:05+00:00,2016-12-12T13:37:46+00:00,4,4
 Lawrence J. McCrea,Lawrence J. McCrea,indology-author-da08c68533,confirmed,1.0,exact normalized display-name group,1996-10-08T22:54:58+00:00,1997-03-22T23:45:16+00:00,4,4
 Lucas den Boer,Lucas den Boer,indology-author-e7a1256003,confirmed,1.0,exact normalized display-name group,2015-05-19T20:31:19+00:00,2019-06-11T07:09:26+00:00,4,3
-Lucy May Constantini,Lucy May Constantini,indology-author-71e46edb17,confirmed,1.0,exact normalized display-name group,2022-08-05T05:58:37+00:00,2024-05-30T02:31:35+00:00,4,3
 "MAGGI, Mauro","MAGGI, Mauro",indology-author-3cc997fd0d,confirmed,1.0,exact normalized display-name group,1999-03-11T14:42:13+00:00,2000-04-27T04:20:13+00:00,4,4
 Mahinda Palihawadana,Mahinda Palihawadana,indology-author-202a5036d7,confirmed,1.0,exact normalized display-name group,2000-05-28T07:22:18+00:00,2001-01-28T23:58:26+00:00,4,4
 "Mahoney, Richard B","Mahoney, Richard B",indology-author-07c269e898,confirmed,1.0,exact normalized display-name group,1999-08-09T13:55:14+00:00,1999-11-16T10:41:03+00:00,4,4
@@ -1175,7 +1176,6 @@ Sanket Thakur,Sanket Thakur,indology-author-173c05b665,confirmed,1.0,exact norma
 Saverio Sani,Saverio Sani,indology-author-cd6f5e6054,confirmed,1.0,exact normalized display-name group,1996-11-07T17:16:58+00:00,2001-04-02T15:11:20+00:00,4,4
 Shihong Zhao,Shihong Zhao,indology-author-6df8348ded,confirmed,1.0,exact normalized display-name group,2019-09-05T02:48:45+00:00,2021-08-24T02:40:19+00:00,4,2
 Shrininivasa Varakhedi,Shrininivasa Varakhedi,indology-author-d5f2b3412a,confirmed,1.0,exact normalized display-name group,2014-03-31T06:43:31+00:00,2017-01-02T17:24:19+00:00,4,4
-Shubham Arora,Shubham Arora,indology-author-156882425d,confirmed,1.0,exact normalized display-name group,2023-08-03T01:05:45+00:00,2025-06-03T14:50:55+00:00,4,3
 Simon John Haines,Simon John Haines,indology-author-501d0a2a62,confirmed,1.0,exact normalized display-name group,1998-06-03T15:00:32+00:00,1998-06-26T09:33:31+00:00,4,4
 Sivan Goren,Sivan Goren,indology-author-79d9caf641,confirmed,1.0,exact normalized display-name group,2017-06-01T07:59:25+00:00,2022-01-10T18:56:19+00:00,4,4
 Sonam Kachru,Sonam Kachru,indology-author-2630dd42ab,confirmed,1.0,exact normalized display-name group,2007-01-12T10:30:05+00:00,2008-09-18T16:58:10+00:00,4,3
@@ -1636,6 +1636,7 @@ Vittorio A. van Bijlert,Vittorio A. van Bijlert,indology-author-30408a25de,confi
 Vivek Dwivedi,Vivek Dwivedi,indology-author-5acf6d99aa,confirmed,1.0,exact normalized display-name group,1992-11-05T07:45:30+00:00,1992-11-24T17:59:23+00:00,2,2
 W Trimble,W Trimble,indology-author-5b3d3585a6,confirmed,1.0,exact normalized display-name group,1997-04-11T10:03:02+00:00,1997-05-18T22:27:49+00:00,2,2
 What's In a Name?,What's In a Name?,indology-author-9e803c72a8,confirmed,1.0,exact normalized display-name group,1995-10-11T16:51:42+00:00,1995-10-13T14:21:32+00:00,2,2
+"Whitaker, Jarrod","Whitaker, Jarrod",indology-author-882ff77f5c,confirmed,1.0,exact normalized display-name group,2026-05-21T15:48:54+00:00,2026-07-05T17:30:06+00:00,2,2
 William Mahony,William Mahony,indology-author-320e9d9c6a,confirmed,1.0,exact normalized display-name group,2005-12-22T19:33:52+00:00,2005-12-24T10:25:19+00:00,2,2
 Yannick Lambert,Yannick Lambert,indology-author-448f962982,confirmed,1.0,exact normalized display-name group,2024-09-30T21:35:53+00:00,2025-10-21T20:50:14+00:00,2,2
 Yoshi Onishi,Yoshi Onishi,indology-author-183b99a1ce,confirmed,1.0,exact normalized display-name group,1998-06-25T11:51:52+00:00,1998-07-10T02:47:11+00:00,2,2
@@ -1681,6 +1682,7 @@ Anna kav,Anna kav,indology-author-1ef2d9a583,confirmed,1.0,exact normalized disp
 Anurupa N,Anurupa N,indology-author-122bc2f55a,confirmed,1.0,exact normalized display-name group,2023-02-15T15:57:24+00:00,2023-02-15T15:57:24+00:00,1,1
 Arjun Kashyap,Arjun Kashyap,indology-author-fbdb2f1040,confirmed,1.0,exact normalized display-name group,2021-09-24T07:02:23+00:00,2021-09-24T07:02:23+00:00,1,1
 Aruna Keerthi,Aruna Keerthi,indology-author-95bf908142,confirmed,1.0,exact normalized display-name group,2022-11-23T12:11:57+00:00,2022-11-23T12:11:57+00:00,1,1
+Arushi Bahuguna,Arushi Bahuguna,indology-author-a119e85737,confirmed,1.0,exact normalized display-name group,2026-07-11T15:50:33+00:00,2026-07-11T15:50:33+00:00,1,1
 Arvind Acharya,Arvind Acharya,indology-author-7d6d7049f0,confirmed,1.0,exact normalized display-name group,1998-12-15T18:47:43+00:00,1998-12-15T18:47:43+00:00,1,1
 Arya Buddha,Arya Buddha,indology-author-ac508b667d,confirmed,1.0,exact normalized display-name group,2001-03-22T22:54:59+00:00,2001-03-22T22:54:59+00:00,1,1
 Arya Buddha Asso,Arya Buddha Asso,indology-author-ad227640ac,confirmed,1.0,exact normalized display-name group,2001-03-25T22:21:25+00:00,2001-03-25T22:21:25+00:00,1,1
@@ -2198,7 +2200,6 @@ Vladimir Shelkovich,Vladimir Shelkovich,indology-author-0935e75bbf,confirmed,1.0
 Vyom Shah,Vyom Shah,indology-author-03fcce661f,confirmed,1.0,exact normalized display-name group,2025-01-02T14:10:13+00:00,2025-01-02T14:10:13+00:00,1,1
 Wendy Phillips,Wendy Phillips,indology-author-6c2dae8807,confirmed,1.0,exact normalized display-name group,2023-04-12T10:34:26+00:00,2023-04-12T10:34:26+00:00,1,1
 Westview Press,Westview Press,indology-author-5b1d83098b,confirmed,1.0,exact normalized display-name group,1995-09-26T15:10:13+00:00,1995-09-26T15:10:13+00:00,1,1
-"Whitaker, Jarrod","Whitaker, Jarrod",indology-author-882ff77f5c,confirmed,1.0,exact normalized display-name group,2026-05-21T15:48:54+00:00,2026-05-21T15:48:54+00:00,1,1
 Wiles Royce,Wiles Royce,indology-author-0874536e44,confirmed,1.0,exact normalized display-name group,2015-09-15T12:18:10+00:00,2015-09-15T12:18:10+00:00,1,1
 Wilhelm Beinvogl,Wilhelm Beinvogl,indology-author-bab350b92c,confirmed,1.0,exact normalized display-name group,2014-10-18T14:12:24+00:00,2014-10-18T14:12:24+00:00,1,1
 Will Douglas,Will Douglas,indology-author-b1ed597031,confirmed,1.0,exact normalized display-name group,2000-11-01T11:16:27+00:00,2000-11-01T11:16:27+00:00,1,1
@@ -2279,13 +2280,13 @@ Elisa Freschi,elisa freschi,indology-author-a4750c1897,inferred,0.85,case/spacin
 claude setzer,Claude Setzer,indology-author-d1b55a2e96,inferred,0.85,case/spacing-only display-name variant,1997-02-01T05:26:49+00:00,1997-08-03T20:45:50+00:00,16,16
 "Aditya, The Hindu Skeptic","Aditya, the Hindu Skeptic",indology-author-c639f1c110,inferred,0.85,case/spacing-only display-name variant,1995-01-31T04:42:37+00:00,1995-06-08T02:54:40+00:00,14,13
 Michio YANO,Michio Yano,indology-author-10587e33a8,inferred,0.85,case/spacing-only display-name variant,2001-09-12T01:18:10+00:00,2005-01-17T23:28:57+00:00,14,12
+Diwakar Acharya,diwakar acharya,indology-author-e00dc88c13,inferred,0.85,case/spacing-only display-name variant,2019-01-14T12:48:17+00:00,2026-07-09T12:34:42+00:00,12,12
 Peter Bisschop,peter bisschop,indology-author-ba12499dcc,inferred,0.85,case/spacing-only display-name variant,2005-09-07T15:32:49+00:00,2010-02-15T14:31:37+00:00,12,12
 Victor Van Bijlert,victor van Bijlert,indology-author-34a9d2d621,inferred,0.85,case/spacing-only display-name variant,2022-01-31T16:06:42+00:00,2025-05-17T22:53:17+00:00,12,11
 george thompson,George Thompson,indology-author-c6c9e78b5c,inferred,0.85,case/spacing-only display-name variant,2006-04-10T00:49:47+00:00,2010-03-21T12:18:05+00:00,12,12
 hans henrich hock,Hans Henrich Hock,indology-author-30c1932acf,inferred,0.85,case/spacing-only display-name variant,1999-08-20T09:44:06+00:00,2002-10-29T15:12:01+00:00,12,12
-Diwakar Acharya,diwakar acharya,indology-author-e00dc88c13,inferred,0.85,case/spacing-only display-name variant,2019-01-14T12:48:17+00:00,2026-05-05T10:15:19+00:00,11,11
 alakendu Das,alakendu das,indology-author-9a0120dbbb,inferred,0.85,case/spacing-only display-name variant,2024-07-22T16:06:48+00:00,2025-06-17T10:52:44+00:00,11,6
-SUDALAIMUTHU PALANIAPPAN,Sudalaimuthu Palaniappan,indology-author-2bf0a0c4a4,inferred,0.85,case/spacing-only display-name variant,2021-02-22T08:53:04+00:00,2026-02-09T18:46:25+00:00,9,9
+SUDALAIMUTHU PALANIAPPAN,Sudalaimuthu Palaniappan,indology-author-2bf0a0c4a4,inferred,0.85,case/spacing-only display-name variant,2021-02-22T08:53:04+00:00,2026-07-17T23:23:40+00:00,10,10
 Victor van Bijlert,victor van Bijlert,indology-author-34a9d2d621,inferred,0.85,case/spacing-only display-name variant,1999-01-28T10:35:35+00:00,2009-08-08T10:24:56+00:00,9,7
 stella sandahl,Stella Sandahl,indology-author-1c9cd6db37,inferred,0.85,case/spacing-only display-name variant,2016-04-15T02:12:05+00:00,2016-11-15T21:32:16+00:00,9,7
 Eva De Clercq,eva de clercq,indology-author-f08fa4bfd2,inferred,0.85,case/spacing-only display-name variant,2002-02-04T15:37:50+00:00,2014-09-11T10:36:42+00:00,8,8
@@ -3146,6 +3147,7 @@ goodall at vax.oxford.ac.uk,goodall at vax.oxford.ac.uk,indology-author-c8592e01
 guccie at ariake-nct.ac.jp,guccie at ariake-nct.ac.jp,indology-author-83cb889305,needs_review,0.4,email-like public archive author string; not merged to a real-name identity,1997-05-26T11:19:55+00:00,1997-05-26T11:19:55+00:00,1,1
 h-fom,h-fom,indology-author-970e69adf1,needs_review,0.5,short or single-token display name; retained without merge,1998-02-08T18:16:53+00:00,1998-02-08T18:16:53+00:00,1,1
 hanneder,hanneder,indology-author-88cf5181d9,needs_review,0.5,short or single-token display name; retained without merge,1998-03-10T23:03:36+00:00,1998-03-10T23:03:36+00:00,1,1
+haolinWANG,haolinWANG,indology-author-399925831f,needs_review,0.5,short or single-token display name; retained without merge,2026-07-15T13:11:24+00:00,2026-07-15T13:11:24+00:00,1,1
 harry,harry,indology-author-23a0b5e4fb,needs_review,0.5,short or single-token display name; retained without merge,1992-03-12T12:44:29+00:00,1992-03-12T12:44:29+00:00,1,1
 harunaga at SAS.UPENN.EDU,harunaga at SAS.UPENN.EDU,indology-author-1b75c63bc7,needs_review,0.4,email-like public archive author string; not merged to a real-name identity,2002-09-05T20:16:31+00:00,2002-09-05T20:16:31+00:00,1,1
 holba at praha1.ff.cuni.cz,holba at praha1.ff.cuni.cz,indology-author-4e15397212,needs_review,0.4,email-like public archive author string; not merged to a real-name identity,1996-07-15T14:46:35+00:00,1996-07-15T14:46:35+00:00,1,1

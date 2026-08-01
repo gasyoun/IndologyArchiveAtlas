@@ -89,7 +89,7 @@ year,confidence,reply_rows,resolved_rows,share_of_year
 2025,references_chain,25,25,0.0228
 2025,thread_inferred,76,76,0.0692
 2025,unresolved,67,0,0.061
-2026,exact_in_reply_to,306,306,0.8524
-2026,references_chain,3,3,0.0084
-2026,thread_inferred,13,13,0.0362
-2026,unresolved,37,0,0.1031
+2026,exact_in_reply_to,367,367,0.8615
+2026,references_chain,3,3,0.007
+2026,thread_inferred,16,16,0.0376
+2026,unresolved,40,0,0.0939
