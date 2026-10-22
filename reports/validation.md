@@ -2,17 +2,17 @@
 
 ## Coverage
 
-- Months harvested: 427
+- Months harvested: 430
 - First harvested month: 1990-11
-- Last harvested month: 2026-07
-- Messages parsed: 62,214
-- Cleaned message rows: 62,214
-- Threads reconstructed: 24,075
+- Last harvested month: 2026-10
+- Messages parsed: 62,530
+- Cleaned message rows: 62,530
+- Threads reconstructed: 24,198
 
 ## Count Checks
 
-- Months where archive index count differs from mbox count: 8
-- Parse issue rows: 8
+- Months where archive index count differs from mbox count: 11
+- Parse issue rows: 11
 
 | slug | message_count_index | message_count_mbox |
 | --- | --- | --- |
@@ -24,9 +24,12 @@
 | 2025-August | 180 | 181 |
 | 2025-September | 129 | 130 |
 | 2025-December | 116 | 117 |
+| 2026-August | 119 | 120 |
+| 2026-September | 126 | 127 |
+| 2026-October | 71 | 72 |
 
 - Count mismatch audit generated: yes
-- Extra skipped mbox rows recorded: 9
+- Extra skipped mbox rows recorded: 12
 
 | slug | archive_count | mbox_count | difference | skipped_mbox_rows | classification | downstream_status | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -38,22 +41,25 @@
 | 2025-August | 180 | 181 | 1 | 1 | known_minor_archive_or_mbox_count_quirk | handled_by_subject_alignment | Extra mbox rows were recorded in skipped_mbox_rows.csv; archive-index rows remain the canonical message set. |
 | 2025-September | 129 | 130 | 1 | 1 | known_minor_archive_or_mbox_count_quirk | handled_by_subject_alignment | Extra mbox rows were recorded in skipped_mbox_rows.csv; archive-index rows remain the canonical message set. |
 | 2025-December | 116 | 117 | 1 | 1 | known_minor_archive_or_mbox_count_quirk | handled_by_subject_alignment | Extra mbox rows were recorded in skipped_mbox_rows.csv; archive-index rows remain the canonical message set. |
+| 2026-August | 119 | 120 | 1 | 1 | known_minor_archive_or_mbox_count_quirk | handled_by_subject_alignment | Extra mbox rows were recorded in skipped_mbox_rows.csv; archive-index rows remain the canonical message set. |
+| 2026-September | 126 | 127 | 1 | 1 | known_minor_archive_or_mbox_count_quirk | handled_by_subject_alignment | Extra mbox rows were recorded in skipped_mbox_rows.csv; archive-index rows remain the canonical message set. |
+| 2026-October | 71 | 72 | 1 | 1 | known_minor_archive_or_mbox_count_quirk | handled_by_subject_alignment | Extra mbox rows were recorded in skipped_mbox_rows.csv; archive-index rows remain the canonical message set. |
 
 ## Topic Spot Check
 
 | topic | messages |
 | --- | --- |
-| General scholarly discussion | 45617 |
-| Announcements and events | 2798 |
-| Bibliographic requests | 2599 |
-| History and culture | 2591 |
-| Digital resources and tools | 2448 |
-| Texts and philology | 1964 |
-| Veda and ritual | 1394 |
+| General scholarly discussion | 45832 |
+| Announcements and events | 2820 |
+| Bibliographic requests | 2618 |
+| History and culture | 2604 |
+| Digital resources and tools | 2454 |
+| Texts and philology | 1980 |
+| Veda and ritual | 1395 |
+| Manuscripts and epigraphy | 1011 |
 | Grammar and linguistics | 1001 |
-| Manuscripts and epigraphy | 991 |
-| Buddhism and Jainism | 507 |
-| List administration | 190 |
+| Buddhism and Jainism | 509 |
+| List administration | 192 |
 | Teaching and pedagogy | 114 |
 
 ## Sample By Era
@@ -75,27 +81,27 @@
 
 ## Author Normalization
 
-- Raw author strings audited: 3,285
-- Author strings needing review: 889
+- Raw author strings audited: 3,294
+- Author strings needing review: 890
 
 | status | raw_author_strings |
 | --- | --- |
-| confirmed | 2263 |
-| needs_review | 889 |
+| confirmed | 2271 |
+| needs_review | 890 |
 | inferred | 131 |
 | excluded | 2 |
 
 ## Directed Reply Network
 
-- Directed reply rows: 42,808
-- Resolved directed replies: 37,159
+- Directed reply rows: 43,028
+- Resolved directed replies: 37,358
 
 | confidence | reply_rows |
 | --- | --- |
-| thread_inferred | 22910 |
-| exact_in_reply_to | 14137 |
-| unresolved | 5649 |
-| references_chain | 112 |
+| thread_inferred | 22914 |
+| exact_in_reply_to | 14328 |
+| unresolved | 5670 |
+| references_chain | 116 |
 
 ## Guided Atlas Layers
 
@@ -104,7 +110,7 @@
 | atlas_timeline.csv | 37 |
 | atlas_topic_profiles.csv | 12 |
 | atlas_list_functions.csv | 44 |
-| atlas_people_summary.csv | 3152 |
+| atlas_people_summary.csv | 3161 |
 | atlas_reply_summary.csv | 4 |
 | case_study_candidates.csv | 250 |
 
@@ -115,7 +121,7 @@
 | reply_confidence_year_counts.csv | 94 |
 | topic_decade_share.csv | 48 |
 | list_function_decade_share.csv | 44 |
-| thread_typology.csv | 24075 |
+| thread_typology.csv | 24198 |
 | case_score_components.csv | 250 |
 | review_queue_summary.csv | 6 |
 | author_participation_cohorts.csv | 15 |
@@ -126,19 +132,19 @@
 
 | table | rows | exists |
 | --- | --- | --- |
-| renou_messages.csv | 62214 | yes |
-| renou_message_matches.csv | 9128 | yes |
-| renou_thread_matches.csv | 3314 | yes |
-| renou_state_summary.csv | 582 | yes |
-| renou_register_summary.csv | 939 | yes |
+| renou_messages.csv | 62530 | yes |
+| renou_message_matches.csv | 9209 | yes |
+| renou_thread_matches.csv | 3335 | yes |
+| renou_state_summary.csv | 591 | yes |
+| renou_register_summary.csv | 949 | yes |
 | renou_coverage.csv | 2 | yes |
 | renou_export_index.csv | 75 | yes |
 | renou_subject_rules.csv | 25 | yes |
 
 | scope | total_rows | matched_rows | matched_percent | source_url |
 | --- | --- | --- | --- | --- |
-| messages | 62214 | 6226 | 10.01 | https://github.com/gasyoun/SanskritLexicography/blob/master/RussianTranslation/RENOU.md |
-| threads | 24075 | 3314 | 13.77 | https://github.com/gasyoun/SanskritLexicography/blob/master/RussianTranslation/RENOU.md |
+| messages | 62530 | 6270 | 10.03 | https://github.com/gasyoun/SanskritLexicography/blob/master/RussianTranslation/RENOU.md |
+| threads | 24198 | 3335 | 13.78 | https://github.com/gasyoun/SanskritLexicography/blob/master/RussianTranslation/RENOU.md |
 
 ## Thread Explorer
 
@@ -198,8 +204,8 @@
 | candidate | infrastructure_history | general discussion | 6 |
 | candidate | infrastructure_history | bibliographic rescue | 2 |
 | candidate | infrastructure_history | philological debate | 2 |
-| candidate | philological_substance | identification/help request | 14 |
-| candidate | philological_substance | general discussion | 13 |
+| candidate | philological_substance | identification/help request | 15 |
+| candidate | philological_substance | general discussion | 12 |
 | candidate | philological_substance | philological debate | 7 |
 | candidate | philological_substance | philological discussion | 2 |
 
@@ -207,8 +213,8 @@
 
 | table | rows | expected_network_type | type_ok | has_self_reply_flag |
 | --- | --- | --- | --- | --- |
-| named_reply_network_summary.csv | 24591 | direct_reply | True | True |
-| named_coparticipation_network_summary.csv | 47166 | co_participation | True |  |
+| named_reply_network_summary.csv | 24717 | direct_reply | True | True |
+| named_coparticipation_network_summary.csv | 47354 | co_participation | True |  |
 
 ## Static Search And Browse
 
@@ -217,15 +223,15 @@
 | file | exists | valid_json_rows |
 | --- | --- | --- |
 | search_threads.json | yes | 250 |
-| search_authors.json | yes | 3152 |
+| search_authors.json | yes | 3161 |
 | search_topics.json | yes | 12 |
 | search_messages_sample.json | yes | 4068 |
 
 - Thread search rows with local page or public archive fallback: 250/250
 - Thread search rows whose curation status matches `curated_case_studies.csv`: 250/250
 
-- Author search rows with topic-count facets: 3,152/3,152
-- Author search rows with list-function facets: 3,152/3,152
+- Author search rows with topic-count facets: 3,161/3,161
+- Author search rows with list-function facets: 3,161/3,161
 
 ## Publication Metadata Layer
 
@@ -234,7 +240,7 @@
 - Datapackage resources listed: 145
 - Datapackage resources with missing local paths: 0
 - Citation metadata generated: yes
-- Unified human review index rows: 1,922
+- Unified human review index rows: 1,926
 - Human review summary generated: yes
 - Interpretive guardrails rows: 7
 - Interpretive guardrails report generated: yes

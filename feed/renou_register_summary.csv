@@ -110,7 +110,8 @@ register,bhasya,Bhāṣya,2023,Bibliographic requests,identification/help reques
 register,bhasya,Bhāṣya,2023,Texts and philology,general discussion,1,1,1
 register,bhasya,Bhāṣya,2024,Texts and philology,philological discussion,1,1,1
 register,bhasya,Bhāṣya,2025,General scholarly discussion,general discussion,3,3,3
-register,bhasya,Bhāṣya,2026,Texts and philology,philological discussion,1,1,1
+register,bhasya,Bhāṣya,2026,Digital resources and tools,digital resource/tool,1,1,1
+register,bhasya,Bhāṣya,2026,Texts and philology,philological discussion,3,2,2
 register,brahmana,Brāhmaṇa,1995,Veda and ritual,general discussion,1,1,1
 register,brahmana,Brāhmaṇa,1997,Veda and ritual,general discussion,1,1,1
 register,brahmana,Brāhmaṇa,2000,General scholarly discussion,general discussion,13,9,11
@@ -133,6 +134,7 @@ register,brahmana,Brāhmaṇa,2021,Texts and philology,philological discussion,1
 register,brahmana,Brāhmaṇa,2022,Veda and ritual,general discussion,4,1,2
 register,brahmana,Brāhmaṇa,2023,Texts and philology,philological discussion,4,1,2
 register,brahmana,Brāhmaṇa,2024,General scholarly discussion,general discussion,2,1,2
+register,brahmana,Brāhmaṇa,2026,General scholarly discussion,general discussion,4,1,4
 register,brahmana,Brāhmaṇa,2026,Texts and philology,philological discussion,1,1,1
 register,epic,Epic,1990,Bibliographic requests,identification/help request,1,1,1
 register,epic,Epic,1992,General scholarly discussion,general discussion,1,1,1
@@ -238,6 +240,11 @@ register,epic,Epic,2025,Bibliographic requests,philological discussion,2,1,1
 register,epic,Epic,2025,General scholarly discussion,general discussion,2,2,2
 register,epic,Epic,2025,Texts and philology,philological discussion,2,1,1
 register,epic,Epic,2026,Announcements and events,announcement/event,1,1,1
+register,epic,Epic,2026,Digital resources and tools,digital resource/tool,1,1,1
+register,epic,Epic,2026,General scholarly discussion,identification/help request,9,2,7
+register,epic,Epic,2026,Texts and philology,general discussion,3,1,3
+register,epic,Epic,2026,Texts and philology,identification/help request,1,1,1
+register,epic,Epic,2026,Texts and philology,philological discussion,2,1,2
 register,epig,Epigraphic,1992,General scholarly discussion,general discussion,3,2,3
 register,epig,Epigraphic,1996,Manuscripts and epigraphy,general discussion,2,2,2
 register,epig,Epigraphic,1997,General scholarly discussion,general discussion,5,5,5
@@ -326,7 +333,7 @@ register,epig,Epigraphic,2025,Bibliographic requests,general discussion,1,1,1
 register,epig,Epigraphic,2025,Manuscripts and epigraphy,general discussion,11,2,8
 register,epig,Epigraphic,2026,Announcements and events,announcement/event,3,2,3
 register,epig,Epigraphic,2026,General scholarly discussion,general discussion,1,1,1
-register,epig,Epigraphic,2026,Manuscripts and epigraphy,general discussion,3,1,2
+register,epig,Epigraphic,2026,Manuscripts and epigraphy,general discussion,4,2,3
 register,hors_inde,Outside India,1996,General scholarly discussion,general discussion,4,4,4
 register,hors_inde,Outside India,1997,General scholarly discussion,general discussion,3,3,3
 register,hors_inde,Outside India,1998,General scholarly discussion,general discussion,1,1,1
@@ -429,9 +436,9 @@ register,jaina,Jaina,2025,Buddhism and Jainism,general discussion,5,4,4
 register,jaina,Jaina,2025,General scholarly discussion,announcement/event,2,1,2
 register,jaina,Jaina,2025,General scholarly discussion,general discussion,1,1,1
 register,jaina,Jaina,2025,History and culture,general discussion,1,1,1
-register,jaina,Jaina,2026,Announcements and events,announcement/event,2,2,2
-register,jaina,Jaina,2026,Announcements and events,job/position,1,1,1
-register,jaina,Jaina,2026,Buddhism and Jainism,general discussion,7,4,6
+register,jaina,Jaina,2026,Announcements and events,announcement/event,3,3,3
+register,jaina,Jaina,2026,Announcements and events,job/position,3,3,3
+register,jaina,Jaina,2026,Buddhism and Jainism,general discussion,8,5,7
 register,jaina,Jaina,2026,General scholarly discussion,general discussion,2,1,2
 register,karika,Kārikā,1996,General scholarly discussion,general discussion,7,5,6
 register,karika,Kārikā,2011,General scholarly discussion,general discussion,2,2,2
@@ -586,6 +593,7 @@ register,kavya,Kāvya,2025,General scholarly discussion,general discussion,8,2,5
 register,kavya,Kāvya,2025,History and culture,general discussion,1,1,1
 register,kavya,Kāvya,2025,History and culture,philological discussion,1,1,1
 register,kavya,Kāvya,2026,General scholarly discussion,general discussion,8,4,6
+register,kavya,Kāvya,2026,General scholarly discussion,identification/help request,5,1,4
 register,kavya,Kāvya,2026,General scholarly discussion,philological discussion,2,1,1
 register,natya,Nāṭya,1996,General scholarly discussion,general discussion,1,1,1
 register,natya,Nāṭya,1997,General scholarly discussion,general discussion,19,18,16
@@ -649,6 +657,7 @@ register,purana,Purāṇa,2024,Texts and philology,general discussion,1,1,1
 register,purana,Purāṇa,2024,Texts and philology,philological discussion,3,2,2
 register,purana,Purāṇa,2025,Texts and philology,general discussion,4,3,3
 register,purana,Purāṇa,2026,Texts and philology,general discussion,5,2,2
+register,purana,Purāṇa,2026,Texts and philology,philological discussion,5,1,3
 register,rgveda,Ṛgveda,1993,Veda and ritual,general discussion,4,3,4
 register,rgveda,Ṛgveda,1995,General scholarly discussion,general discussion,8,6,7
 register,rgveda,Ṛgveda,1995,Veda and ritual,general discussion,3,3,3
@@ -710,6 +719,7 @@ register,rgveda,Ṛgveda,2021,Veda and ritual,general discussion,24,1,15
 register,rgveda,Ṛgveda,2022,Announcements and events,announcement/event,1,1,1
 register,rgveda,Ṛgveda,2024,General scholarly discussion,general discussion,1,1,1
 register,rgveda,Ṛgveda,2025,Veda and ritual,general discussion,3,3,3
+register,rgveda,Ṛgveda,2026,Veda and ritual,philological discussion,1,1,1
 register,smrti,Smṛti,1994,General scholarly discussion,general discussion,2,1,2
 register,smrti,Smṛti,1995,General scholarly discussion,general discussion,1,1,1
 register,smrti,Smṛti,1996,General scholarly discussion,general discussion,1,1,1
@@ -758,7 +768,7 @@ register,sutra,Sūtra,2022,Texts and philology,philological discussion,2,1,2
 register,sutra,Sūtra,2022,Veda and ritual,philological discussion,2,1,1
 register,sutra,Sūtra,2023,Texts and philology,philological discussion,5,2,4
 register,sutra,Sūtra,2023,Veda and ritual,philological discussion,2,1,1
-register,sutra,Sūtra,2026,Texts and philology,philological discussion,1,1,1
+register,sutra,Sūtra,2026,Texts and philology,philological discussion,3,2,2
 register,tantra,Tantra,1993,Texts and philology,general discussion,1,1,1
 register,tantra,Tantra,1994,General scholarly discussion,general discussion,3,1,3
 register,tantra,Tantra,1994,Texts and philology,general discussion,5,1,4

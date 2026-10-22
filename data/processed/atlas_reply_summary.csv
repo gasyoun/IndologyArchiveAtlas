@@ -1,5 +1,5 @@
 confidence,reply_rows,resolved_rows,share
-thread_inferred,22910,22910,0.5352
-exact_in_reply_to,14137,14137,0.3302
-unresolved,5649,0,0.132
-references_chain,112,112,0.0026
+thread_inferred,22914,22914,0.5325
+exact_in_reply_to,14328,14328,0.333
+unresolved,5670,0,0.1318
+references_chain,116,116,0.0027

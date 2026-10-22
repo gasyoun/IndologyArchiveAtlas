@@ -143,9 +143,10 @@ state,I,Vedic,2025,Digital resources and tools,digital resource/tool,1,1,1
 state,I,Vedic,2025,Manuscripts and epigraphy,philological discussion,1,1,1
 state,I,Vedic,2025,Veda and ritual,general discussion,20,12,15
 state,I,Vedic,2026,Digital resources and tools,digital resource/tool,1,1,1
+state,I,Vedic,2026,General scholarly discussion,general discussion,4,1,4
 state,I,Vedic,2026,Texts and philology,philological discussion,2,2,2
 state,I,Vedic,2026,Veda and ritual,general discussion,1,1,1
-state,I,Vedic,2026,Veda and ritual,philological discussion,2,1,2
+state,I,Vedic,2026,Veda and ritual,philological discussion,3,2,2
 state,II,Pāṇinian,1991,Grammar and linguistics,philological discussion,1,1,1
 state,II,Pāṇinian,1993,Announcements and events,announcement/event,1,1,1
 state,II,Pāṇinian,1993,General scholarly discussion,general discussion,5,4,4
@@ -373,7 +374,11 @@ state,III,Epic & prolongements,2025,General scholarly discussion,general discuss
 state,III,Epic & prolongements,2025,Texts and philology,general discussion,4,3,3
 state,III,Epic & prolongements,2025,Texts and philology,philological discussion,3,2,2
 state,III,Epic & prolongements,2026,Announcements and events,announcement/event,1,1,1
-state,III,Epic & prolongements,2026,Texts and philology,general discussion,5,2,2
+state,III,Epic & prolongements,2026,Digital resources and tools,digital resource/tool,1,1,1
+state,III,Epic & prolongements,2026,General scholarly discussion,identification/help request,9,2,7
+state,III,Epic & prolongements,2026,Texts and philology,general discussion,8,3,4
+state,III,Epic & prolongements,2026,Texts and philology,identification/help request,1,1,1
+state,III,Epic & prolongements,2026,Texts and philology,philological discussion,7,2,5
 state,IV,Classical,1992,General scholarly discussion,general discussion,1,1,1
 state,IV,Classical,1993,General scholarly discussion,general discussion,4,1,3
 state,IV,Classical,1994,General scholarly discussion,general discussion,4,4,4
@@ -442,6 +447,8 @@ state,IV,Classical,2025,General scholarly discussion,general discussion,8,2,5
 state,IV,Classical,2025,History and culture,general discussion,1,1,1
 state,IV,Classical,2025,History and culture,philological discussion,1,1,1
 state,IV,Classical,2026,General scholarly discussion,general discussion,10,6,8
+state,IV,Classical,2026,General scholarly discussion,identification/help request,5,1,4
+state,IV,Classical,2026,Texts and philology,general discussion,3,2,2
 state,V,Buddhist / Jaina,1992,Buddhism and Jainism,general discussion,2,2,2
 state,V,Buddhist / Jaina,1993,Buddhism and Jainism,general discussion,5,5,5
 state,V,Buddhist / Jaina,1993,Buddhism and Jainism,philological discussion,2,2,2
@@ -577,7 +584,9 @@ state,V,Buddhist / Jaina,2025,General scholarly discussion,announcement/event,2,
 state,V,Buddhist / Jaina,2025,General scholarly discussion,general discussion,2,2,2
 state,V,Buddhist / Jaina,2025,General scholarly discussion,identification/help request,2,1,2
 state,V,Buddhist / Jaina,2025,History and culture,general discussion,1,1,1
-state,V,Buddhist / Jaina,2026,Announcements and events,announcement/event,4,4,4
-state,V,Buddhist / Jaina,2026,Announcements and events,job/position,1,1,1
-state,V,Buddhist / Jaina,2026,Buddhism and Jainism,general discussion,7,4,6
+state,V,Buddhist / Jaina,2026,Announcements and events,announcement/event,5,5,5
+state,V,Buddhist / Jaina,2026,Announcements and events,job/position,3,3,3
+state,V,Buddhist / Jaina,2026,Announcements and events,obituary/memorial,1,1,1
+state,V,Buddhist / Jaina,2026,Buddhism and Jainism,announcement/event,1,1,1
+state,V,Buddhist / Jaina,2026,Buddhism and Jainism,general discussion,8,5,7
 state,V,Buddhist / Jaina,2026,General scholarly discussion,general discussion,2,1,2

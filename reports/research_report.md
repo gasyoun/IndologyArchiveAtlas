@@ -4,14 +4,14 @@ This report reads the INDOLOGY mailing-list archive as a long-running scholarly 
 
 ## Coverage
 
-- Months: 427
-- Messages: 62,214
-- Threads: 24,075
-- Raw author strings: 3,285
-- Author strings needing review: 889
-- Directed reply rows: 42,808
-- Resolved directed replies: 37,159
-- Aggregated directed reply edges: 20,823
+- Months: 430
+- Messages: 62,530
+- Threads: 24,198
+- Raw author strings: 3,294
+- Author strings needing review: 890
+- Directed reply rows: 43,028
+- Resolved directed replies: 37,358
+- Aggregated directed reply edges: 20,921
 
 ## Method Notes
 
@@ -36,22 +36,22 @@ This report reads the INDOLOGY mailing-list archive as a long-running scholarly 
 | 1990s | 19692 | 7745 | 536 |
 | 2000s | 14212 | 5326 | 480 |
 | 2010s | 17710 | 6873 | 309 |
-| 2020s | 10600 | 4131 | 317 |
+| 2020s | 10916 | 4254 | 317 |
 
 ## What Was Discussed?
 
 | topic | messages | threads | authors | top_list_function |
 | --- | --- | --- | --- | --- |
-| General scholarly discussion | 45617 | 17558 | 2795 | general discussion |
-| Announcements and events | 2798 | 2442 | 794 | announcement/event |
-| Bibliographic requests | 2599 | 1467 | 697 | bibliographic request |
-| History and culture | 2591 | 1580 | 857 | general discussion |
-| Digital resources and tools | 2448 | 1437 | 645 | digital resource/tool |
-| Texts and philology | 1964 | 1043 | 624 | philological discussion |
-| Veda and ritual | 1394 | 783 | 490 | general discussion |
+| General scholarly discussion | 45832 | 17624 | 2799 | general discussion |
+| Announcements and events | 2820 | 2463 | 796 | announcement/event |
+| Bibliographic requests | 2618 | 1478 | 701 | bibliographic request |
+| History and culture | 2604 | 1587 | 860 | general discussion |
+| Digital resources and tools | 2454 | 1443 | 645 | digital resource/tool |
+| Texts and philology | 1980 | 1050 | 626 | philological discussion |
+| Veda and ritual | 1395 | 784 | 490 | general discussion |
+| Manuscripts and epigraphy | 1011 | 465 | 346 | general discussion |
 | Grammar and linguistics | 1001 | 463 | 347 | philological discussion |
-| Manuscripts and epigraphy | 991 | 462 | 344 | general discussion |
-| Buddhism and Jainism | 507 | 340 | 262 | general discussion |
+| Buddhism and Jainism | 509 | 342 | 262 | general discussion |
 
 ## Renou State/Register Layer
 
@@ -59,29 +59,29 @@ This sparse layer adapts the Louis Renou state and register axes documented in `
 
 | scope | total_rows | matched_rows | matched_percent | source_url |
 | --- | --- | --- | --- | --- |
-| messages | 62214 | 6226 | 10.01 | https://github.com/gasyoun/SanskritLexicography/blob/master/RussianTranslation/RENOU.md |
-| threads | 24075 | 3314 | 13.77 | https://github.com/gasyoun/SanskritLexicography/blob/master/RussianTranslation/RENOU.md |
+| messages | 62530 | 6270 | 10.03 | https://github.com/gasyoun/SanskritLexicography/blob/master/RussianTranslation/RENOU.md |
+| threads | 24198 | 3335 | 13.78 | https://github.com/gasyoun/SanskritLexicography/blob/master/RussianTranslation/RENOU.md |
 
 | renou_code | renou_label | message_count | thread_count |
 | --- | --- | --- | --- |
-| I | Vedic | 1530 | 883 |
-| III | Epic & prolongements | 1216 | 663 |
-| V | Buddhist / Jaina | 752 | 533 |
+| I | Vedic | 1535 | 885 |
+| III | Epic & prolongements | 1237 | 670 |
+| V | Buddhist / Jaina | 758 | 539 |
 | II | Pāṇinian | 724 | 366 |
-| IV | Classical | 327 | 182 |
+| IV | Classical | 335 | 185 |
 
 | renou_code | renou_label | message_count | thread_count |
 | --- | --- | --- | --- |
 | vyakarana | Vyākaraṇa | 649 | 325 |
-| epic | Epic | 563 | 340 |
-| rgveda | Ṛgveda | 523 | 285 |
-| kavya | Kāvya | 522 | 260 |
-| jaina | Jaina | 366 | 291 |
-| epig | Epigraphic | 355 | 209 |
-| bhasya | Bhāṣya | 294 | 155 |
+| epic | Epic | 579 | 346 |
+| kavya | Kāvya | 527 | 261 |
+| rgveda | Ṛgveda | 524 | 286 |
+| jaina | Jaina | 370 | 295 |
+| epig | Epigraphic | 356 | 210 |
+| bhasya | Bhāṣya | 297 | 157 |
 | tantra | Tantra | 211 | 122 |
 | katha | Kathā | 174 | 115 |
-| purana | Purāṇa | 161 | 91 |
+| purana | Purāṇa | 166 | 92 |
 | upanisad | Upaniṣad | 145 | 80 |
 | natya | Nāṭya | 124 | 73 |
 
@@ -104,45 +104,45 @@ This sparse layer adapts the Louis Renou state and register axes documented in `
 
 | list_function | messages |
 | --- | --- |
-| general discussion | 47893 |
-| identification/help request | 3287 |
-| philological discussion | 3135 |
-| digital resource/tool | 2421 |
-| announcement/event | 2271 |
-| bibliographic request | 1367 |
-| job/position | 894 |
+| general discussion | 48105 |
+| identification/help request | 3307 |
+| philological discussion | 3164 |
+| digital resource/tool | 2427 |
+| announcement/event | 2291 |
+| bibliographic request | 1378 |
+| job/position | 904 |
 | debate/controversy | 481 |
-| obituary/memorial | 195 |
-| list administration | 194 |
+| obituary/memorial | 201 |
+| list administration | 196 |
 
 ## Who Participated?
 
 | normalized_author | message_count | thread_count | first_year | last_year | top_list_function | author_status |
 | --- | --- | --- | --- | --- | --- | --- |
-| Dominik Wujastyk | 3416 | 2769 | 1990 | 2026 | general discussion | confirmed |
-| Madhav Deshpande | 1894 | 1111 | 1994 | 2026 | general discussion | confirmed |
+| Dominik Wujastyk | 3430 | 2781 | 1990 | 2026 | general discussion | confirmed |
+| Madhav Deshpande | 1910 | 1124 | 1994 | 2026 | general discussion | confirmed |
 | N. Ganesan | 1126 | 608 | 1997 | 2001 | general discussion | confirmed |
-| Harry Spier | 1049 | 651 | 1999 | 2026 | general discussion | confirmed |
-| Nagaraj Paturi | 832 | 401 | 2014 | 2026 | general discussion | confirmed |
-| Matthew Kapstein | 806 | 579 | 2001 | 2026 | general discussion | confirmed |
-| Sudalaimuthu Palaniappan | 786 | 516 | 1997 | 2026 | general discussion | confirmed |
+| Harry Spier | 1064 | 664 | 1999 | 2026 | general discussion | confirmed |
+| Nagaraj Paturi | 836 | 405 | 2014 | 2026 | general discussion | confirmed |
+| Matthew Kapstein | 821 | 587 | 2001 | 2026 | general discussion | confirmed |
+| Sudalaimuthu Palaniappan | 790 | 520 | 1997 | 2026 | general discussion | confirmed |
 | Lars Martin Fosse | 784 | 490 | 1992 | 2016 | general discussion | confirmed |
+| Jonathan Silk | 604 | 491 | 1997 | 2026 | general discussion | confirmed |
 | Allen W Thrasher | 603 | 492 | 1997 | 2010 | general discussion | confirmed |
-| Jonathan Silk | 602 | 489 | 1997 | 2026 | general discussion | confirmed |
 | Vidyasankar Sundaresan | 574 | 343 | 1995 | 2001 | general discussion | confirmed |
 | Jan E.M. Houben | 561 | 438 | 1997 | 2026 | general discussion | confirmed |
-| Christophe Vielle | 554 | 445 | 2002 | 2026 | general discussion | confirmed |
+| Christophe Vielle | 560 | 451 | 2002 | 2026 | general discussion | confirmed |
 | Dipak Bhattacharya | 549 | 398 | 2008 | 2018 | general discussion | confirmed |
-| Arlo Griffiths | 516 | 442 | 1998 | 2026 | general discussion | confirmed |
+| Arlo Griffiths | 517 | 443 | 1998 | 2026 | general discussion | confirmed |
 
 ## Who Replied To Whom?
 
 | confidence | reply_rows | resolved_rows | share |
 | --- | --- | --- | --- |
-| thread_inferred | 22910 | 22910 | 0.5352 |
-| exact_in_reply_to | 14137 | 14137 | 0.3302 |
-| unresolved | 5649 | 0 | 0.132 |
-| references_chain | 112 | 112 | 0.0026 |
+| thread_inferred | 22914 | 22914 | 0.5325 |
+| exact_in_reply_to | 14328 | 14328 | 0.333 |
+| unresolved | 5670 | 0 | 0.1318 |
+| references_chain | 116 | 116 | 0.0027 |
 
 ## Threads Worth Reading
 
@@ -163,8 +163,8 @@ The following are automatically selected candidates for close reading, not a cur
 | 238 | Pancaratna of the MBh? | General scholarly discussion | general discussion | 44 | 26 | 43 | threads/011-030283-pancaratna-of-the-mbh.html |
 | 233 | Johannes Bronkhorst gone | General scholarly discussion | general discussion | 39 | 38 | 38 | threads/012-060627-johannes-bronkhorst-gone.html |
 | 232 | South India geography | General scholarly discussion | general discussion | 53 | 15 | 51 | threads/013-012389-south-india-geography.html |
-| 229 | 'Siva and Avalokitezvara | General scholarly discussion | general discussion | 55 | 14 | 54 | threads/014-014599-siva-and-avalokitezvara.html |
-| 229 | Early Giithaa sculptures | General scholarly discussion | general discussion | 49 | 16 | 47 | threads/015-014966-early-giithaa-sculptures.html |
+| 229 | Early Giithaa sculptures | General scholarly discussion | general discussion | 49 | 16 | 47 | threads/014-014966-early-giithaa-sculptures.html |
+| 229 | 'Siva and Avalokitezvara | General scholarly discussion | general discussion | 55 | 14 | 54 | threads/015-014599-siva-and-avalokitezvara.html |
 
 ## Curated Case-Study Workflow
 
@@ -182,8 +182,8 @@ Case-study curation is English-only. Rows remain `candidate` until a human revie
 | candidate | infrastructure_history | general discussion | 6 |
 | candidate | infrastructure_history | bibliographic rescue | 2 |
 | candidate | infrastructure_history | philological debate | 2 |
-| candidate | philological_substance | identification/help request | 14 |
-| candidate | philological_substance | general discussion | 13 |
+| candidate | philological_substance | identification/help request | 15 |
+| candidate | philological_substance | general discussion | 12 |
 | candidate | philological_substance | philological debate | 7 |
 | candidate | philological_substance | philological discussion | 2 |
 
@@ -193,7 +193,7 @@ Case-study curation is English-only. Rows remain `candidate` until a human revie
 - Infrastructure review packet rows: 16
 - Unassigned review packet rows: 198
 - Review import audit rows: 25
-- Unified human review index rows: 1,922
+- Unified human review index rows: 1,926
 - Interpretive guardrail rows: 7
 
 | review_priority_reason | short_title | effective_track | case_type | message_count | author_count | reply_count | page_path |
@@ -214,13 +214,13 @@ Case-study curation is English-only. Rows remain `candidate` until a human revie
 | infrastructure history track | Update 2 to Pali Canon online | infrastructure_history | digital resource/tool | 39 | 22 | 38 | threads/025-006983-update-2-to-pali-canon-online.html |
 | infrastructure history track | Vedic Website | infrastructure_history | digital resource/tool | 27 | 14 | 26 | threads/070-006442-vedic-website.html |
 | infrastructure history track | INSA email address? | infrastructure_history | general discussion | 29 | 12 | 28 | threads/077-016462-insa-email-address.html |
-| infrastructure history track | Manuscript collections on archive.org | infrastructure_history | philological debate | 28 | 14 | 27 | threads/082-057928-manuscript-collections-on-archive-org.html |
-| debate or controversy case type | Vicious Debate |  | debate/controversy | 35 | 10 | 33 | threads/066-014354-vicious-debate.html |
+| infrastructure history track | Manuscript collections on archive.org | infrastructure_history | philological debate | 28 | 14 | 27 | threads/081-057928-manuscript-collections-on-archive-org.html |
+| debate or controversy case type | Vicious Debate |  | debate/controversy | 35 | 10 | 33 | threads/067-014354-vicious-debate.html |
 | debate or controversy case type | "samsara" meaning "life" | philological_substance | philological debate | 23 | 15 | 21 | threads/089-032536-samsara-meaning-life.html |
-| debate or controversy case type | references to tuLu language in ancient Tamil text | philological_substance | philological debate | 26 | 14 | 25 | threads/109-015333-references-to-tulu-language-in-ancient-tamil-text.html |
+| debate or controversy case type | references to tuLu language in ancient Tamil text | philological_substance | philological debate | 26 | 14 | 25 | threads/110-015333-references-to-tulu-language-in-ancient-tamil-text.html |
 | community memory or announcement case type | Johannes Bronkhorst gone |  | memorial/community memory | 39 | 38 | 38 | threads/012-060627-johannes-bronkhorst-gone.html |
-| community memory or announcement case type | Event announcement: Testing Workshop |  | announcement | 21 | 13 | 19 | threads/097-005629-event-announcement-testing-workshop.html |
-| community memory or announcement case type | New publication |  | announcement/event | 24 | 15 | 23 | threads/139-043031-new-publication.html |
+| community memory or announcement case type | Event announcement: Testing Workshop |  | announcement | 21 | 13 | 19 | threads/099-005629-event-announcement-testing-workshop.html |
+| community memory or announcement case type | New publication |  | announcement/event | 24 | 15 | 23 | threads/141-043031-new-publication.html |
 | high-participation unassigned candidate | questions: hymns, latAveZin, manner of death |  | general discussion | 58 | 20 | 57 | threads/008-015672-questions-hymns-latavezin-manner-of-death.html |
 | high-participation unassigned candidate | Millennium |  | general discussion | 61 | 16 | 60 | threads/009-019623-millennium.html |
 
@@ -274,7 +274,7 @@ The named network tables are public-archive metadata summaries. `direct_reply` r
 
 ## Archive Caveats
 
-- Count-mismatch months documented: 8
+- Count-mismatch months documented: 11
 - Early archive metadata contains empty subjects and legacy email/address strings.
 - Direct reply reconstruction is incomplete where headers are missing or reference messages fall outside the harvested archive.
 

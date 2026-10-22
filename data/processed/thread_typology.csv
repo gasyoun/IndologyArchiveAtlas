@@ -125,6 +125,7 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 049669,2019,question about a soliciation from publisher MDPI,General scholarly discussion,identification/help request,25,14,24,0.96
 020594,2000,Saraswati: Atomic Scientists reconfirm location,General scholarly discussion,general discussion,25,12,24,0.96
 025095,2001,Did you hear this?,General scholarly discussion,general discussion,25,12,24,0.96
+062297,2026,Mleccha,General scholarly discussion,general discussion,25,12,24,0.96
 018804,1999,TretA etymology,General scholarly discussion,general discussion,25,11,24,0.96
 031427,2008,Digital Kielhorn,Digital resources and tools,digital resource/tool,25,11,24,0.96
 033251,2009,The Film Adi Shankaracharya,Texts and philology,philological discussion,25,11,24,0.96
@@ -382,6 +383,7 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 004480,1996,Suggestion on what computer to buy,General scholarly discussion,general discussion,15,11,13,0.8667
 033761,2009,underwater hell or otherworld,General scholarly discussion,general discussion,15,11,14,0.9333
 052261,2020,sanskrit and computers?,General scholarly discussion,general discussion,15,11,14,0.9333
+062278,2026,Book Club Invitations,General scholarly discussion,general discussion,15,11,14,0.9333
 011604,1998,"The horse argument, part 1",General scholarly discussion,general discussion,15,10,14,0.9333
 015203,1999,Nehru and Persian/Arabic,General scholarly discussion,general discussion,15,10,13,0.8667
 016260,1999,Peacocks and Poison--one last time,General scholarly discussion,general discussion,15,10,14,0.9333
@@ -404,6 +406,7 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 042605,2016,dna and castes,General scholarly discussion,general discussion,15,8,14,0.9333
 053267,2020,sources on markers of girls' transition to adulthood,General scholarly discussion,general discussion,15,8,14,0.9333
 061152,2025,"The meaning of ""bhāvanādharmaḥ""",General scholarly discussion,philological discussion,15,8,14,0.9333
+062350,2026,Date and place of a manuscript,Manuscripts and epigraphy,philological discussion,15,8,14,0.9333
 010269,1998,Help with a sentence?,General scholarly discussion,general discussion,15,7,14,0.9333
 014033,1998,"I-I metrics (was SV: method of dating RV, III)",General scholarly discussion,general discussion,15,7,14,0.9333
 017618,1999,Aurobindo about Advaita,General scholarly discussion,general discussion,15,7,14,0.9333
@@ -1022,6 +1025,7 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 058543,2023,Online or downloadable book to learn devanagari,Digital resources and tools,digital resource/tool,9,7,8,0.8889
 061601,2026,pancanga down,General scholarly discussion,general discussion,9,7,8,0.8889
 061679,2026,Announcement: launch of Searchable Aggregate Library of Sanskrit Etexts,Digital resources and tools,digital resource/tool,9,7,8,0.8889
+062528,2026,Enkidu and Ṛṣyaśṛṅga,General scholarly discussion,general discussion,9,7,8,0.8889
 002896,1995,Justification for teaching Sanskrit,General scholarly discussion,general discussion,9,6,8,0.8889
 003296,1995,Darpan,General scholarly discussion,general discussion,9,6,8,0.8889
 005767,1996,Scripts,General scholarly discussion,general discussion,9,6,8,0.8889
@@ -1064,6 +1068,7 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 055414,2021,Journal Asiatique,General scholarly discussion,general discussion,9,6,8,0.8889
 060347,2025,Help with dī́divim,General scholarly discussion,identification/help request,9,6,8,0.8889
 061343,2025,Upadhmānīya and Jihvāmūlīya,General scholarly discussion,general discussion,9,6,8,0.8889
+062243,2026,Fonts,General scholarly discussion,general discussion,9,6,8,0.8889
 012379,1998,Brhadaranyaka Upanisad III. ii .12,General scholarly discussion,general discussion,9,5,8,0.8889
 014476,1998,devanagari ttf font win31/95/98,General scholarly discussion,general discussion,9,5,7,0.7778
 017928,1999,Hinduism Web Sites,General scholarly discussion,general discussion,9,5,8,0.8889
@@ -1101,6 +1106,7 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 055518,2021,OCR for sanskrit transliteration,Digital resources and tools,digital resource/tool,9,5,8,0.8889
 056334,2022,Nagari conversion,General scholarly discussion,general discussion,9,5,8,0.8889
 062152,2026,unsandhied juncture,General scholarly discussion,general discussion,9,5,8,0.8889
+062390,2026,about availability of book,General scholarly discussion,general discussion,9,5,8,0.8889
 000649,1993,India office OPAC?,History and culture,general discussion,9,4,8,0.8889
 010161,1997,Delocutives,General scholarly discussion,general discussion,9,4,8,0.8889
 010360,1998,Kotishila,General scholarly discussion,philological discussion,9,4,8,0.8889
@@ -1212,6 +1218,7 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 060312,2025,Most recent iteration of the same claim,General scholarly discussion,general discussion,8,7,7,0.875
 060453,2025,Trump government cancelling NEH grants,General scholarly discussion,general discussion,8,7,7,0.875
 060542,2025,Book Sale Discount,General scholarly discussion,general discussion,8,7,7,0.875
+062404,2026,Question on amākṣika madhu in MBh 5.62.23,General scholarly discussion,identification/help request,8,7,7,0.875
 000633,1993,India office OPAC?,History and culture,general discussion,8,6,7,0.875
 002138,1995,Third International Dharmaki@rti Conference,General scholarly discussion,general discussion,8,6,7,0.875
 003266,1995,Divali,General scholarly discussion,general discussion,8,6,7,0.875
@@ -1567,6 +1574,8 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 061201,2025,Sanskrit perfect first person,General scholarly discussion,general discussion,7,6,6,0.8571
 061437,2025,Spectacular finds,General scholarly discussion,general discussion,7,6,6,0.8571
 062191,2026,Sanskrit meter,General scholarly discussion,general discussion,7,6,6,0.8571
+062228,2026,sad news,General scholarly discussion,general discussion,7,6,6,0.8571
+062518,2026,mokṣopāya-ṭīkā by bhāskarakaṇṭha all extant portions now added to Searchable Aggregate Library of Sanskrit,General scholarly discussion,general discussion,7,6,6,0.8571
 001471,1994,Asian American Policy Review -- Call for Papers,General scholarly discussion,general discussion,7,5,5,0.7143
 002431,1995,uttara-mImAMsA???,General scholarly discussion,general discussion,7,5,6,0.8571
 003175,1995,New Message.,General scholarly discussion,general discussion,7,5,5,0.7143
@@ -1672,6 +1681,8 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 061561,2026,Article by Hideo Kimura,General scholarly discussion,general discussion,7,5,6,0.8571
 061587,2026,Leprosy,General scholarly discussion,general discussion,7,5,6,0.8571
 061926,2026,a question about the āśīrliṅ,General scholarly discussion,identification/help request,7,5,7,1.0
+062438,2026,Publication announcement: Gethin: Mapping a Buddha's Mind,General scholarly discussion,general discussion,7,5,6,0.8571
+062494,2026,mārtāṇḍa,General scholarly discussion,general discussion,7,5,6,0.8571
 001720,1995,"Conference-seminar on ""Grammaires indiennes"" in Paris",General scholarly discussion,general discussion,7,4,5,0.7143
 002131,1995,WWW South Asia sites?,History and culture,general discussion,7,4,6,0.8571
 004232,1996,your mail,General scholarly discussion,general discussion,7,4,5,0.7143
@@ -1860,6 +1871,7 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 060738,2025,Interview with Johannes Bronkhorst,General scholarly discussion,general discussion,6,6,5,0.8333
 061571,2026,New publication,General scholarly discussion,announcement/event,6,6,6,1.0
 061617,2026,Kavi Kalidas Sanskrit University Award,General scholarly discussion,general discussion,6,6,5,0.8333
+062361,2026,Book Announcement: The Power of Hate Speech in Ancient India,History and culture,general discussion,6,6,5,0.8333
 000515,1993,Issues in the creation and dissemination of Sanskrit e-texts,General scholarly discussion,general discussion,6,5,5,0.8333
 000976,1994,Sanskrit everywhere!!,General scholarly discussion,general discussion,6,5,5,0.8333
 001265,1994,Info Needed....... (fwd),General scholarly discussion,general discussion,6,5,5,0.8333
@@ -2280,6 +2292,7 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 061486,2025,Yamanaka Jyotiṣa Siddhānta?,General scholarly discussion,general discussion,6,3,5,0.8333
 062158,2026,Iconography of Brahmā,General scholarly discussion,general discussion,6,3,5,0.8333
 062218,2026,thank you re Ramanuja,General scholarly discussion,general discussion,6,3,5,0.8333
+062465,2026,unusual numeral?,General scholarly discussion,general discussion,6,3,5,0.8333
 015692,1999,books on aradhana,General scholarly discussion,general discussion,6,2,5,0.8333
 019750,2000,Typographical error in the Bhagavad-Gita?,General scholarly discussion,general discussion,6,2,5,0.8333
 021088,2000,Sanskrit proper names,General scholarly discussion,general discussion,6,2,5,0.8333
@@ -2488,6 +2501,8 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 061796,2026,Hermann Kulke,General scholarly discussion,general discussion,5,5,4,0.8
 062053,2026,Maps of Ancient India,History and culture,general discussion,5,5,4,0.8
 062148,2026,In memory of Dr Rocco Cestola,General scholarly discussion,general discussion,5,5,4,0.8
+062406,2026,In memoriam: Professor Mandakranta Bose,General scholarly discussion,obituary/memorial,5,5,4,0.8
+062513,2026,Book,General scholarly discussion,general discussion,5,5,4,0.8
 000989,1994,Oral tradition in Tantra,Texts and philology,general discussion,5,4,4,0.8
 001005,1994,Transliteration Macros for WP,Digital resources and tools,digital resource/tool,5,4,3,0.6
 001165,1994,Fonts & Sanskrit courses,General scholarly discussion,general discussion,5,4,4,0.8
@@ -2768,6 +2783,9 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 061128,2025,seeking a pdf,Bibliographic requests,bibliographic request,5,4,4,0.8
 062104,2026,Pramāṇavārttika,General scholarly discussion,general discussion,5,4,4,0.8
 062175,2026,English translation of the Moksadharmaparvan,Texts and philology,philological discussion,5,4,4,0.8
+062265,2026,Imagining Sanskritland Book Announcement,General scholarly discussion,general discussion,5,4,4,0.8
+062385,2026,Query about Kālidāsa,General scholarly discussion,identification/help request,5,4,4,0.8
+062503,2026,Academia.edu,General scholarly discussion,general discussion,5,4,4,0.8
 000122,1991,soc.culture.india,History and culture,general discussion,5,3,4,0.8
 001144,1994,napumsaka,General scholarly discussion,general discussion,5,3,4,0.8
 001268,1994,Aryans and Dravidians / Thirumoolar,General scholarly discussion,general discussion,5,3,3,0.6
@@ -2975,6 +2993,7 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 061965,2026,Yavanika PDF request,Bibliographic requests,bibliographic request,5,3,4,0.8
 061999,2026,genitive/possessive constructions,General scholarly discussion,general discussion,5,3,4,0.8
 062045,2026,Bhoja's Sarasvatīkaṇṭhābharaṇa,General scholarly discussion,general discussion,5,3,4,0.8
+062271,2026,Critical Edition of the Mārkaṇḍeya Purāṇa,Texts and philology,philological discussion,5,3,4,0.8
 004897,1996,Devas and devils,General scholarly discussion,general discussion,5,2,4,0.8
 005730,1996,your mail,General scholarly discussion,general discussion,5,2,4,0.8
 006472,1996,Religious affiliation in India,History and culture,general discussion,5,2,4,0.8
@@ -3477,6 +3496,9 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 062002,2026,vulture simile,General scholarly discussion,general discussion,4,4,3,0.75
 062013,2026,Paṇḍit Rādhākṛṣṇa Collection,General scholarly discussion,general discussion,4,4,3,0.75
 062026,2026,New York Times Magazine feature on Buddhism,General scholarly discussion,general discussion,4,4,3,0.75
+062255,2026,Looking for Vijñānabhikṣu’s Yogavārttika,Bibliographic requests,identification/help request,4,4,3,0.75
+062417,2026,Taittirīya Brāhmaṇa English translations,General scholarly discussion,general discussion,4,4,3,0.75
+062473,2026,"Mourning the स्वर्गवास of Prof. Arvind Sharma (Sept 29, 2026 in Montreal)",General scholarly discussion,general discussion,4,4,4,1.0
 000031,1991,Calendar conversion,History and culture,general discussion,4,3,3,0.75
 000255,1992,"National scandal: Ganesha being sold as a ""monster""!",General scholarly discussion,general discussion,4,3,3,0.75
 000360,1992,indhist,General scholarly discussion,general discussion,4,3,3,0.75
@@ -3974,6 +3996,10 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 061995,2026,Maitrāyaṇī-Prātiśākhya,General scholarly discussion,general discussion,4,3,3,0.75
 062205,2026,Book request_Adaptive Reuse Aspects of Creativity in South Asian Cultural History,History and culture,general discussion,4,3,3,0.75
 062211,2026,"On Tamil puravi and ivul̥i, ""horse""",General scholarly discussion,general discussion,4,3,3,0.75
+062366,2026,H. H. Hock article,General scholarly discussion,general discussion,4,3,3,0.75
+062411,2026,looking for article,Bibliographic requests,bibliographic request,4,3,3,0.75
+062460,2026,What is an “Instructional Professor?”,General scholarly discussion,general discussion,4,3,3,0.75
+062531,2026,Date and place of a manuscript,Manuscripts and epigraphy,philological discussion,4,3,4,1.0
 000230,1992,Buddhacarita and Astadhyayi files now available,General scholarly discussion,general discussion,4,2,3,0.75
 000314,1992,Proven Success of the ManjushreeCSX font,Digital resources and tools,digital resource/tool,4,2,3,0.75
 001000,1994,Construction methods for the Sri Yantra,General scholarly discussion,general discussion,4,2,3,0.75
@@ -4169,6 +4195,7 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 061384,2025,Accented Rg-veda manuscripts with double svarita,Veda and ritual,general discussion,4,2,3,0.75
 061947,2026,Seeking a pdf of Paippalādavaśādiṣaṭkarmapaddhati,Bibliographic requests,bibliographic request,4,2,3,0.75
 061982,2026,Le Sacrifice dans l'Inde ancienne,General scholarly discussion,general discussion,4,2,3,0.75
+062238,2026,Mita Miśra,General scholarly discussion,general discussion,4,2,3,0.75
 000653,1993,text of Rasaratnakara,Texts and philology,philological discussion,4,1,3,0.75
 010088,1997,Graha epithets,General scholarly discussion,general discussion,4,1,3,0.75
 034697,2010,Semantics/India,General scholarly discussion,general discussion,4,1,3,0.75
@@ -5380,6 +5407,10 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 062085,2026,"David Maclay Knipe (November 25, 1932 — June 4, 2026)",General scholarly discussion,general discussion,3,3,2,0.6667
 062155,2026,Kalidasa Sanskrit Vrati Puraskar,General scholarly discussion,general discussion,3,3,2,0.6667
 062171,2026,"Inquiry: PDF copy of ""Kālātantra, Vol. 1"" by Niraj Kumar (D.K. Printworld, 2022)",Bibliographic requests,bibliographic request,3,3,2,0.6667
+062300,2026,Gombrich 1992 on six former buddhas,General scholarly discussion,general discussion,3,3,2,0.6667
+062327,2026,Mahābhārata in Devanāgarī,Texts and philology,general discussion,3,3,2,0.6667
+062381,2026,New Publication,General scholarly discussion,announcement/event,3,3,2,0.6667
+062492,2026,depiction of Hiraṇyakaśipu in Orissan art,General scholarly discussion,general discussion,3,3,2,0.6667
 000038,1991,REACH on FTP,General scholarly discussion,general discussion,3,2,2,0.6667
 000047,1991,information,General scholarly discussion,general discussion,3,2,2,0.6667
 000063,1991,Sanskrit Syntax Sangha,Grammar and linguistics,philological discussion,3,2,2,0.6667
@@ -6213,6 +6244,9 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 062103,2026,Ānandagotra and Trikūṭādhipati,General scholarly discussion,general discussion,3,2,2,0.6667
 062116,2026,Question,General scholarly discussion,identification/help request,3,2,2,0.6667
 062128,2026,Tübingen Purāṇa Project,Texts and philology,general discussion,3,2,2,0.6667
+062267,2026,Article by Helene Brunner,General scholarly discussion,general discussion,3,2,2,0.6667
+062270,2026,Book Announcement: The Game of Knowledge,General scholarly discussion,general discussion,3,2,2,0.6667
+062301,2026,Request to forward : Jayadrathay?mala A152/8 (Antonia Ruppel),General scholarly discussion,general discussion,3,2,2,0.6667
 000835,1993,OSHO Centre,General scholarly discussion,general discussion,3,1,2,0.6667
 001688,1994,I would like to know if you can elaborate upon the,General scholarly discussion,general discussion,3,1,2,0.6667
 001986,1995,info please,General scholarly discussion,general discussion,3,1,2,0.6667
@@ -9570,6 +9604,16 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 062098,2026,Looking for advice,Bibliographic requests,identification/help request,2,2,1,0.5
 062167,2026,help with strange term: nabviṣaya,General scholarly discussion,identification/help request,2,2,1,0.5
 062187,2026,Looking for access to this book,Bibliographic requests,identification/help request,2,2,1,0.5
+062226,2026,unsandhied juncture,General scholarly discussion,general discussion,2,2,2,1.0
+062256,2026,Sanskrit Wikisource,General scholarly discussion,general discussion,2,2,2,1.0
+062346,2026,Location of the Āmera Śāstra Bhaṇḍāra?,Texts and philology,general discussion,2,2,2,1.0
+062376,2026,Book announcement: When a God Moves the City: Placemaking in the Buṅgadyaḥ Procession of Nepal,General scholarly discussion,general discussion,2,2,1,0.5
+062380,2026,Location of the Nagarjuna Buddhist Foundation,General scholarly discussion,general discussion,2,2,1,0.5
+062414,2026,rticle/commentary on Mbh Aśvin Hymn,Texts and philology,philological discussion,2,2,1,0.5
+062452,2026,Subscription question,List administration,list administration,2,2,1,0.5
+062487,2026,studia Iranica,General scholarly discussion,general discussion,2,2,1,0.5
+062510,2026,New publication: Paths to Liberation in Hindu Traditions,General scholarly discussion,announcement/event,2,2,1,0.5
+062538,2026,Inauguration of the BIBLIOTECA INDIA and ASIA (a wonderful resource) at the University of Malaga this Friday 23.10,History and culture,general discussion,2,2,1,0.5
 000108,1991,,General scholarly discussion,general discussion,2,1,1,0.5
 000125,1991,Availability of NetNews on VMS and VM,General scholarly discussion,general discussion,2,1,1,0.5
 000153,1991,Nagari or not?,General scholarly discussion,general discussion,2,1,1,0.5
@@ -10379,6 +10423,10 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 062102,2026,85 texts added to Searchable Aggregate Library of Sanskrit,Digital resources and tools,digital resource/tool,2,1,1,0.5
 062119,2026,śiva-purāṇa from Veṅkaṭeśvara Press,Texts and philology,general discussion,2,1,1,0.5
 062177,2026,unsandhied juncture,General scholarly discussion,general discussion,2,1,2,1.0
+062403,2026,PDF of Cardona 1968,Bibliographic requests,bibliographic request,2,1,1,0.5
+062432,2026,Article PDF request,Bibliographic requests,bibliographic request,2,1,1,0.5
+062483,2026,"Second CFP - 9th International Sanskrit Computational Linguistics Symposium (9th ISCLS), Deccan College - Pune, 20-22 January 2027",Announcements and events,announcement/event,2,1,1,0.5
+062490,2026,Das Sūtra von den vier Ständen,Texts and philology,philological discussion,2,1,1,0.5
 000005,1990,Welcome to the new INDOLOGY list.,General scholarly discussion,general discussion,1,1,0,0.0
 000006,1990,Job opening (Ashmolean Museum),Announcements and events,job/position,1,1,0,0.0
 000007,1990,Word processing in Indian languages,General scholarly discussion,general discussion,1,1,0,0.0
@@ -24074,3 +24122,78 @@ thread_root_id,year,thread_subject,primary_topic,list_function,message_count,aut
 062217,2026,Fall 2026 Language Courses,General scholarly discussion,general discussion,1,1,0,0.0
 062219,2026,"Burrow on Tamil ivul̥i, ""horse""",General scholarly discussion,general discussion,1,1,0,0.0
 062220,2026,"Burrow on Tamil ivul̥i , ""horse""",General scholarly discussion,general discussion,1,1,0,0.0
+062227,2026,Book Announcement: DICSEP proceedings vols. 8 and 9,General scholarly discussion,general discussion,1,1,0,0.0
+062237,2026,SARDS 3 modernised,General scholarly discussion,general discussion,1,1,0,0.0
+062242,2026,Seersucker from India to the American South,History and culture,general discussion,1,1,0,0.0
+062245,2026,"""Tradition and Innovation"" conference, Eötvös Loránd University, 3-4 September 2026",Announcements and events,announcement/event,1,1,0,0.0
+062247,2026,"Fonts,",General scholarly discussion,general discussion,1,1,0,0.0
+062248,2026,Notes on the Naṟiṇai,General scholarly discussion,general discussion,1,1,0,0.0
+062249,2026,In search of the book - Paṇḍitāśoka,General scholarly discussion,general discussion,1,1,0,0.0
+062253,2026,Nepal cancels IATS conference at the last minute,Announcements and events,announcement/event,1,1,0,0.0
+062258,2026,Looking for Dr. Kunjunni Raja Felicitation Volume,Bibliographic requests,identification/help request,1,1,0,0.0
+062262,2026,The Sanskrit Library announces a workshop and autumn 2026 courses,Announcements and events,announcement/event,1,1,0,0.0
+062263,2026,rubbing of Aśoka's Greek inscription Kandahar II,Manuscripts and epigraphy,general discussion,1,1,0,0.0
+062264,2026,56 texts added to Searchable Aggregate Library of Sanskrit,Digital resources and tools,digital resource/tool,1,1,0,0.0
+062276,2026,Postdoctoral Fellowship Opportunities at Ghent,Announcements and events,job/position,1,1,0,0.0
+062287,2026,BCDSS Professorships - Calls for Application,General scholarly discussion,general discussion,1,1,0,0.0
+062294,2026,Request to forward : Jayadrathayāmala A152/8,Bibliographic requests,general discussion,1,1,0,0.0
+062295,2026,Journal search,General scholarly discussion,general discussion,1,1,0,0.0
+062296,2026,Publication announcement,General scholarly discussion,general discussion,1,1,0,0.0
+062318,2026,AAR Jain Studies Travel Grants,Buddhism and Jainism,general discussion,1,1,0,0.0
+062330,2026,Malayāḷam@Tübingen: Malayalam Course for Beginners,Announcements and events,announcement/event,1,1,0,0.0
+062338,2026,Library of Congress Florence Tan Moeson Fellowships open,General scholarly discussion,general discussion,1,1,0,0.0
+062340,2026,"Position: University of Virginia, Metadata Systems Librarian for Non-Latin Script Resources",Announcements and events,job/position,1,1,0,0.0
+062341,2026,The Nature of Self by A.C. Mukerji,General scholarly discussion,general discussion,1,1,0,0.0
+062342,2026,Location of the Āmera Śāstra Bhaṇḍāra?,Texts and philology,general discussion,1,1,0,0.0
+062343,2026,5 critical editions by Dr. Walter Slaje added to Searchable Aggregate Library of Sanskrit,Digital resources and tools,digital resource/tool,1,1,0,0.0
+062344,2026,South India in rural Quebec,History and culture,general discussion,1,1,0,0.0
+062345,2026,"CFP - 9th International Sanskrit Computational Linguistics Symposium (9th ISCLS), Deccan College - Pune, 20-22 January 2027",Announcements and events,announcement/event,1,1,0,0.0
+062347,2026,"ASTRA Fall Colloquium Series: Sky, Earth, and Bodies: Astral Sciences across High and Central Asia",General scholarly discussion,general discussion,1,1,0,0.0
+062349,2026,Pali Text Society: I.B. Horner Memorial Lecture,Announcements and events,obituary/memorial,1,1,0,0.0
+062354,2026,The 16th International Indology Graduate Research Symposium (IIGRS) - Programme and Abstracts,Announcements and events,announcement/event,1,1,0,0.0
+062363,2026,12 year old girl performing Ashtaavadhaanam in Sanskrit,General scholarly discussion,general discussion,1,1,0,0.0
+062367,2026,BCDSS Professorships - Calls for Application,General scholarly discussion,general discussion,1,1,0,0.0
+062370,2026,re-edition of Metrik und metrische Techniken im Rgveda: Streckformen in Trimeter-Versen,Veda and ritual,philological discussion,1,1,0,0.0
+062371,2026,review pdf request,Bibliographic requests,bibliographic request,1,1,0,0.0
+062372,2026,University of Vienna: Tenure-Track Professorship in Buddhist Studies,General scholarly discussion,job/position,1,1,0,0.0
+062400,2026,System Notice: Queue Status Report,General scholarly discussion,general discussion,1,1,0,0.0
+062402,2026,University of Louvain: Tenure-Track Professorship in Religious Studies (Buddhism/Hinduism),General scholarly discussion,job/position,1,1,0,0.0
+062416,2026,Call for Chapter Proposals: 'Euclid Beyond the Mediterranean' (Edited Volume & MPIWG Workshop),Announcements and events,announcement/event,1,1,0,0.0
+062425,2026,AW: Re: Question on amākṣika madhu in MBh 5.62.23,General scholarly discussion,identification/help request,1,1,0,0.0
+062426,2026,Arion Rosu and Jean Filliozat,General scholarly discussion,general discussion,1,1,0,0.0
+062430,2026,Question on Southern and Northern recensions of mahābhārata,Texts and philology,identification/help request,1,1,0,0.0
+062433,2026,Mahābhārata southern recension added to Searchable Aggregate Library of Sanskrit,Digital resources and tools,digital resource/tool,1,1,0,0.0
+062436,2026,New publication from the Pali Text Society,Buddhism and Jainism,announcement/event,1,1,0,0.0
+062437,2026,Job Opening in Indian Sociolinguistics and Multilingualism,Announcements and events,job/position,1,1,0,0.0
+062439,2026,Sāgarasaṅgama (and two new Atlases),General scholarly discussion,general discussion,1,1,0,0.0
+062440,2026,Jain Studies Position at UT-Austin,Announcements and events,job/position,1,1,0,0.0
+062448,2026,Welcome Indologists to the new Muktabodha Digital Library,Digital resources and tools,digital resource/tool,1,1,0,0.0
+062449,2026,Publication announcement: An Alaṅkāra Reader,General scholarly discussion,general discussion,1,1,0,0.0
+062450,2026,"Emerging Scholars in Jain Studies – Lecture by Dr. Anna Tosato, University of Illinois at Urbana-Champaign",Announcements and events,announcement/event,1,1,0,0.0
+062451,2026,Some questions on Āgamas and temple practices,History and culture,general discussion,1,1,0,0.0
+062453,2026,DCS accessibility,General scholarly discussion,general discussion,1,1,0,0.0
+062455,2026,OpenTipitaka with AI-generated translations,General scholarly discussion,general discussion,1,1,0,0.0
+062456,2026,Call for Applications: W1 Professorship Trauma Studies/ History of Violence,History and culture,job/position,1,1,0,0.0
+062457,2026,Instructional Professor of Tamil at University of Chicago,General scholarly discussion,general discussion,1,1,0,0.0
+062458,2026,Workshop Announcement: HISTLING Exchange Workshop on Buddhist Philology,Announcements and events,announcement/event,1,1,0,0.0
+062459,2026,Spalding Symposium 2027,Announcements and events,announcement/event,1,1,0,0.0
+062461,2026,teach Sanskrit in NYC,General scholarly discussion,general discussion,1,1,0,0.0
+062462,2026,Rocher Foundation Post-Doctoral Fellowship in Classical Indology,Announcements and events,job/position,1,1,0,0.0
+062471,2026,"Mourning the स्वर्गवास of Prof. Arvind Sharma (Sept 29, 2026 in Montreal)",General scholarly discussion,general discussion,1,1,0,0.0
+062476,2026,Last,General scholarly discussion,general discussion,1,1,0,0.0
+062477,2026,A new Sanskrit Magazine,General scholarly discussion,general discussion,1,1,0,0.0
+062479,2026,Kraay PDF request,Bibliographic requests,bibliographic request,1,1,0,0.0
+062480,2026,Calls for fellowship applications,Announcements and events,job/position,1,1,0,0.0
+062481,2026,Books request,Bibliographic requests,general discussion,1,1,0,0.0
+062482,2026,unusual numeral?,General scholarly discussion,general discussion,1,1,1,1.0
+062485,2026,Tulu as an administrative language and other Indian language issues,General scholarly discussion,general discussion,1,1,0,0.0
+062486,2026,Svarupa 1-page/2-pages,General scholarly discussion,general discussion,1,1,0,0.0
+062489,2026,Question on e-Conference/e-Tourist Visas for India,Announcements and events,announcement/event,1,1,0,0.0
+062502,2026,Library of Congress – digitization and cataloging updates,General scholarly discussion,general discussion,1,1,0,0.0
+062508,2026,Associate Professor/ Professor in Modern South Asia at Columbia University,History and culture,general discussion,1,1,0,0.0
+062509,2026,Call for chapter/s - Folk Magic in Monsoon Asia,General scholarly discussion,general discussion,1,1,0,0.0
+062512,2026,Complete Mokṣopāya (text only) critical edition added to Searchable Aggregate Library of Sanskrit,Digital resources and tools,digital resource/tool,1,1,0,0.0
+062516,2026,Soft copy of Kāmikāgama,Bibliographic requests,bibliographic request,1,1,0,0.0
+062527,2026,"New Academic position in Jain Studies opening at Rice University, Houston, Texas, USA",Announcements and events,job/position,1,1,0,0.0
+062543,2026,"Deadline Extended - Final CFP - 9th International Sanskrit Computational Linguistics Symposium (9th ISCLS), Deccan College - Pune, 20-22 January 2027",Announcements and events,announcement/event,1,1,0,0.0
+062544,2026,BibTeX bibliography manager,General scholarly discussion,general discussion,1,1,0,0.0

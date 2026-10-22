@@ -7,3 +7,6 @@ slug,archive_count,mbox_count,difference,skipped_mbox_rows,classification,downst
 2025-August,180,181,1,1,known_minor_archive_or_mbox_count_quirk,handled_by_subject_alignment,Extra mbox rows were recorded in skipped_mbox_rows.csv; archive-index rows remain the canonical message set.
 2025-September,129,130,1,1,known_minor_archive_or_mbox_count_quirk,handled_by_subject_alignment,Extra mbox rows were recorded in skipped_mbox_rows.csv; archive-index rows remain the canonical message set.
 2025-December,116,117,1,1,known_minor_archive_or_mbox_count_quirk,handled_by_subject_alignment,Extra mbox rows were recorded in skipped_mbox_rows.csv; archive-index rows remain the canonical message set.
+2026-August,119,120,1,1,known_minor_archive_or_mbox_count_quirk,handled_by_subject_alignment,Extra mbox rows were recorded in skipped_mbox_rows.csv; archive-index rows remain the canonical message set.
+2026-September,126,127,1,1,known_minor_archive_or_mbox_count_quirk,handled_by_subject_alignment,Extra mbox rows were recorded in skipped_mbox_rows.csv; archive-index rows remain the canonical message set.
+2026-October,71,72,1,1,known_minor_archive_or_mbox_count_quirk,handled_by_subject_alignment,Extra mbox rows were recorded in skipped_mbox_rows.csv; archive-index rows remain the canonical message set.
