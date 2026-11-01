@@ -10832,7 +10832,7 @@
     "top_list_function": "general discussion",
     "list_function_counts": "general discussion (8); announcement/event (4)",
     "resolved_replies_sent": "4",
-    "resolved_replies_received": "9",
+    "resolved_replies_received": "10",
     "author_status": "confirmed"
   },
   {
@@ -10876,6 +10876,20 @@
     "resolved_replies_sent": "6",
     "resolved_replies_received": "3",
     "author_status": "needs_review"
+  },
+  {
+    "normalized_author": "Pankaja Ganapathy",
+    "message_count": "12",
+    "thread_count": "10",
+    "first_year": "2024",
+    "last_year": "2026",
+    "top_topic": "General scholarly discussion",
+    "topic_counts": "General scholarly discussion (8); Announcements and events (3); Digital resources and tools (1)",
+    "top_list_function": "general discussion",
+    "list_function_counts": "general discussion (6); announcement/event (3); obituary/memorial (2); digital resource/tool (1)",
+    "resolved_replies_sent": "9",
+    "resolved_replies_received": "5",
+    "author_status": "confirmed"
   },
   {
     "normalized_author": "Pierre-Sylvain Filliozat",
@@ -11421,20 +11435,6 @@
     "list_function_counts": "general discussion (9); digital resource/tool (1); philological discussion (1)",
     "resolved_replies_sent": "7",
     "resolved_replies_received": "4",
-    "author_status": "confirmed"
-  },
-  {
-    "normalized_author": "Pankaja Ganapathy",
-    "message_count": "11",
-    "thread_count": "9",
-    "first_year": "2024",
-    "last_year": "2026",
-    "top_topic": "General scholarly discussion",
-    "topic_counts": "General scholarly discussion (8); Announcements and events (2); Digital resources and tools (1)",
-    "top_list_function": "general discussion",
-    "list_function_counts": "general discussion (6); announcement/event (2); obituary/memorial (2); digital resource/tool (1)",
-    "resolved_replies_sent": "8",
-    "resolved_replies_received": "5",
     "author_status": "confirmed"
   },
   {

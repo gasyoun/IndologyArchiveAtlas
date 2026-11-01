@@ -4,31 +4,31 @@
       "bytes": 1674,
       "name": "atlas_list_functions.csv",
       "rows": 44,
-      "sha256": "f38bf5b31db8ac97ca191b6a43fc233d672bf595fc51c5aa8c67351221edbcae"
+      "sha256": "80e79a376f2444c65898aff42687b44eb245b2a1cc18934e65a25464e82e5319"
     },
     {
-      "bytes": 18191187,
+      "bytes": 18191540,
       "name": "atlas_records_public.csv",
-      "rows": 62557,
-      "sha256": "8b83e04a29043c0619e21cfd8755f2a8cd1436e40a1ec393d290ab0b16d0af71"
+      "rows": 62558,
+      "sha256": "8141f03043e832cec54727c8d80e267b9dcc2379a8735d03caa71cb05f50bf3c"
     },
     {
       "bytes": 2945,
       "name": "atlas_timeline.csv",
       "rows": 37,
-      "sha256": "955c1e870f460165948e60e668bcc935d54dc3b26535d4989728946c28ad62aa"
+      "sha256": "5d24245234853429fcc6204267c4055f51f01dc5902f5c85b6bf83019ac66ce5"
     },
     {
       "bytes": 1033,
       "name": "atlas_topic_profiles.csv",
       "rows": 12,
-      "sha256": "b74e19541204da3f5ec1ae27fe4de391c7d49a38277c1d655c0c6fecbb48bc13"
+      "sha256": "31573a4bed88332b20caa2c9188708df93f4f88688db5f343fe9097ef0b25975"
     },
     {
       "bytes": 284,
       "name": "renou_coverage.csv",
       "rows": 2,
-      "sha256": "927afb6c5e9f99320ee2996235ae57d580fcedd21c51fed4a9e31f12922ee598"
+      "sha256": "d34ea8b5a067805e5515cd96e26b9348e42c074052e43ec36540c3117455837b"
     },
     {
       "bytes": 6394,
@@ -55,8 +55,8 @@
       "sha256": "1df6822ce30dcaace785bfbe597832b6dc1319521984bca475877d09810ff443"
     }
   ],
-  "generated_at": "2026-10-22T06:46:41Z",
-  "pipeline_commit": "4475213648b838a413ca391da45851cc55a6ad2c",
+  "generated_at": "2026-11-01T10:00:50Z",
+  "pipeline_commit": "a2ecff1d2ed0e41590e5c29ba36e3b34b8000d82",
   "schema_version": "1.0.0",
   "source_repository": "https://github.com/gasyoun/IndologyArchiveAtlas"
 }

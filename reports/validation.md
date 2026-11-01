@@ -2,12 +2,12 @@
 
 ## Coverage
 
-- Months harvested: 430
+- Months harvested: 431
 - First harvested month: 1990-11
-- Last harvested month: 2026-10
-- Messages parsed: 62,530
-- Cleaned message rows: 62,530
-- Threads reconstructed: 24,198
+- Last harvested month: 2026-11
+- Messages parsed: 62,531
+- Cleaned message rows: 62,531
+- Threads reconstructed: 24,199
 
 ## Count Checks
 
@@ -50,7 +50,7 @@
 | topic | messages |
 | --- | --- |
 | General scholarly discussion | 45832 |
-| Announcements and events | 2820 |
+| Announcements and events | 2821 |
 | Bibliographic requests | 2618 |
 | History and culture | 2604 |
 | Digital resources and tools | 2454 |
@@ -93,15 +93,15 @@
 
 ## Directed Reply Network
 
-- Directed reply rows: 43,028
-- Resolved directed replies: 37,358
+- Directed reply rows: 43,029
+- Resolved directed replies: 37,359
 
 | confidence | reply_rows |
 | --- | --- |
 | thread_inferred | 22914 |
 | exact_in_reply_to | 14328 |
 | unresolved | 5670 |
-| references_chain | 116 |
+| references_chain | 117 |
 
 ## Guided Atlas Layers
 
@@ -121,7 +121,7 @@
 | reply_confidence_year_counts.csv | 94 |
 | topic_decade_share.csv | 48 |
 | list_function_decade_share.csv | 44 |
-| thread_typology.csv | 24198 |
+| thread_typology.csv | 24199 |
 | case_score_components.csv | 250 |
 | review_queue_summary.csv | 6 |
 | author_participation_cohorts.csv | 15 |
@@ -132,7 +132,7 @@
 
 | table | rows | exists |
 | --- | --- | --- |
-| renou_messages.csv | 62530 | yes |
+| renou_messages.csv | 62531 | yes |
 | renou_message_matches.csv | 9209 | yes |
 | renou_thread_matches.csv | 3335 | yes |
 | renou_state_summary.csv | 591 | yes |
@@ -143,8 +143,8 @@
 
 | scope | total_rows | matched_rows | matched_percent | source_url |
 | --- | --- | --- | --- | --- |
-| messages | 62530 | 6270 | 10.03 | https://github.com/gasyoun/SanskritLexicography/blob/master/RussianTranslation/RENOU.md |
-| threads | 24198 | 3335 | 13.78 | https://github.com/gasyoun/SanskritLexicography/blob/master/RussianTranslation/RENOU.md |
+| messages | 62531 | 6270 | 10.03 | https://github.com/gasyoun/SanskritLexicography/blob/master/RussianTranslation/RENOU.md |
+| threads | 24199 | 3335 | 13.78 | https://github.com/gasyoun/SanskritLexicography/blob/master/RussianTranslation/RENOU.md |
 
 ## Thread Explorer
 
@@ -204,8 +204,8 @@
 | candidate | infrastructure_history | general discussion | 6 |
 | candidate | infrastructure_history | bibliographic rescue | 2 |
 | candidate | infrastructure_history | philological debate | 2 |
-| candidate | philological_substance | identification/help request | 15 |
-| candidate | philological_substance | general discussion | 12 |
+| candidate | philological_substance | identification/help request | 14 |
+| candidate | philological_substance | general discussion | 13 |
 | candidate | philological_substance | philological debate | 7 |
 | candidate | philological_substance | philological discussion | 2 |
 
@@ -213,7 +213,7 @@
 
 | table | rows | expected_network_type | type_ok | has_self_reply_flag |
 | --- | --- | --- | --- | --- |
-| named_reply_network_summary.csv | 24717 | direct_reply | True | True |
+| named_reply_network_summary.csv | 24718 | direct_reply | True | True |
 | named_coparticipation_network_summary.csv | 47354 | co_participation | True |  |
 
 ## Static Search And Browse
